@@ -1,0 +1,5 @@
+draft/
+/assignments_tests/
+.idea
+.ipynb_checkpoints/
+/lectures/04-essential_packages/data/temp_data.csv
