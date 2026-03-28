@@ -1,0 +1,2896 @@
+country,year,ai_paper_count
+Afghanistan,2017,1
+Afghanistan,2018,1
+Albania,2010,1
+Albania,2011,1
+Albania,2012,2
+Albania,2014,1
+Albania,2015,2
+Albania,2016,2
+Albania,2017,8
+Albania,2018,6
+Albania,2019,4
+Albania,2020,1
+Algeria,1997,1
+Algeria,2000,4
+Algeria,2001,3
+Algeria,2002,3
+Algeria,2003,4
+Algeria,2004,8
+Algeria,2005,14
+Algeria,2006,19
+Algeria,2007,22
+Algeria,2008,27
+Algeria,2009,30
+Algeria,2010,47
+Algeria,2011,48
+Algeria,2012,61
+Algeria,2013,62
+Algeria,2014,69
+Algeria,2015,85
+Algeria,2016,153
+Algeria,2017,182
+Algeria,2018,238
+Algeria,2019,260
+Algeria,2020,124
+Andorra,2010,1
+Angola,2004,1
+Angola,2012,1
+Angola,2013,1
+Angola,2017,1
+Angola,2018,1
+Argentina,1996,1
+Argentina,1998,2
+Argentina,1999,7
+Argentina,2000,7
+Argentina,2001,11
+Argentina,2002,14
+Argentina,2003,16
+Argentina,2004,17
+Argentina,2005,18
+Argentina,2006,15
+Argentina,2007,25
+Argentina,2008,30
+Argentina,2009,33
+Argentina,2010,39
+Argentina,2011,42
+Argentina,2012,32
+Argentina,2013,47
+Argentina,2014,49
+Argentina,2015,43
+Argentina,2016,64
+Argentina,2017,71
+Argentina,2018,107
+Argentina,2019,142
+Argentina,2020,56
+Armenia,2008,2
+Armenia,2011,1
+Armenia,2013,2
+Armenia,2014,2
+Armenia,2015,1
+Armenia,2016,3
+Armenia,2017,2
+Armenia,2018,2
+Armenia,2019,9
+Armenia,2020,3
+Australia,1983,2
+Australia,1987,1
+Australia,1988,1
+Australia,1989,2
+Australia,1990,1
+Australia,1991,4
+Australia,1992,10
+Australia,1993,7
+Australia,1994,18
+Australia,1995,13
+Australia,1996,20
+Australia,1997,32
+Australia,1998,54
+Australia,1999,67
+Australia,2000,70
+Australia,2001,85
+Australia,2002,83
+Australia,2003,99
+Australia,2004,106
+Australia,2005,134
+Australia,2006,156
+Australia,2007,165
+Australia,2008,200
+Australia,2009,225
+Australia,2010,236
+Australia,2011,300
+Australia,2012,349
+Australia,2013,415
+Australia,2014,521
+Australia,2015,671
+Australia,2016,779
+Australia,2017,914
+Australia,2018,1413
+Australia,2019,2069
+Australia,2020,1045
+Austria,1990,1
+Austria,1991,3
+Austria,1992,4
+Austria,1993,5
+Austria,1994,11
+Austria,1995,3
+Austria,1996,5
+Austria,1997,5
+Austria,1998,5
+Austria,1999,17
+Austria,2000,22
+Austria,2001,30
+Austria,2002,27
+Austria,2003,33
+Austria,2004,29
+Austria,2005,36
+Austria,2006,34
+Austria,2007,38
+Austria,2008,56
+Austria,2009,55
+Austria,2010,55
+Austria,2011,53
+Austria,2012,52
+Austria,2013,69
+Austria,2014,87
+Austria,2015,124
+Austria,2016,118
+Austria,2017,169
+Austria,2018,252
+Austria,2019,386
+Austria,2020,189
+Azerbaijan,2000,1
+Azerbaijan,2001,1
+Azerbaijan,2007,1
+Azerbaijan,2008,2
+Azerbaijan,2009,2
+Azerbaijan,2010,1
+Azerbaijan,2011,1
+Azerbaijan,2012,1
+Azerbaijan,2014,1
+Azerbaijan,2015,1
+Azerbaijan,2016,6
+Azerbaijan,2017,6
+Azerbaijan,2018,5
+Azerbaijan,2019,11
+Azerbaijan,2020,5
+Bahamas,2017,1
+Bahamas,2018,1
+Bahamas,2019,1
+Bahrain,1997,1
+Bahrain,1999,1
+Bahrain,2000,1
+Bahrain,2001,5
+Bahrain,2003,2
+Bahrain,2004,1
+Bahrain,2005,3
+Bahrain,2006,2
+Bahrain,2007,4
+Bahrain,2009,1
+Bahrain,2010,3
+Bahrain,2011,3
+Bahrain,2012,1
+Bahrain,2013,4
+Bahrain,2014,1
+Bahrain,2015,2
+Bahrain,2016,4
+Bahrain,2017,8
+Bahrain,2018,8
+Bahrain,2019,12
+Bahrain,2020,5
+Bangladesh,1998,1
+Bangladesh,2000,1
+Bangladesh,2001,1
+Bangladesh,2002,3
+Bangladesh,2004,2
+Bangladesh,2006,1
+Bangladesh,2007,1
+Bangladesh,2008,6
+Bangladesh,2009,8
+Bangladesh,2010,4
+Bangladesh,2011,12
+Bangladesh,2012,9
+Bangladesh,2013,13
+Bangladesh,2014,21
+Bangladesh,2015,19
+Bangladesh,2016,43
+Bangladesh,2017,49
+Bangladesh,2018,63
+Bangladesh,2019,117
+Bangladesh,2020,62
+Barbados,2002,1
+Barbados,2008,1
+Barbados,2013,2
+Barbados,2015,2
+Barbados,2016,1
+Barbados,2019,1
+Belarus,2000,2
+Belarus,2001,1
+Belarus,2002,1
+Belarus,2004,1
+Belarus,2005,2
+Belarus,2006,1
+Belarus,2008,1
+Belarus,2009,1
+Belarus,2010,1
+Belarus,2011,2
+Belarus,2012,2
+Belarus,2013,2
+Belarus,2014,5
+Belarus,2015,1
+Belarus,2016,5
+Belarus,2017,7
+Belarus,2018,9
+Belarus,2019,14
+Belarus,2020,5
+Belgium,1976,1
+Belgium,1987,2
+Belgium,1990,1
+Belgium,1991,1
+Belgium,1992,2
+Belgium,1993,2
+Belgium,1994,7
+Belgium,1995,6
+Belgium,1996,9
+Belgium,1997,12
+Belgium,1998,16
+Belgium,1999,22
+Belgium,2000,49
+Belgium,2001,38
+Belgium,2002,40
+Belgium,2003,44
+Belgium,2004,68
+Belgium,2005,54
+Belgium,2006,59
+Belgium,2007,78
+Belgium,2008,87
+Belgium,2009,100
+Belgium,2010,116
+Belgium,2011,155
+Belgium,2012,119
+Belgium,2013,155
+Belgium,2014,195
+Belgium,2015,206
+Belgium,2016,224
+Belgium,2017,261
+Belgium,2018,392
+Belgium,2019,507
+Belgium,2020,241
+Belize,2012,1
+Belize,2019,1
+Belize,2020,1
+Benin,2005,1
+Benin,2010,2
+Benin,2013,1
+Benin,2015,1
+Benin,2016,1
+Benin,2017,1
+Benin,2018,1
+Benin,2019,2
+Benin,2020,1
+Bhutan,2006,1
+Bhutan,2012,1
+Bhutan,2015,1
+Bhutan,2017,1
+Bhutan,2019,1
+Bhutan,2020,1
+Bolivia,1997,1
+Bolivia,2008,1
+Bolivia,2013,2
+Bolivia,2015,2
+Bolivia,2016,3
+Bolivia,2017,1
+Bolivia,2018,2
+Bolivia,2020,1
+Bosnia & Herceg,1999,1
+Bosnia & Herceg,2005,1
+Bosnia & Herceg,2006,1
+Bosnia & Herceg,2007,1
+Bosnia & Herceg,2010,5
+Bosnia & Herceg,2011,7
+Bosnia & Herceg,2012,6
+Bosnia & Herceg,2013,7
+Bosnia & Herceg,2014,6
+Bosnia & Herceg,2015,12
+Bosnia & Herceg,2016,8
+Bosnia & Herceg,2017,15
+Bosnia & Herceg,2018,22
+Bosnia & Herceg,2019,26
+Bosnia & Herceg,2020,13
+Botswana,2005,1
+Botswana,2006,2
+Botswana,2007,1
+Botswana,2009,1
+Botswana,2012,1
+Botswana,2013,2
+Botswana,2014,3
+Botswana,2015,3
+Botswana,2016,3
+Botswana,2017,3
+Botswana,2018,11
+Botswana,2019,9
+Botswana,2020,3
+Brazil,1986,2
+Brazil,1989,1
+Brazil,1991,1
+Brazil,1992,5
+Brazil,1993,4
+Brazil,1994,5
+Brazil,1995,9
+Brazil,1996,4
+Brazil,1997,12
+Brazil,1998,18
+Brazil,1999,35
+Brazil,2000,53
+Brazil,2001,63
+Brazil,2002,61
+Brazil,2003,67
+Brazil,2004,89
+Brazil,2005,97
+Brazil,2006,122
+Brazil,2007,144
+Brazil,2008,187
+Brazil,2009,190
+Brazil,2010,216
+Brazil,2011,235
+Brazil,2012,222
+Brazil,2013,284
+Brazil,2014,334
+Brazil,2015,426
+Brazil,2016,556
+Brazil,2017,611
+Brazil,2018,858
+Brazil,2019,1099
+Brazil,2020,554
+Brunei,2006,1
+Brunei,2008,2
+Brunei,2014,3
+Brunei,2015,6
+Brunei,2016,2
+Brunei,2017,7
+Brunei,2018,13
+Brunei,2019,12
+Brunei,2020,8
+Bulgaria,1993,1
+Bulgaria,1994,4
+Bulgaria,1995,1
+Bulgaria,1997,1
+Bulgaria,1998,2
+Bulgaria,1999,8
+Bulgaria,2000,3
+Bulgaria,2001,4
+Bulgaria,2002,2
+Bulgaria,2003,4
+Bulgaria,2004,4
+Bulgaria,2005,5
+Bulgaria,2006,6
+Bulgaria,2007,4
+Bulgaria,2008,8
+Bulgaria,2009,4
+Bulgaria,2010,8
+Bulgaria,2011,7
+Bulgaria,2012,16
+Bulgaria,2013,16
+Bulgaria,2014,14
+Bulgaria,2015,14
+Bulgaria,2016,23
+Bulgaria,2017,24
+Bulgaria,2018,32
+Bulgaria,2019,36
+Bulgaria,2020,13
+Burkina Faso,2011,1
+Burkina Faso,2012,1
+Burkina Faso,2013,2
+Burkina Faso,2014,3
+Burkina Faso,2015,3
+Burkina Faso,2016,1
+Burkina Faso,2017,4
+Burkina Faso,2018,9
+Burkina Faso,2019,6
+Burkina Faso,2020,2
+Burundi,2015,1
+Burundi,2017,2
+Burundi,2019,3
+Cambodia,2007,1
+Cambodia,2014,1
+Cambodia,2015,2
+Cambodia,2017,3
+Cambodia,2018,1
+Cambodia,2019,2
+Cambodia,2020,2
+Cameroon,1999,1
+Cameroon,2000,1
+Cameroon,2002,1
+Cameroon,2003,2
+Cameroon,2007,1
+Cameroon,2008,1
+Cameroon,2011,1
+Cameroon,2012,1
+Cameroon,2013,2
+Cameroon,2014,3
+Cameroon,2015,2
+Cameroon,2016,5
+Cameroon,2017,5
+Cameroon,2018,11
+Cameroon,2019,13
+Cameroon,2020,8
+Canada,1968,1
+Canada,1974,1
+Canada,1975,1
+Canada,1977,1
+Canada,1984,3
+Canada,1985,1
+Canada,1986,1
+Canada,1988,2
+Canada,1989,3
+Canada,1990,2
+Canada,1991,14
+Canada,1992,20
+Canada,1993,23
+Canada,1994,26
+Canada,1995,32
+Canada,1996,28
+Canada,1997,40
+Canada,1998,80
+Canada,1999,90
+Canada,2000,133
+Canada,2001,144
+Canada,2002,160
+Canada,2003,173
+Canada,2004,211
+Canada,2005,253
+Canada,2006,318
+Canada,2007,329
+Canada,2008,354
+Canada,2009,374
+Canada,2010,428
+Canada,2011,437
+Canada,2012,494
+Canada,2013,478
+Canada,2014,533
+Canada,2015,686
+Canada,2016,837
+Canada,2017,1040
+Canada,2018,1533
+Canada,2019,2241
+Canada,2020,1127
+Cent Afr Republ,2017,1
+Chad,2016,1
+Chad,2019,1
+Chile,1993,1
+Chile,1994,1
+Chile,1995,2
+Chile,1996,1
+Chile,1998,3
+Chile,1999,3
+Chile,2000,4
+Chile,2001,4
+Chile,2002,9
+Chile,2003,16
+Chile,2004,11
+Chile,2005,12
+Chile,2006,21
+Chile,2007,27
+Chile,2008,25
+Chile,2009,38
+Chile,2010,33
+Chile,2011,43
+Chile,2012,54
+Chile,2013,46
+Chile,2014,68
+Chile,2015,77
+Chile,2016,101
+Chile,2017,106
+Chile,2018,168
+Chile,2019,198
+Chile,2020,102
+Colombia,1999,2
+Colombia,2000,2
+Colombia,2001,7
+Colombia,2002,6
+Colombia,2003,2
+Colombia,2004,5
+Colombia,2005,5
+Colombia,2006,3
+Colombia,2007,11
+Colombia,2008,16
+Colombia,2009,29
+Colombia,2010,24
+Colombia,2011,35
+Colombia,2012,30
+Colombia,2013,37
+Colombia,2014,39
+Colombia,2015,65
+Colombia,2016,85
+Colombia,2017,108
+Colombia,2018,122
+Colombia,2019,174
+Colombia,2020,88
+Comoros,2017,1
+Costa Rica,1998,1
+Costa Rica,2000,2
+Costa Rica,2007,1
+Costa Rica,2008,1
+Costa Rica,2010,5
+Costa Rica,2011,2
+Costa Rica,2012,1
+Costa Rica,2013,2
+Costa Rica,2014,1
+Costa Rica,2016,10
+Costa Rica,2017,10
+Costa Rica,2018,12
+Costa Rica,2019,17
+Costa Rica,2020,18
+Cote Ivoire,2001,1
+Cote Ivoire,2008,1
+Cote Ivoire,2010,2
+Cote Ivoire,2011,1
+Cote Ivoire,2012,1
+Cote Ivoire,2013,2
+Cote Ivoire,2015,1
+Cote Ivoire,2016,1
+Cote Ivoire,2017,4
+Cote Ivoire,2018,2
+Cote Ivoire,2019,7
+Cote Ivoire,2020,6
+Croatia,1995,1
+Croatia,1996,1
+Croatia,1998,2
+Croatia,1999,4
+Croatia,2000,8
+Croatia,2001,4
+Croatia,2002,8
+Croatia,2003,11
+Croatia,2004,7
+Croatia,2005,14
+Croatia,2006,11
+Croatia,2007,13
+Croatia,2008,21
+Croatia,2009,29
+Croatia,2010,37
+Croatia,2011,32
+Croatia,2012,36
+Croatia,2013,32
+Croatia,2014,26
+Croatia,2015,50
+Croatia,2016,42
+Croatia,2017,37
+Croatia,2018,80
+Croatia,2019,99
+Croatia,2020,38
+Cuba,1995,1
+Cuba,1999,2
+Cuba,2001,2
+Cuba,2003,1
+Cuba,2004,4
+Cuba,2005,9
+Cuba,2006,18
+Cuba,2007,18
+Cuba,2008,21
+Cuba,2009,17
+Cuba,2010,5
+Cuba,2011,17
+Cuba,2012,10
+Cuba,2013,15
+Cuba,2014,20
+Cuba,2015,26
+Cuba,2016,30
+Cuba,2017,37
+Cuba,2018,35
+Cuba,2019,34
+Cuba,2020,6
+Cyprus,1990,2
+Cyprus,1995,1
+Cyprus,1997,1
+Cyprus,1998,3
+Cyprus,1999,5
+Cyprus,2000,7
+Cyprus,2001,4
+Cyprus,2002,1
+Cyprus,2003,3
+Cyprus,2004,3
+Cyprus,2005,7
+Cyprus,2006,8
+Cyprus,2007,11
+Cyprus,2008,10
+Cyprus,2009,16
+Cyprus,2010,19
+Cyprus,2011,22
+Cyprus,2012,23
+Cyprus,2013,19
+Cyprus,2014,13
+Cyprus,2015,21
+Cyprus,2016,26
+Cyprus,2017,33
+Cyprus,2018,31
+Cyprus,2019,55
+Cyprus,2020,29
+Czech Republic,1994,4
+Czech Republic,1995,1
+Czech Republic,1996,2
+Czech Republic,1997,2
+Czech Republic,1998,4
+Czech Republic,1999,12
+Czech Republic,2000,19
+Czech Republic,2001,11
+Czech Republic,2002,18
+Czech Republic,2003,15
+Czech Republic,2004,18
+Czech Republic,2005,32
+Czech Republic,2006,22
+Czech Republic,2007,25
+Czech Republic,2008,27
+Czech Republic,2009,36
+Czech Republic,2010,48
+Czech Republic,2011,44
+Czech Republic,2012,50
+Czech Republic,2013,62
+Czech Republic,2014,64
+Czech Republic,2015,83
+Czech Republic,2016,87
+Czech Republic,2017,136
+Czech Republic,2018,156
+Czech Republic,2019,210
+Czech Republic,2020,90
+Czechoslovakia,1976,1
+Czechoslovakia,1987,1
+Czechoslovakia,1991,2
+Czechoslovakia,1992,3
+Dem Rep Congo,2015,1
+Dem Rep Congo,2017,2
+Dem Rep Congo,2019,2
+Dem Rep Congo,2020,1
+Denmark,1982,1
+Denmark,1989,1
+Denmark,1991,1
+Denmark,1992,6
+Denmark,1993,1
+Denmark,1994,4
+Denmark,1995,6
+Denmark,1996,6
+Denmark,1997,4
+Denmark,1998,7
+Denmark,1999,18
+Denmark,2000,10
+Denmark,2001,23
+Denmark,2002,19
+Denmark,2003,20
+Denmark,2004,29
+Denmark,2005,21
+Denmark,2006,19
+Denmark,2007,28
+Denmark,2008,45
+Denmark,2009,37
+Denmark,2010,43
+Denmark,2011,45
+Denmark,2012,75
+Denmark,2013,85
+Denmark,2014,105
+Denmark,2015,97
+Denmark,2016,131
+Denmark,2017,172
+Denmark,2018,248
+Denmark,2019,409
+Denmark,2020,167
+Dominica,2001,1
+Dominican Rep,2008,1
+Dominican Rep,2018,1
+Dominican Rep,2019,1
+Dominican Rep,2020,1
+Ecuador,2005,1
+Ecuador,2006,1
+Ecuador,2009,1
+Ecuador,2011,2
+Ecuador,2012,2
+Ecuador,2013,3
+Ecuador,2014,4
+Ecuador,2015,23
+Ecuador,2016,38
+Ecuador,2017,47
+Ecuador,2018,49
+Ecuador,2019,73
+Ecuador,2020,34
+Egypt,1991,1
+Egypt,1994,2
+Egypt,1996,2
+Egypt,1997,2
+Egypt,1998,3
+Egypt,1999,9
+Egypt,2000,8
+Egypt,2001,13
+Egypt,2002,9
+Egypt,2003,12
+Egypt,2004,21
+Egypt,2005,23
+Egypt,2006,18
+Egypt,2007,16
+Egypt,2008,29
+Egypt,2009,44
+Egypt,2010,35
+Egypt,2011,63
+Egypt,2012,64
+Egypt,2013,84
+Egypt,2014,104
+Egypt,2015,155
+Egypt,2016,224
+Egypt,2017,224
+Egypt,2018,336
+Egypt,2019,490
+Egypt,2020,268
+El Salvador,2008,1
+El Salvador,2018,2
+El Salvador,2019,2
+El Salvador,2020,1
+Eritrea,2008,1
+Eritrea,2017,1
+Estonia,2000,1
+Estonia,2001,1
+Estonia,2003,2
+Estonia,2004,2
+Estonia,2005,4
+Estonia,2006,4
+Estonia,2007,4
+Estonia,2008,7
+Estonia,2009,10
+Estonia,2010,5
+Estonia,2011,2
+Estonia,2012,7
+Estonia,2013,6
+Estonia,2014,4
+Estonia,2015,10
+Estonia,2016,15
+Estonia,2017,29
+Estonia,2018,32
+Estonia,2019,65
+Estonia,2020,13
+Ethiopia,2006,1
+Ethiopia,2007,1
+Ethiopia,2008,1
+Ethiopia,2009,1
+Ethiopia,2011,2
+Ethiopia,2012,2
+Ethiopia,2013,1
+Ethiopia,2014,1
+Ethiopia,2015,4
+Ethiopia,2016,7
+Ethiopia,2017,10
+Ethiopia,2018,13
+Ethiopia,2019,32
+Ethiopia,2020,10
+Fed Rep Ger,1983,1
+Fed Rep Ger,1984,1
+Fed Rep Ger,1986,1
+Fed Rep Ger,1989,2
+Fiji,2001,3
+Fiji,2003,1
+Fiji,2005,2
+Fiji,2006,2
+Fiji,2007,1
+Fiji,2008,3
+Fiji,2009,1
+Fiji,2011,3
+Fiji,2013,6
+Fiji,2014,6
+Fiji,2015,8
+Fiji,2016,8
+Fiji,2017,5
+Fiji,2018,9
+Fiji,2019,13
+Fiji,2020,6
+Finland,1973,1
+Finland,1990,2
+Finland,1991,2
+Finland,1992,6
+Finland,1993,1
+Finland,1994,6
+Finland,1995,8
+Finland,1996,10
+Finland,1997,10
+Finland,1998,13
+Finland,1999,29
+Finland,2000,27
+Finland,2001,33
+Finland,2002,22
+Finland,2003,29
+Finland,2004,28
+Finland,2005,38
+Finland,2006,36
+Finland,2007,58
+Finland,2008,53
+Finland,2009,59
+Finland,2010,73
+Finland,2011,73
+Finland,2012,72
+Finland,2013,98
+Finland,2014,81
+Finland,2015,119
+Finland,2016,112
+Finland,2017,198
+Finland,2018,259
+Finland,2019,380
+Finland,2020,178
+France,1974,1
+France,1977,2
+France,1981,1
+France,1982,2
+France,1984,2
+France,1985,5
+France,1986,4
+France,1987,3
+France,1988,6
+France,1989,7
+France,1990,12
+France,1991,8
+France,1992,18
+France,1993,10
+France,1994,28
+France,1995,14
+France,1996,23
+France,1997,32
+France,1998,43
+France,1999,87
+France,2000,120
+France,2001,107
+France,2002,140
+France,2003,126
+France,2004,197
+France,2005,160
+France,2006,213
+France,2007,252
+France,2008,314
+France,2009,307
+France,2010,304
+France,2011,382
+France,2012,424
+France,2013,484
+France,2014,512
+France,2015,618
+France,2016,714
+France,2017,850
+France,2018,1152
+France,2019,1672
+France,2020,734
+Gabon,2012,1
+Gabon,2016,2
+Gabon,2017,1
+Gabon,2018,1
+Gabon,2019,1
+Gabon,2020,1
+Gambia,2009,1
+Gambia,2010,1
+Gambia,2015,1
+Gambia,2016,1
+Gambia,2017,1
+Gambia,2019,2
+Georgia,1999,1
+Georgia,2007,1
+Georgia,2012,1
+Georgia,2013,2
+Georgia,2014,2
+Georgia,2016,7
+Georgia,2017,24
+Georgia,2018,35
+Georgia,2019,45
+Georgia,2020,16
+Ger Dem Rep,1982,1
+Ger Dem Rep,1983,1
+Ger Dem Rep,1989,1
+Germany,1988,1
+Germany,1990,2
+Germany,1991,16
+Germany,1992,22
+Germany,1993,19
+Germany,1994,24
+Germany,1995,35
+Germany,1996,31
+Germany,1997,35
+Germany,1998,54
+Germany,1999,123
+Germany,2000,135
+Germany,2001,180
+Germany,2002,194
+Germany,2003,191
+Germany,2004,226
+Germany,2005,239
+Germany,2006,272
+Germany,2007,280
+Germany,2008,334
+Germany,2009,398
+Germany,2010,435
+Germany,2011,435
+Germany,2012,532
+Germany,2013,514
+Germany,2014,629
+Germany,2015,735
+Germany,2016,918
+Germany,2017,1109
+Germany,2018,1671
+Germany,2019,2530
+Germany,2020,1097
+Ghana,2007,1
+Ghana,2008,1
+Ghana,2009,1
+Ghana,2011,2
+Ghana,2013,1
+Ghana,2014,13
+Ghana,2015,7
+Ghana,2016,17
+Ghana,2017,10
+Ghana,2018,15
+Ghana,2019,36
+Ghana,2020,22
+Greece,1990,1
+Greece,1992,1
+Greece,1993,2
+Greece,1994,7
+Greece,1995,5
+Greece,1996,9
+Greece,1997,7
+Greece,1998,21
+Greece,1999,43
+Greece,2000,54
+Greece,2001,51
+Greece,2002,61
+Greece,2003,69
+Greece,2004,66
+Greece,2005,70
+Greece,2006,114
+Greece,2007,136
+Greece,2008,137
+Greece,2009,144
+Greece,2010,151
+Greece,2011,145
+Greece,2012,140
+Greece,2013,142
+Greece,2014,150
+Greece,2015,192
+Greece,2016,187
+Greece,2017,236
+Greece,2018,309
+Greece,2019,418
+Greece,2020,203
+Greenland,2010,1
+Grenada,2016,1
+Grenada,2017,3
+Grenada,2019,2
+Guatemala,2016,1
+Guatemala,2018,1
+Guatemala,2019,1
+Guinea,2015,1
+Guinea,2017,1
+Guinea,2019,1
+Guinea Bissau,2013,1
+Haiti,2018,2
+Honduras,2004,1
+Honduras,2017,1
+Honduras,2018,4
+Honduras,2019,4
+Honduras,2020,1
+Hungary,1975,1
+Hungary,1984,1
+Hungary,1986,2
+Hungary,1987,1
+Hungary,1990,2
+Hungary,1991,2
+Hungary,1992,1
+Hungary,1993,3
+Hungary,1994,1
+Hungary,1995,1
+Hungary,1996,2
+Hungary,1997,5
+Hungary,1998,4
+Hungary,1999,8
+Hungary,2000,13
+Hungary,2001,11
+Hungary,2002,11
+Hungary,2003,19
+Hungary,2004,15
+Hungary,2005,20
+Hungary,2006,26
+Hungary,2007,16
+Hungary,2008,27
+Hungary,2009,26
+Hungary,2010,25
+Hungary,2011,23
+Hungary,2012,31
+Hungary,2013,33
+Hungary,2014,30
+Hungary,2015,42
+Hungary,2016,50
+Hungary,2017,56
+Hungary,2018,114
+Hungary,2019,155
+Hungary,2020,73
+Iceland,1997,1
+Iceland,1998,1
+Iceland,1999,1
+Iceland,2000,1
+Iceland,2002,1
+Iceland,2003,3
+Iceland,2004,1
+Iceland,2005,2
+Iceland,2006,1
+Iceland,2007,3
+Iceland,2008,2
+Iceland,2009,8
+Iceland,2010,12
+Iceland,2011,5
+Iceland,2012,7
+Iceland,2013,10
+Iceland,2014,13
+Iceland,2015,19
+Iceland,2016,26
+Iceland,2017,23
+Iceland,2018,15
+Iceland,2019,29
+Iceland,2020,5
+India,1973,1
+India,1991,3
+India,1992,9
+India,1993,7
+India,1994,7
+India,1995,20
+India,1996,17
+India,1997,15
+India,1998,36
+India,1999,72
+India,2000,115
+India,2001,99
+India,2002,135
+India,2003,171
+India,2004,229
+India,2005,283
+India,2006,322
+India,2007,409
+India,2008,461
+India,2009,546
+India,2010,558
+India,2011,620
+India,2012,676
+India,2013,780
+India,2014,930
+India,2015,1324
+India,2016,1751
+India,2017,1904
+India,2018,2585
+India,2019,3488
+India,2020,1830
+Indonesia,1990,1
+Indonesia,1997,1
+Indonesia,2001,3
+Indonesia,2002,1
+Indonesia,2003,2
+Indonesia,2004,4
+Indonesia,2005,2
+Indonesia,2006,3
+Indonesia,2007,2
+Indonesia,2008,4
+Indonesia,2009,10
+Indonesia,2010,6
+Indonesia,2011,10
+Indonesia,2012,14
+Indonesia,2013,11
+Indonesia,2014,19
+Indonesia,2015,40
+Indonesia,2016,56
+Indonesia,2017,83
+Indonesia,2018,112
+Indonesia,2019,164
+Indonesia,2020,77
+Iran,1993,1
+Iran,1996,1
+Iran,1998,6
+Iran,1999,9
+Iran,2000,18
+Iran,2001,22
+Iran,2002,33
+Iran,2003,40
+Iran,2004,62
+Iran,2005,93
+Iran,2006,127
+Iran,2007,245
+Iran,2008,332
+Iran,2009,522
+Iran,2010,643
+Iran,2011,861
+Iran,2012,1011
+Iran,2013,1198
+Iran,2014,1240
+Iran,2015,1470
+Iran,2016,1731
+Iran,2017,1929
+Iran,2018,2029
+Iran,2019,2414
+Iran,2020,1218
+Iraq,2001,1
+Iraq,2003,1
+Iraq,2007,1
+Iraq,2008,4
+Iraq,2009,4
+Iraq,2010,3
+Iraq,2011,4
+Iraq,2012,6
+Iraq,2013,12
+Iraq,2014,26
+Iraq,2015,38
+Iraq,2016,47
+Iraq,2017,69
+Iraq,2018,128
+Iraq,2019,186
+Iraq,2020,115
+Ireland,1992,1
+Ireland,1994,1
+Ireland,1995,1
+Ireland,1996,2
+Ireland,1997,1
+Ireland,1998,2
+Ireland,1999,7
+Ireland,2000,7
+Ireland,2001,12
+Ireland,2002,13
+Ireland,2003,8
+Ireland,2004,22
+Ireland,2005,39
+Ireland,2006,34
+Ireland,2007,30
+Ireland,2008,25
+Ireland,2009,40
+Ireland,2010,44
+Ireland,2011,49
+Ireland,2012,53
+Ireland,2013,68
+Ireland,2014,71
+Ireland,2015,83
+Ireland,2016,82
+Ireland,2017,115
+Ireland,2018,165
+Ireland,2019,237
+Ireland,2020,128
+Israel,1986,1
+Israel,1987,1
+Israel,1992,5
+Israel,1993,7
+Israel,1994,5
+Israel,1995,4
+Israel,1996,10
+Israel,1997,7
+Israel,1998,11
+Israel,1999,27
+Israel,2000,43
+Israel,2001,34
+Israel,2002,47
+Israel,2003,38
+Israel,2004,43
+Israel,2005,56
+Israel,2006,60
+Israel,2007,70
+Israel,2008,75
+Israel,2009,60
+Israel,2010,74
+Israel,2011,76
+Israel,2012,98
+Israel,2013,82
+Israel,2014,98
+Israel,2015,106
+Israel,2016,137
+Israel,2017,156
+Israel,2018,220
+Israel,2019,315
+Israel,2020,152
+Italy,1973,1
+Italy,1982,1
+Italy,1985,2
+Italy,1987,5
+Italy,1988,4
+Italy,1989,1
+Italy,1990,1
+Italy,1991,9
+Italy,1992,10
+Italy,1993,20
+Italy,1994,13
+Italy,1995,20
+Italy,1996,22
+Italy,1997,36
+Italy,1998,75
+Italy,1999,95
+Italy,2000,133
+Italy,2001,135
+Italy,2002,152
+Italy,2003,187
+Italy,2004,221
+Italy,2005,202
+Italy,2006,275
+Italy,2007,334
+Italy,2008,337
+Italy,2009,341
+Italy,2010,310
+Italy,2011,351
+Italy,2012,396
+Italy,2013,458
+Italy,2014,509
+Italy,2015,612
+Italy,2016,735
+Italy,2017,875
+Italy,2018,1172
+Italy,2019,1620
+Italy,2020,820
+Jamaica,2000,1
+Jamaica,2001,1
+Jamaica,2006,1
+Jamaica,2009,1
+Jamaica,2014,2
+Jamaica,2015,1
+Jamaica,2016,3
+Jamaica,2018,3
+Jamaica,2019,5
+Jamaica,2020,3
+Japan,1978,1
+Japan,1984,1
+Japan,1986,1
+Japan,1987,3
+Japan,1988,2
+Japan,1989,3
+Japan,1990,3
+Japan,1991,6
+Japan,1992,21
+Japan,1993,16
+Japan,1994,27
+Japan,1995,19
+Japan,1996,23
+Japan,1997,29
+Japan,1998,49
+Japan,1999,148
+Japan,2000,178
+Japan,2001,181
+Japan,2002,197
+Japan,2003,219
+Japan,2004,228
+Japan,2005,261
+Japan,2006,273
+Japan,2007,326
+Japan,2008,307
+Japan,2009,336
+Japan,2010,308
+Japan,2011,351
+Japan,2012,321
+Japan,2013,331
+Japan,2014,376
+Japan,2015,442
+Japan,2016,564
+Japan,2017,785
+Japan,2018,1214
+Japan,2019,1730
+Japan,2020,813
+Jordan,1996,1
+Jordan,1998,3
+Jordan,1999,2
+Jordan,2000,1
+Jordan,2001,6
+Jordan,2002,2
+Jordan,2003,4
+Jordan,2004,8
+Jordan,2005,17
+Jordan,2006,10
+Jordan,2007,13
+Jordan,2008,21
+Jordan,2009,13
+Jordan,2010,18
+Jordan,2011,32
+Jordan,2012,24
+Jordan,2013,24
+Jordan,2014,34
+Jordan,2015,43
+Jordan,2016,74
+Jordan,2017,62
+Jordan,2018,115
+Jordan,2019,141
+Jordan,2020,89
+Kazakhstan,2001,1
+Kazakhstan,2004,2
+Kazakhstan,2008,3
+Kazakhstan,2009,1
+Kazakhstan,2010,1
+Kazakhstan,2011,1
+Kazakhstan,2013,3
+Kazakhstan,2014,2
+Kazakhstan,2015,6
+Kazakhstan,2016,12
+Kazakhstan,2017,15
+Kazakhstan,2018,24
+Kazakhstan,2019,43
+Kazakhstan,2020,20
+Kenya,1994,1
+Kenya,2006,2
+Kenya,2007,1
+Kenya,2008,1
+Kenya,2009,3
+Kenya,2010,6
+Kenya,2011,2
+Kenya,2012,9
+Kenya,2013,2
+Kenya,2014,3
+Kenya,2015,6
+Kenya,2016,13
+Kenya,2017,24
+Kenya,2018,19
+Kenya,2019,34
+Kenya,2020,18
+Kosovo,2017,2
+Kosovo,2018,3
+Kosovo,2019,4
+Kuwait,1996,2
+Kuwait,1997,5
+Kuwait,1998,7
+Kuwait,1999,12
+Kuwait,2000,12
+Kuwait,2001,5
+Kuwait,2002,8
+Kuwait,2003,10
+Kuwait,2004,7
+Kuwait,2005,6
+Kuwait,2006,7
+Kuwait,2007,14
+Kuwait,2008,8
+Kuwait,2009,11
+Kuwait,2010,10
+Kuwait,2011,13
+Kuwait,2012,9
+Kuwait,2013,16
+Kuwait,2014,14
+Kuwait,2015,15
+Kuwait,2016,25
+Kuwait,2017,13
+Kuwait,2018,19
+Kuwait,2019,47
+Kuwait,2020,26
+Kyrgyzstan,2011,1
+Kyrgyzstan,2016,1
+Kyrgyzstan,2018,1
+Kyrgyzstan,2020,1
+Laos,2014,1
+Laos,2016,1
+Laos,2017,1
+Laos,2019,2
+Latvia,1997,2
+Latvia,1999,1
+Latvia,2000,1
+Latvia,2001,1
+Latvia,2002,1
+Latvia,2003,1
+Latvia,2007,2
+Latvia,2008,2
+Latvia,2010,1
+Latvia,2011,2
+Latvia,2012,2
+Latvia,2013,7
+Latvia,2014,2
+Latvia,2015,2
+Latvia,2016,8
+Latvia,2017,7
+Latvia,2018,16
+Latvia,2019,18
+Latvia,2020,10
+Lebanon,1999,2
+Lebanon,2001,1
+Lebanon,2002,2
+Lebanon,2003,5
+Lebanon,2004,4
+Lebanon,2005,7
+Lebanon,2006,6
+Lebanon,2007,9
+Lebanon,2008,6
+Lebanon,2009,14
+Lebanon,2010,6
+Lebanon,2011,13
+Lebanon,2012,9
+Lebanon,2013,12
+Lebanon,2014,22
+Lebanon,2015,23
+Lebanon,2016,25
+Lebanon,2017,25
+Lebanon,2018,38
+Lebanon,2019,56
+Lebanon,2020,28
+Lesotho,2017,1
+Lesotho,2019,2
+Liberia,2019,1
+Libya,2005,2
+Libya,2006,1
+Libya,2008,1
+Libya,2010,1
+Libya,2012,3
+Libya,2013,1
+Libya,2014,5
+Libya,2015,4
+Libya,2016,4
+Libya,2017,4
+Libya,2018,7
+Libya,2019,13
+Libya,2020,6
+Liechtenstein,2016,2
+Liechtenstein,2017,1
+Liechtenstein,2018,2
+Liechtenstein,2019,2
+Lithuania,1998,2
+Lithuania,1999,2
+Lithuania,2000,7
+Lithuania,2001,4
+Lithuania,2002,5
+Lithuania,2003,5
+Lithuania,2004,10
+Lithuania,2005,8
+Lithuania,2006,8
+Lithuania,2007,18
+Lithuania,2008,22
+Lithuania,2009,15
+Lithuania,2010,22
+Lithuania,2011,21
+Lithuania,2012,27
+Lithuania,2013,23
+Lithuania,2014,18
+Lithuania,2015,31
+Lithuania,2016,18
+Lithuania,2017,36
+Lithuania,2018,44
+Lithuania,2019,72
+Lithuania,2020,18
+Luxembourg,2002,1
+Luxembourg,2004,2
+Luxembourg,2005,1
+Luxembourg,2007,3
+Luxembourg,2008,3
+Luxembourg,2009,5
+Luxembourg,2010,5
+Luxembourg,2011,3
+Luxembourg,2012,15
+Luxembourg,2013,14
+Luxembourg,2014,8
+Luxembourg,2015,25
+Luxembourg,2016,18
+Luxembourg,2017,18
+Luxembourg,2018,41
+Luxembourg,2019,49
+Luxembourg,2020,19
+Macedonia,1997,1
+Macedonia,2000,1
+Macedonia,2001,2
+Macedonia,2003,2
+Macedonia,2004,2
+Macedonia,2005,2
+Macedonia,2006,1
+Macedonia,2007,4
+Macedonia,2008,3
+Macedonia,2009,1
+Macedonia,2010,6
+Macedonia,2011,3
+Macedonia,2012,8
+Macedonia,2014,9
+Macedonia,2015,6
+Macedonia,2016,9
+Macedonia,2017,13
+Macedonia,2018,16
+Macedonia,2019,13
+Madagascar,2004,1
+Madagascar,2013,1
+Madagascar,2014,1
+Madagascar,2015,1
+Madagascar,2017,5
+Madagascar,2018,3
+Madagascar,2019,4
+Madagascar,2020,1
+Malawi,2009,1
+Malawi,2010,1
+Malawi,2015,2
+Malawi,2016,1
+Malawi,2017,2
+Malawi,2018,3
+Malawi,2019,5
+Malawi,2020,2
+Malaysia,1998,3
+Malaysia,1999,4
+Malaysia,2000,9
+Malaysia,2001,15
+Malaysia,2002,12
+Malaysia,2003,19
+Malaysia,2004,18
+Malaysia,2005,27
+Malaysia,2006,31
+Malaysia,2007,34
+Malaysia,2008,45
+Malaysia,2009,51
+Malaysia,2010,92
+Malaysia,2011,157
+Malaysia,2012,212
+Malaysia,2013,251
+Malaysia,2014,350
+Malaysia,2015,447
+Malaysia,2016,470
+Malaysia,2017,514
+Malaysia,2018,555
+Malaysia,2019,769
+Malaysia,2020,296
+Maldives,2017,1
+Maldives,2019,1
+Mali,1994,1
+Mali,2010,1
+Mali,2012,1
+Mali,2016,1
+Mali,2017,2
+Mali,2018,4
+Mali,2019,4
+Mali,2020,2
+Malta,1994,1
+Malta,2008,1
+Malta,2009,2
+Malta,2010,1
+Malta,2012,2
+Malta,2013,4
+Malta,2014,1
+Malta,2015,5
+Malta,2016,4
+Malta,2017,7
+Malta,2018,13
+Malta,2019,12
+Malta,2020,11
+Mauritania,2010,1
+Mauritania,2015,1
+Mauritania,2019,2
+Mauritius,2005,1
+Mauritius,2011,1
+Mauritius,2015,3
+Mauritius,2016,1
+Mauritius,2017,3
+Mauritius,2018,5
+Mauritius,2019,8
+Mauritius,2020,4
+Mexico,1992,2
+Mexico,1994,3
+Mexico,1995,2
+Mexico,1996,4
+Mexico,1997,2
+Mexico,1998,15
+Mexico,1999,13
+Mexico,2000,18
+Mexico,2001,22
+Mexico,2002,26
+Mexico,2003,30
+Mexico,2004,41
+Mexico,2005,41
+Mexico,2006,39
+Mexico,2007,59
+Mexico,2008,64
+Mexico,2009,86
+Mexico,2010,71
+Mexico,2011,98
+Mexico,2012,122
+Mexico,2013,131
+Mexico,2014,145
+Mexico,2015,197
+Mexico,2016,203
+Mexico,2017,265
+Mexico,2018,324
+Mexico,2019,428
+Mexico,2020,216
+Moldova,2007,1
+Moldova,2009,1
+Moldova,2010,1
+Moldova,2011,1
+Moldova,2012,1
+Moldova,2013,1
+Moldova,2015,1
+Moldova,2016,4
+Moldova,2017,1
+Moldova,2019,1
+Moldova,2020,1
+Monaco,2018,1
+Monaco,2019,1
+Monaco,2020,1
+Mongolia,2001,1
+Mongolia,2011,1
+Mongolia,2012,1
+Mongolia,2014,1
+Mongolia,2015,1
+Mongolia,2016,2
+Mongolia,2017,5
+Mongolia,2018,4
+Mongolia,2019,11
+Mongolia,2020,1
+Montenegro,2006,1
+Montenegro,2010,2
+Montenegro,2011,1
+Montenegro,2012,4
+Montenegro,2013,2
+Montenegro,2014,5
+Montenegro,2015,1
+Montenegro,2016,3
+Montenegro,2017,4
+Montenegro,2018,10
+Montenegro,2019,6
+Montenegro,2020,3
+Morocco,1998,1
+Morocco,1999,4
+Morocco,2000,3
+Morocco,2001,3
+Morocco,2002,3
+Morocco,2003,3
+Morocco,2004,6
+Morocco,2005,3
+Morocco,2006,6
+Morocco,2007,5
+Morocco,2008,8
+Morocco,2009,6
+Morocco,2010,7
+Morocco,2011,10
+Morocco,2012,12
+Morocco,2013,8
+Morocco,2014,19
+Morocco,2015,32
+Morocco,2016,61
+Morocco,2017,93
+Morocco,2018,104
+Morocco,2019,159
+Morocco,2020,69
+Mozambique,2016,1
+Mozambique,2017,4
+Mozambique,2018,3
+Mozambique,2019,3
+Mozambique,2020,2
+Myanmar,2008,1
+Myanmar,2011,1
+Myanmar,2012,1
+Myanmar,2016,1
+Myanmar,2017,4
+Myanmar,2018,4
+Myanmar,2020,5
+Namibia,2004,1
+Namibia,2009,1
+Namibia,2011,3
+Namibia,2014,1
+Namibia,2016,3
+Namibia,2017,2
+Namibia,2018,4
+Namibia,2019,2
+Namibia,2020,1
+Nepal,2003,1
+Nepal,2006,2
+Nepal,2008,2
+Nepal,2009,1
+Nepal,2013,4
+Nepal,2014,3
+Nepal,2015,3
+Nepal,2016,1
+Nepal,2017,1
+Nepal,2018,8
+Nepal,2019,16
+Nepal,2020,5
+Neth Antilles,2015,1
+Neth Antilles,2016,1
+Neth Antilles,2019,1
+Netherlands,1985,2
+Netherlands,1989,2
+Netherlands,1990,3
+Netherlands,1991,3
+Netherlands,1992,11
+Netherlands,1993,11
+Netherlands,1994,12
+Netherlands,1995,9
+Netherlands,1996,13
+Netherlands,1997,19
+Netherlands,1998,21
+Netherlands,1999,45
+Netherlands,2000,52
+Netherlands,2001,46
+Netherlands,2002,50
+Netherlands,2003,59
+Netherlands,2004,58
+Netherlands,2005,71
+Netherlands,2006,78
+Netherlands,2007,97
+Netherlands,2008,109
+Netherlands,2009,125
+Netherlands,2010,122
+Netherlands,2011,143
+Netherlands,2012,148
+Netherlands,2013,175
+Netherlands,2014,213
+Netherlands,2015,236
+Netherlands,2016,340
+Netherlands,2017,410
+Netherlands,2018,650
+Netherlands,2019,1040
+Netherlands,2020,449
+New Caledonia,2007,2
+New Caledonia,2012,1
+New Caledonia,2013,2
+New Caledonia,2015,4
+New Caledonia,2016,1
+New Caledonia,2018,2
+New Caledonia,2020,2
+New Zealand,1992,1
+New Zealand,1995,2
+New Zealand,1996,4
+New Zealand,1997,4
+New Zealand,1998,6
+New Zealand,1999,18
+New Zealand,2000,15
+New Zealand,2001,22
+New Zealand,2002,17
+New Zealand,2003,18
+New Zealand,2004,15
+New Zealand,2005,25
+New Zealand,2006,28
+New Zealand,2007,23
+New Zealand,2008,30
+New Zealand,2009,22
+New Zealand,2010,30
+New Zealand,2011,41
+New Zealand,2012,49
+New Zealand,2013,50
+New Zealand,2014,59
+New Zealand,2015,66
+New Zealand,2016,85
+New Zealand,2017,117
+New Zealand,2018,166
+New Zealand,2019,219
+New Zealand,2020,131
+Nicaragua,2015,2
+Nicaragua,2016,1
+Nicaragua,2018,1
+Nicaragua,2019,4
+Nicaragua,2020,1
+Niger,2013,1
+Niger,2014,1
+Niger,2015,1
+Niger,2016,1
+Niger,2017,2
+Niger,2018,2
+Niger,2019,1
+Nigeria,1999,1
+Nigeria,2004,2
+Nigeria,2005,1
+Nigeria,2007,4
+Nigeria,2008,4
+Nigeria,2009,6
+Nigeria,2010,3
+Nigeria,2011,3
+Nigeria,2012,4
+Nigeria,2013,3
+Nigeria,2014,16
+Nigeria,2015,31
+Nigeria,2016,43
+Nigeria,2017,54
+Nigeria,2018,91
+Nigeria,2019,116
+Nigeria,2020,68
+North Korea,2015,1
+North Korea,2017,4
+North Korea,2018,4
+North Korea,2019,9
+North Korea,2020,4
+North Macedonia,2004,1
+North Macedonia,2005,1
+North Macedonia,2006,2
+North Macedonia,2007,2
+North Macedonia,2008,1
+North Macedonia,2010,2
+North Macedonia,2011,1
+North Macedonia,2012,1
+North Macedonia,2013,3
+North Macedonia,2014,2
+North Macedonia,2015,4
+North Macedonia,2016,1
+North Macedonia,2017,1
+North Macedonia,2018,1
+North Macedonia,2019,4
+North Macedonia,2020,11
+Norway,1993,3
+Norway,1995,2
+Norway,1996,1
+Norway,1998,9
+Norway,1999,6
+Norway,2000,15
+Norway,2001,6
+Norway,2002,12
+Norway,2003,15
+Norway,2004,10
+Norway,2005,17
+Norway,2006,16
+Norway,2007,22
+Norway,2008,16
+Norway,2009,35
+Norway,2010,39
+Norway,2011,28
+Norway,2012,42
+Norway,2013,57
+Norway,2014,63
+Norway,2015,77
+Norway,2016,70
+Norway,2017,145
+Norway,2018,209
+Norway,2019,387
+Norway,2020,178
+Oman,1997,3
+Oman,1998,4
+Oman,1999,6
+Oman,2000,5
+Oman,2001,8
+Oman,2002,3
+Oman,2003,10
+Oman,2004,5
+Oman,2005,7
+Oman,2006,5
+Oman,2007,6
+Oman,2008,8
+Oman,2009,3
+Oman,2010,12
+Oman,2011,9
+Oman,2012,16
+Oman,2013,6
+Oman,2014,14
+Oman,2015,17
+Oman,2016,16
+Oman,2017,14
+Oman,2018,20
+Oman,2019,41
+Oman,2020,15
+Pakistan,2001,2
+Pakistan,2002,2
+Pakistan,2003,1
+Pakistan,2005,3
+Pakistan,2006,3
+Pakistan,2007,9
+Pakistan,2008,15
+Pakistan,2009,10
+Pakistan,2010,19
+Pakistan,2011,34
+Pakistan,2012,59
+Pakistan,2013,46
+Pakistan,2014,103
+Pakistan,2015,126
+Pakistan,2016,200
+Pakistan,2017,310
+Pakistan,2018,508
+Pakistan,2019,780
+Pakistan,2020,373
+Palestine,2012,1
+Palestine,2015,3
+Palestine,2016,5
+Palestine,2017,12
+Palestine,2018,27
+Palestine,2019,27
+Palestine,2020,12
+Panama,2001,2
+Panama,2008,1
+Panama,2010,1
+Panama,2011,3
+Panama,2012,2
+Panama,2013,2
+Panama,2015,2
+Panama,2016,5
+Panama,2017,4
+Panama,2018,8
+Panama,2019,5
+Panama,2020,3
+Papua N Guinea,2010,1
+Papua N Guinea,2014,1
+Papua N Guinea,2019,3
+Papua N Guinea,2020,1
+Paraguay,2005,1
+Paraguay,2012,2
+Paraguay,2014,1
+Paraguay,2015,1
+Paraguay,2016,1
+Paraguay,2017,1
+Paraguay,2018,2
+Paraguay,2019,6
+Paraguay,2020,2
+Peoples R China,1981,1
+Peoples R China,1987,1
+Peoples R China,1989,2
+Peoples R China,1991,3
+Peoples R China,1992,6
+Peoples R China,1993,13
+Peoples R China,1994,11
+Peoples R China,1995,13
+Peoples R China,1996,30
+Peoples R China,1997,31
+Peoples R China,1998,60
+Peoples R China,1999,157
+Peoples R China,2000,263
+Peoples R China,2001,278
+Peoples R China,2002,311
+Peoples R China,2003,461
+Peoples R China,2004,502
+Peoples R China,2005,566
+Peoples R China,2006,872
+Peoples R China,2007,1007
+Peoples R China,2008,1194
+Peoples R China,2009,1478
+Peoples R China,2010,1569
+Peoples R China,2011,1898
+Peoples R China,2012,2317
+Peoples R China,2013,2723
+Peoples R China,2014,3486
+Peoples R China,2015,4201
+Peoples R China,2016,5195
+Peoples R China,2017,6965
+Peoples R China,2018,11031
+Peoples R China,2019,18123
+Peoples R China,2020,9849
+Peru,1999,1
+Peru,2005,1
+Peru,2006,1
+Peru,2008,2
+Peru,2010,3
+Peru,2011,4
+Peru,2012,3
+Peru,2013,3
+Peru,2014,5
+Peru,2015,8
+Peru,2016,14
+Peru,2017,15
+Peru,2018,30
+Peru,2019,34
+Peru,2020,15
+Philippines,2000,1
+Philippines,2001,1
+Philippines,2002,2
+Philippines,2003,1
+Philippines,2004,1
+Philippines,2005,4
+Philippines,2006,3
+Philippines,2007,4
+Philippines,2008,7
+Philippines,2009,5
+Philippines,2010,1
+Philippines,2011,6
+Philippines,2012,2
+Philippines,2013,2
+Philippines,2014,3
+Philippines,2015,7
+Philippines,2016,9
+Philippines,2017,19
+Philippines,2018,22
+Philippines,2019,40
+Philippines,2020,23
+Poland,1982,1
+Poland,1983,1
+Poland,1985,1
+Poland,1991,2
+Poland,1992,1
+Poland,1993,1
+Poland,1994,1
+Poland,1995,1
+Poland,1996,6
+Poland,1997,3
+Poland,1998,11
+Poland,1999,22
+Poland,2000,36
+Poland,2001,40
+Poland,2002,49
+Poland,2003,46
+Poland,2004,79
+Poland,2005,77
+Poland,2006,90
+Poland,2007,114
+Poland,2008,138
+Poland,2009,172
+Poland,2010,140
+Poland,2011,186
+Poland,2012,215
+Poland,2013,170
+Poland,2014,198
+Poland,2015,309
+Poland,2016,328
+Poland,2017,322
+Poland,2018,488
+Poland,2019,620
+Poland,2020,274
+Portugal,1991,1
+Portugal,1993,1
+Portugal,1994,1
+Portugal,1995,2
+Portugal,1996,1
+Portugal,1997,3
+Portugal,1998,7
+Portugal,1999,14
+Portugal,2000,11
+Portugal,2001,17
+Portugal,2002,18
+Portugal,2003,29
+Portugal,2004,40
+Portugal,2005,37
+Portugal,2006,42
+Portugal,2007,55
+Portugal,2008,79
+Portugal,2009,81
+Portugal,2010,81
+Portugal,2011,115
+Portugal,2012,127
+Portugal,2013,163
+Portugal,2014,171
+Portugal,2015,210
+Portugal,2016,215
+Portugal,2017,261
+Portugal,2018,328
+Portugal,2019,442
+Portugal,2020,214
+Qatar,1999,1
+Qatar,2003,1
+Qatar,2004,2
+Qatar,2005,1
+Qatar,2006,1
+Qatar,2007,4
+Qatar,2008,1
+Qatar,2009,6
+Qatar,2010,6
+Qatar,2011,5
+Qatar,2012,7
+Qatar,2013,25
+Qatar,2014,25
+Qatar,2015,39
+Qatar,2016,57
+Qatar,2017,51
+Qatar,2018,71
+Qatar,2019,131
+Qatar,2020,59
+Rep Congo,2018,1
+Rep Congo,2020,2
+Romania,1993,2
+Romania,1994,1
+Romania,1995,1
+Romania,1996,2
+Romania,1997,4
+Romania,1998,8
+Romania,1999,5
+Romania,2000,9
+Romania,2001,7
+Romania,2002,8
+Romania,2003,3
+Romania,2004,9
+Romania,2005,10
+Romania,2006,24
+Romania,2007,31
+Romania,2008,42
+Romania,2009,51
+Romania,2010,61
+Romania,2011,48
+Romania,2012,67
+Romania,2013,79
+Romania,2014,72
+Romania,2015,85
+Romania,2016,114
+Romania,2017,125
+Romania,2018,117
+Romania,2019,203
+Romania,2020,80
+Russia,1993,3
+Russia,1994,2
+Russia,1995,2
+Russia,1996,2
+Russia,1997,9
+Russia,1998,11
+Russia,1999,26
+Russia,2000,23
+Russia,2001,23
+Russia,2002,27
+Russia,2003,24
+Russia,2004,30
+Russia,2005,34
+Russia,2006,26
+Russia,2007,41
+Russia,2008,41
+Russia,2009,48
+Russia,2010,41
+Russia,2011,40
+Russia,2012,40
+Russia,2013,53
+Russia,2014,61
+Russia,2015,125
+Russia,2016,167
+Russia,2017,263
+Russia,2018,392
+Russia,2019,562
+Russia,2020,196
+Rwanda,2016,1
+Rwanda,2017,2
+Rwanda,2018,3
+Rwanda,2019,13
+Rwanda,2020,4
+Samoa,1997,1
+Saudi Arabia,1991,1
+Saudi Arabia,1995,2
+Saudi Arabia,1996,4
+Saudi Arabia,1997,6
+Saudi Arabia,1998,7
+Saudi Arabia,1999,15
+Saudi Arabia,2000,15
+Saudi Arabia,2001,9
+Saudi Arabia,2002,15
+Saudi Arabia,2003,10
+Saudi Arabia,2004,12
+Saudi Arabia,2005,11
+Saudi Arabia,2006,14
+Saudi Arabia,2007,12
+Saudi Arabia,2008,12
+Saudi Arabia,2009,21
+Saudi Arabia,2010,29
+Saudi Arabia,2011,61
+Saudi Arabia,2012,71
+Saudi Arabia,2013,124
+Saudi Arabia,2014,173
+Saudi Arabia,2015,221
+Saudi Arabia,2016,282
+Saudi Arabia,2017,350
+Saudi Arabia,2018,500
+Saudi Arabia,2019,813
+Saudi Arabia,2020,509
+Senegal,2006,1
+Senegal,2007,1
+Senegal,2009,1
+Senegal,2010,2
+Senegal,2011,2
+Senegal,2012,2
+Senegal,2013,1
+Senegal,2015,1
+Senegal,2016,1
+Senegal,2017,3
+Senegal,2018,9
+Senegal,2019,9
+Senegal,2020,4
+Serbia,1992,1
+Serbia,1993,1
+Serbia,1995,1
+Serbia,1996,1
+Serbia,1998,7
+Serbia,1999,7
+Serbia,2000,4
+Serbia,2001,6
+Serbia,2002,4
+Serbia,2003,9
+Serbia,2004,5
+Serbia,2005,3
+Serbia,2006,9
+Serbia,2007,15
+Serbia,2008,19
+Serbia,2009,31
+Serbia,2010,37
+Serbia,2011,52
+Serbia,2012,83
+Serbia,2013,66
+Serbia,2014,114
+Serbia,2015,104
+Serbia,2016,121
+Serbia,2017,122
+Serbia,2018,111
+Serbia,2019,158
+Serbia,2020,52
+Serbia Monteneg,2005,10
+Serbia Monteneg,2006,3
+Seychelles,2015,1
+Seychelles,2017,1
+Sierra Leone,2016,2
+Sierra Leone,2017,3
+Sierra Leone,2018,1
+Sierra Leone,2019,5
+Sierra Leone,2020,4
+Singapore,1992,3
+Singapore,1993,4
+Singapore,1994,5
+Singapore,1995,3
+Singapore,1996,5
+Singapore,1997,7
+Singapore,1998,13
+Singapore,1999,36
+Singapore,2000,63
+Singapore,2001,63
+Singapore,2002,89
+Singapore,2003,94
+Singapore,2004,99
+Singapore,2005,158
+Singapore,2006,116
+Singapore,2007,119
+Singapore,2008,123
+Singapore,2009,138
+Singapore,2010,152
+Singapore,2011,162
+Singapore,2012,187
+Singapore,2013,184
+Singapore,2014,220
+Singapore,2015,257
+Singapore,2016,296
+Singapore,2017,318
+Singapore,2018,519
+Singapore,2019,804
+Singapore,2020,428
+Slovakia,1994,1
+Slovakia,1995,1
+Slovakia,1996,1
+Slovakia,1997,3
+Slovakia,1998,3
+Slovakia,1999,4
+Slovakia,2000,3
+Slovakia,2001,3
+Slovakia,2002,3
+Slovakia,2003,4
+Slovakia,2004,7
+Slovakia,2005,9
+Slovakia,2006,6
+Slovakia,2007,9
+Slovakia,2008,13
+Slovakia,2009,14
+Slovakia,2010,15
+Slovakia,2011,13
+Slovakia,2012,15
+Slovakia,2013,18
+Slovakia,2014,15
+Slovakia,2015,22
+Slovakia,2016,32
+Slovakia,2017,33
+Slovakia,2018,40
+Slovakia,2019,67
+Slovakia,2020,33
+Slovenia,1993,5
+Slovenia,1994,4
+Slovenia,1995,1
+Slovenia,1996,8
+Slovenia,1997,13
+Slovenia,1998,11
+Slovenia,1999,16
+Slovenia,2000,21
+Slovenia,2001,18
+Slovenia,2002,18
+Slovenia,2003,27
+Slovenia,2004,34
+Slovenia,2005,30
+Slovenia,2006,39
+Slovenia,2007,27
+Slovenia,2008,41
+Slovenia,2009,38
+Slovenia,2010,48
+Slovenia,2011,51
+Slovenia,2012,42
+Slovenia,2013,54
+Slovenia,2014,56
+Slovenia,2015,85
+Slovenia,2016,77
+Slovenia,2017,80
+Slovenia,2018,116
+Slovenia,2019,133
+Slovenia,2020,56
+Somalia,2018,1
+Somalia,2019,2
+South Africa,1977,1
+South Africa,1991,1
+South Africa,1992,1
+South Africa,1993,1
+South Africa,1994,1
+South Africa,1995,4
+South Africa,1996,5
+South Africa,1997,3
+South Africa,1998,9
+South Africa,1999,7
+South Africa,2000,12
+South Africa,2001,15
+South Africa,2002,18
+South Africa,2003,21
+South Africa,2004,12
+South Africa,2005,22
+South Africa,2006,17
+South Africa,2007,23
+South Africa,2008,21
+South Africa,2009,30
+South Africa,2010,47
+South Africa,2011,52
+South Africa,2012,60
+South Africa,2013,61
+South Africa,2014,97
+South Africa,2015,104
+South Africa,2016,154
+South Africa,2017,160
+South Africa,2018,213
+South Africa,2019,283
+South Africa,2020,108
+South Korea,1991,3
+South Korea,1992,3
+South Korea,1993,6
+South Korea,1994,5
+South Korea,1995,7
+South Korea,1996,8
+South Korea,1997,11
+South Korea,1998,18
+South Korea,1999,66
+South Korea,2000,101
+South Korea,2001,91
+South Korea,2002,129
+South Korea,2003,134
+South Korea,2004,173
+South Korea,2005,164
+South Korea,2006,232
+South Korea,2007,215
+South Korea,2008,285
+South Korea,2009,304
+South Korea,2010,282
+South Korea,2011,347
+South Korea,2012,415
+South Korea,2013,445
+South Korea,2014,470
+South Korea,2015,611
+South Korea,2016,662
+South Korea,2017,941
+South Korea,2018,1591
+South Korea,2019,2554
+South Korea,2020,1351
+Spain,1989,3
+Spain,1991,5
+Spain,1993,3
+Spain,1994,9
+Spain,1995,13
+Spain,1996,13
+Spain,1997,14
+Spain,1998,41
+Spain,1999,87
+Spain,2000,115
+Spain,2001,133
+Spain,2002,117
+Spain,2003,170
+Spain,2004,196
+Spain,2005,219
+Spain,2006,256
+Spain,2007,332
+Spain,2008,345
+Spain,2009,398
+Spain,2010,472
+Spain,2011,551
+Spain,2012,622
+Spain,2013,732
+Spain,2014,667
+Spain,2015,794
+Spain,2016,846
+Spain,2017,973
+Spain,2018,1402
+Spain,2019,1902
+Spain,2020,825
+Sri Lanka,2001,1
+Sri Lanka,2002,2
+Sri Lanka,2003,1
+Sri Lanka,2004,1
+Sri Lanka,2005,3
+Sri Lanka,2006,1
+Sri Lanka,2007,4
+Sri Lanka,2008,2
+Sri Lanka,2009,1
+Sri Lanka,2011,3
+Sri Lanka,2013,6
+Sri Lanka,2014,1
+Sri Lanka,2015,5
+Sri Lanka,2016,14
+Sri Lanka,2017,10
+Sri Lanka,2018,13
+Sri Lanka,2019,29
+Sri Lanka,2020,7
+St Vincent,2018,1
+Sudan,2003,1
+Sudan,2006,1
+Sudan,2007,1
+Sudan,2012,3
+Sudan,2013,3
+Sudan,2014,7
+Sudan,2015,11
+Sudan,2016,9
+Sudan,2017,7
+Sudan,2018,14
+Sudan,2019,16
+Sudan,2020,10
+Surinam,2019,2
+Suriname,2015,1
+Suriname,2018,1
+Swaziland,2002,1
+Swaziland,2013,1
+Swaziland,2016,1
+Swaziland,2019,1
+Sweden,1982,1
+Sweden,1991,3
+Sweden,1992,5
+Sweden,1993,3
+Sweden,1994,4
+Sweden,1995,5
+Sweden,1996,9
+Sweden,1997,10
+Sweden,1998,29
+Sweden,1999,39
+Sweden,2000,37
+Sweden,2001,40
+Sweden,2002,44
+Sweden,2003,44
+Sweden,2004,48
+Sweden,2005,52
+Sweden,2006,58
+Sweden,2007,58
+Sweden,2008,63
+Sweden,2009,58
+Sweden,2010,72
+Sweden,2011,80
+Sweden,2012,93
+Sweden,2013,108
+Sweden,2014,124
+Sweden,2015,158
+Sweden,2016,167
+Sweden,2017,278
+Sweden,2018,373
+Sweden,2019,600
+Sweden,2020,301
+Switzerland,1973,1
+Switzerland,1981,1
+Switzerland,1982,1
+Switzerland,1985,1
+Switzerland,1986,1
+Switzerland,1988,2
+Switzerland,1991,2
+Switzerland,1992,2
+Switzerland,1993,2
+Switzerland,1994,6
+Switzerland,1995,7
+Switzerland,1996,5
+Switzerland,1997,12
+Switzerland,1998,17
+Switzerland,1999,32
+Switzerland,2000,40
+Switzerland,2001,39
+Switzerland,2002,30
+Switzerland,2003,46
+Switzerland,2004,60
+Switzerland,2005,72
+Switzerland,2006,63
+Switzerland,2007,73
+Switzerland,2008,66
+Switzerland,2009,94
+Switzerland,2010,118
+Switzerland,2011,113
+Switzerland,2012,138
+Switzerland,2013,158
+Switzerland,2014,197
+Switzerland,2015,207
+Switzerland,2016,236
+Switzerland,2017,345
+Switzerland,2018,590
+Switzerland,2019,809
+Switzerland,2020,335
+Syria,2006,1
+Syria,2007,1
+Syria,2010,2
+Syria,2011,3
+Syria,2012,2
+Syria,2013,2
+Syria,2014,3
+Syria,2015,1
+Syria,2016,2
+Syria,2017,5
+Syria,2018,4
+Syria,2019,4
+Syria,2020,6
+Taiwan,1988,1
+Taiwan,1990,2
+Taiwan,1991,2
+Taiwan,1992,6
+Taiwan,1993,3
+Taiwan,1994,9
+Taiwan,1995,8
+Taiwan,1996,16
+Taiwan,1997,11
+Taiwan,1998,28
+Taiwan,1999,89
+Taiwan,2000,138
+Taiwan,2001,142
+Taiwan,2002,156
+Taiwan,2003,194
+Taiwan,2004,218
+Taiwan,2005,277
+Taiwan,2006,345
+Taiwan,2007,379
+Taiwan,2008,491
+Taiwan,2009,554
+Taiwan,2010,483
+Taiwan,2011,566
+Taiwan,2012,596
+Taiwan,2013,567
+Taiwan,2014,493
+Taiwan,2015,481
+Taiwan,2016,473
+Taiwan,2017,455
+Taiwan,2018,654
+Taiwan,2019,881
+Taiwan,2020,550
+Tajikistan,2019,3
+Tanzania,2006,1
+Tanzania,2010,3
+Tanzania,2011,1
+Tanzania,2013,1
+Tanzania,2014,4
+Tanzania,2015,4
+Tanzania,2016,6
+Tanzania,2017,7
+Tanzania,2018,8
+Tanzania,2019,17
+Tanzania,2020,11
+Thailand,1991,1
+Thailand,1993,1
+Thailand,1995,1
+Thailand,1997,2
+Thailand,1998,2
+Thailand,1999,3
+Thailand,2000,4
+Thailand,2001,6
+Thailand,2002,13
+Thailand,2003,10
+Thailand,2004,24
+Thailand,2005,19
+Thailand,2006,27
+Thailand,2007,36
+Thailand,2008,33
+Thailand,2009,66
+Thailand,2010,45
+Thailand,2011,56
+Thailand,2012,51
+Thailand,2013,73
+Thailand,2014,69
+Thailand,2015,94
+Thailand,2016,95
+Thailand,2017,108
+Thailand,2018,131
+Thailand,2019,176
+Thailand,2020,127
+Timor-Leste,2019,1
+Togo,2017,2
+Togo,2018,1
+Togo,2019,2
+Tonga,2015,1
+Trinidad & Tobago,2005,1
+Trinidad & Tobago,2008,1
+Trinidad & Tobago,2009,1
+Trinidad & Tobago,2011,3
+Trinidad & Tobago,2012,2
+Trinidad & Tobago,2013,1
+Trinidad & Tobago,2014,1
+Trinidad & Tobago,2016,1
+Trinidad & Tobago,2017,3
+Trinidad & Tobago,2018,5
+Trinidad & Tobago,2019,9
+Trinidad & Tobago,2020,1
+Tunisia,1998,1
+Tunisia,2000,2
+Tunisia,2001,2
+Tunisia,2002,4
+Tunisia,2003,3
+Tunisia,2004,3
+Tunisia,2005,4
+Tunisia,2006,10
+Tunisia,2007,18
+Tunisia,2008,26
+Tunisia,2009,18
+Tunisia,2010,25
+Tunisia,2011,35
+Tunisia,2012,28
+Tunisia,2013,40
+Tunisia,2014,36
+Tunisia,2015,63
+Tunisia,2016,107
+Tunisia,2017,116
+Tunisia,2018,166
+Tunisia,2019,176
+Tunisia,2020,83
+Turkey,1991,2
+Turkey,1992,1
+Turkey,1993,1
+Turkey,1994,1
+Turkey,1995,3
+Turkey,1996,4
+Turkey,1997,5
+Turkey,1998,11
+Turkey,1999,22
+Turkey,2000,55
+Turkey,2001,41
+Turkey,2002,53
+Turkey,2003,78
+Turkey,2004,149
+Turkey,2005,162
+Turkey,2006,207
+Turkey,2007,279
+Turkey,2008,340
+Turkey,2009,472
+Turkey,2010,415
+Turkey,2011,438
+Turkey,2012,467
+Turkey,2013,492
+Turkey,2014,470
+Turkey,2015,544
+Turkey,2016,667
+Turkey,2017,725
+Turkey,2018,823
+Turkey,2019,1055
+Turkey,2020,589
+U Arab Emirates,1994,2
+U Arab Emirates,2000,1
+U Arab Emirates,2001,3
+U Arab Emirates,2002,10
+U Arab Emirates,2003,4
+U Arab Emirates,2004,4
+U Arab Emirates,2005,3
+U Arab Emirates,2006,9
+U Arab Emirates,2007,15
+U Arab Emirates,2008,15
+U Arab Emirates,2009,20
+U Arab Emirates,2010,15
+U Arab Emirates,2011,24
+U Arab Emirates,2012,19
+U Arab Emirates,2013,33
+U Arab Emirates,2014,43
+U Arab Emirates,2015,53
+U Arab Emirates,2016,73
+U Arab Emirates,2017,81
+U Arab Emirates,2018,131
+U Arab Emirates,2019,211
+U Arab Emirates,2020,137
+UK,1971,3
+UK,1972,1
+UK,1973,1
+UK,1974,2
+UK,1976,1
+UK,1977,2
+UK,1980,1
+UK,1981,1
+UK,1982,3
+UK,1983,1
+UK,1984,3
+UK,1985,2
+UK,1986,2
+UK,1987,7
+UK,1988,3
+UK,1989,7
+UK,1990,10
+UK,1991,27
+UK,1992,28
+UK,1993,38
+UK,1994,56
+UK,1995,51
+UK,1996,90
+UK,1997,111
+UK,1998,148
+UK,1999,288
+UK,2000,360
+UK,2001,349
+UK,2002,347
+UK,2003,370
+UK,2004,410
+UK,2005,452
+UK,2006,515
+UK,2007,570
+UK,2008,547
+UK,2009,585
+UK,2010,627
+UK,2011,681
+UK,2012,767
+UK,2013,869
+UK,2014,1001
+UK,2015,1218
+UK,2016,1382
+UK,2017,1758
+UK,2018,2641
+UK,2019,3836
+UK,2020,1768
+USA,1966,1
+USA,1967,1
+USA,1968,1
+USA,1970,1
+USA,1971,1
+USA,1972,1
+USA,1973,9
+USA,1974,14
+USA,1975,13
+USA,1976,17
+USA,1977,9
+USA,1978,5
+USA,1979,6
+USA,1980,5
+USA,1981,6
+USA,1982,9
+USA,1983,16
+USA,1984,18
+USA,1985,30
+USA,1986,36
+USA,1987,40
+USA,1988,35
+USA,1989,28
+USA,1990,43
+USA,1991,118
+USA,1992,165
+USA,1993,206
+USA,1994,219
+USA,1995,231
+USA,1996,250
+USA,1997,272
+USA,1998,406
+USA,1999,688
+USA,2000,869
+USA,2001,857
+USA,2002,876
+USA,2003,1048
+USA,2004,1145
+USA,2005,1292
+USA,2006,1458
+USA,2007,1499
+USA,2008,1638
+USA,2009,1758
+USA,2010,1857
+USA,2011,2023
+USA,2012,2344
+USA,2013,2520
+USA,2014,2833
+USA,2015,3587
+USA,2016,4285
+USA,2017,5550
+USA,2018,8800
+USA,2019,12812
+USA,2020,5622
+USSR,1973,1
+USSR,1975,2
+USSR,1976,2
+USSR,1978,1
+USSR,1979,4
+USSR,1982,1
+USSR,1987,2
+USSR,1991,1
+USSR,1992,2
+Uganda,2006,2
+Uganda,2008,2
+Uganda,2010,3
+Uganda,2011,2
+Uganda,2012,2
+Uganda,2013,1
+Uganda,2014,1
+Uganda,2015,2
+Uganda,2016,2
+Uganda,2017,3
+Uganda,2018,11
+Uganda,2019,6
+Uganda,2020,6
+Ukraine,1993,1
+Ukraine,1994,1
+Ukraine,1995,1
+Ukraine,1997,3
+Ukraine,1998,6
+Ukraine,1999,6
+Ukraine,2000,3
+Ukraine,2001,7
+Ukraine,2002,3
+Ukraine,2003,2
+Ukraine,2004,4
+Ukraine,2005,9
+Ukraine,2006,5
+Ukraine,2007,10
+Ukraine,2008,12
+Ukraine,2009,8
+Ukraine,2010,8
+Ukraine,2011,11
+Ukraine,2012,15
+Ukraine,2013,12
+Ukraine,2014,10
+Ukraine,2015,29
+Ukraine,2016,30
+Ukraine,2017,26
+Ukraine,2018,70
+Ukraine,2019,84
+Ukraine,2020,23
+Uruguay,1999,2
+Uruguay,2000,1
+Uruguay,2003,1
+Uruguay,2005,1
+Uruguay,2007,1
+Uruguay,2008,1
+Uruguay,2009,1
+Uruguay,2010,2
+Uruguay,2011,1
+Uruguay,2012,2
+Uruguay,2013,2
+Uruguay,2014,5
+Uruguay,2015,10
+Uruguay,2016,4
+Uruguay,2017,11
+Uruguay,2018,10
+Uruguay,2019,15
+Uruguay,2020,10
+Uzbekistan,2004,1
+Uzbekistan,2005,2
+Uzbekistan,2006,1
+Uzbekistan,2007,1
+Uzbekistan,2008,2
+Uzbekistan,2009,1
+Uzbekistan,2010,1
+Uzbekistan,2013,1
+Uzbekistan,2014,1
+Uzbekistan,2016,2
+Uzbekistan,2017,3
+Uzbekistan,2018,3
+Uzbekistan,2019,2
+Vanuatu,2015,1
+Vatican,2017,1
+Vatican,2018,1
+Vatican,2020,1
+Venezuela,1991,1
+Venezuela,1999,3
+Venezuela,2000,6
+Venezuela,2001,6
+Venezuela,2002,7
+Venezuela,2003,6
+Venezuela,2004,10
+Venezuela,2005,8
+Venezuela,2006,4
+Venezuela,2007,12
+Venezuela,2008,7
+Venezuela,2009,9
+Venezuela,2010,8
+Venezuela,2011,8
+Venezuela,2012,6
+Venezuela,2013,1
+Venezuela,2014,6
+Venezuela,2015,13
+Venezuela,2016,13
+Venezuela,2017,20
+Venezuela,2018,18
+Venezuela,2019,20
+Venezuela,2020,5
+Vietnam,1991,1
+Vietnam,2002,1
+Vietnam,2004,1
+Vietnam,2005,1
+Vietnam,2006,2
+Vietnam,2007,4
+Vietnam,2008,3
+Vietnam,2009,4
+Vietnam,2010,4
+Vietnam,2011,9
+Vietnam,2012,13
+Vietnam,2013,22
+Vietnam,2014,36
+Vietnam,2015,62
+Vietnam,2016,92
+Vietnam,2017,109
+Vietnam,2018,233
+Vietnam,2019,486
+Vietnam,2020,359
+Yemen,2011,3
+Yemen,2012,2
+Yemen,2013,5
+Yemen,2014,4
+Yemen,2015,5
+Yemen,2016,6
+Yemen,2017,7
+Yemen,2018,10
+Yemen,2019,21
+Yemen,2020,7
+Yugoslavia,1984,1
+Yugoslavia,1991,6
+Yugoslavia,1993,1
+Yugoslavia,1995,2
+Yugoslavia,1996,1
+Yugoslavia,1997,1
+Yugoslavia,1998,1
+Yugoslavia,1999,1
+Yugoslavia,2000,4
+Yugoslavia,2001,1
+Zambia,2015,1
+Zambia,2016,1
+Zambia,2017,2
+Zambia,2019,15
+Zambia,2020,3
+Zimbabwe,1999,2
+Zimbabwe,2000,1
+Zimbabwe,2001,5
+Zimbabwe,2004,1
+Zimbabwe,2011,1
+Zimbabwe,2012,1
+Zimbabwe,2016,3
+Zimbabwe,2017,8
+Zimbabwe,2018,7
+Zimbabwe,2019,5
+Zimbabwe,2020,3
