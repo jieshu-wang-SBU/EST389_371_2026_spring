@@ -1,0 +1,78 @@
+Source,Target,Weight
+Batteries,AI hardware,8
+Batteries,Knowledge processing,80
+Batteries,Machine learning,44
+Batteries,Planning control,41
+Batteries,Vision,4
+Carbon capture and sequestration,Knowledge processing,7
+Carbon capture and sequestration,Machine learning,4
+Carbon capture and sequestration,Planning control,3
+Climate change adaptation,AI hardware,72
+Climate change adaptation,Evolutionary computation,3
+Climate change adaptation,Knowledge processing,906
+Climate change adaptation,Machine learning,297
+Climate change adaptation,Natural language processing,31
+Climate change adaptation,Planning control,467
+Climate change adaptation,Speech,14
+Climate change adaptation,Vision,202
+Electric vehicles,AI hardware,6
+Electric vehicles,Knowledge processing,128
+Electric vehicles,Machine learning,51
+Electric vehicles,Planning control,129
+Electric vehicles,Vision,7
+GHG reduction in energy systems,AI hardware,25
+GHG reduction in energy systems,Knowledge processing,571
+GHG reduction in energy systems,Machine learning,325
+GHG reduction in energy systems,Planning control,504
+GHG reduction in energy systems,Speech,1
+GHG reduction in energy systems,Vision,41
+Green ICT,AI hardware,357
+Green ICT,Knowledge processing,703
+Green ICT,Machine learning,222
+Green ICT,Natural language processing,23
+Green ICT,Planning control,723
+Green ICT,Speech,74
+Green ICT,Vision,63
+Green buildings,AI hardware,36
+Green buildings,Knowledge processing,417
+Green buildings,Machine learning,162
+Green buildings,Natural language processing,3
+Green buildings,Planning control,654
+Green buildings,Speech,5
+Green buildings,Vision,40
+Green industry,AI hardware,158
+Green industry,Evolutionary computation,5
+Green industry,Knowledge processing,1720
+Green industry,Machine learning,498
+Green industry,Natural language processing,30
+Green industry,Planning control,1839
+Green industry,Speech,14
+Green industry,Vision,134
+Green transportation,AI hardware,18
+Green transportation,Knowledge processing,535
+Green transportation,Machine learning,227
+Green transportation,Planning control,452
+Green transportation,Speech,2
+Green transportation,Vision,27
+Green waste management,AI hardware,4
+Green waste management,Knowledge processing,51
+Green waste management,Machine learning,9
+Green waste management,Planning control,56
+Green waste management,Vision,1
+Photovoltaics,Knowledge processing,23
+Photovoltaics,Machine learning,14
+Photovoltaics,Planning control,21
+Photovoltaics,Vision,9
+Smart grid,AI hardware,50
+Smart grid,Evolutionary computation,1
+Smart grid,Knowledge processing,776
+Smart grid,Machine learning,310
+Smart grid,Natural language processing,7
+Smart grid,Planning control,903
+Smart grid,Speech,3
+Smart grid,Vision,60
+Wind motors,AI hardware,2
+Wind motors,Knowledge processing,60
+Wind motors,Machine learning,34
+Wind motors,Planning control,40
+Wind motors,Vision,7

@@ -1,0 +1,22 @@
+Id,patent_count,Type,Label
+Batteries,125,Green technology,Batteries
+Carbon capture and sequestration,11,Green technology,Carbon capture and sequestration
+Climate change adaptation,1185,Green technology,Climate change adaptation
+Electric vehicles,245,Green technology,Electric vehicles
+GHG reduction in energy systems,975,Green technology,GHG reduction in energy systems
+Green ICT,1529,Green technology,Green ICT
+Green buildings,955,Green technology,Green buildings
+Green industry,2825,Green technology,Green industry
+Green transportation,916,Green technology,Green transportation
+Green waste management,79,Green technology,Green waste management
+Photovoltaics,50,Green technology,Photovoltaics
+Smart grid,1367,Green technology,Smart grid
+Wind motors,97,Green technology,Wind motors
+AI hardware,662,Artificial intelligence components,AI hardware
+Evolutionary computation,9,Artificial intelligence components,Evolutionary computation
+Knowledge processing,4871,Artificial intelligence components,Knowledge processing
+Machine learning,1673,Artificial intelligence components,Machine learning
+Natural language processing,90,Artificial intelligence components,Natural language processing
+Planning control,4508,Artificial intelligence components,Planning control
+Speech,110,Artificial intelligence components,Speech
+Vision,540,Artificial intelligence components,Vision
