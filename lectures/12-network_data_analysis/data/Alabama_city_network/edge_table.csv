@@ -1,0 +1,4449 @@
+Source,Target,Weight
+Northport,Tuscaloosa,981
+Birmingham,Tuscaloosa,598
+Birmingham,Montgomery,288
+Montgomery,Tuscaloosa,245
+Auburn,Tuscaloosa,163
+Demopolis,Tuscaloosa,151
+Fayette,Tuscaloosa,149
+Mobile,Montgomery,130
+Brookwood,Tuscaloosa,128
+Fayette,Northport,114
+Carrollton,Tuscaloosa,108
+Birmingham,Mobile,106
+Moundville,Tuscaloosa,101
+Carrollton,Northport,92
+Demopolis,Northport,90
+Livingston,Tuscaloosa,90
+Carrollton,Fayette,89
+Demopolis,Fayette,88
+Mobile,Tuscaloosa,86
+Bessemer,Tuscaloosa,85
+Jasper,Tuscaloosa,85
+Carrollton,Demopolis,83
+Birmingham,Northport,77
+Greensboro,Tuscaloosa,76
+Demopolis,Livingston,74
+Montgomery,Selma,74
+Livingston,Northport,66
+Auburn,Montgomery,66
+Fayette,Livingston,65
+Eutaw,Tuscaloosa,64
+Selma,Tuscaloosa,63
+Carrollton,Livingston,62
+Bessemer,Birmingham,62
+Birmingham,Jasper,50
+Auburn,Birmingham,50
+Aliceville,Tuscaloosa,48
+Tuscaloosa,Vestavia Hills,47
+Centreville,Tuscaloosa,42
+Birmingham,Selma,41
+Gadsden,Tuscaloosa,38
+Birmingham,Homewood,36
+Enterprise,Tuscaloosa,35
+Brent,Tuscaloosa,35
+Bessemer,Brookwood,35
+Birmingham,Cullman,34
+Auburn,Opelika,33
+Brookwood,Northport,33
+Hueytown,Tuscaloosa,33
+Cullman,Tuscaloosa,32
+Trussville,Tuscaloosa,31
+Coaling,Tuscaloosa,31
+Birmingham,Demopolis,30
+Birmingham,Vestavia Hills,30
+Marion,Tuscaloosa,29
+Troy,Tuscaloosa,28
+Atmore,Montgomery,26
+Brookwood,Enterprise,26
+Bessemer,Hueytown,25
+Brent,Centreville,25
+Birmingham,Trussville,25
+Montgomery,Opelika,25
+Birmingham,Pleasant Grove,25
+Fayette,Jasper,25
+Jasper,Montgomery,25
+Bessemer,Enterprise,24
+Jacksonville,Tuscaloosa,24
+Brookwood,Hueytown,23
+Dothan,Montgomery,23
+Dothan,Tuscaloosa,23
+Birmingham,Mountain Brook,23
+Birmingham,Gadsden,23
+Birmingham,Opelika,23
+Mountain Brook,Tuscaloosa,23
+Cullman,Jasper,23
+Florence,Tuscaloosa,23
+Birmingham,Fairfield,23
+Eutaw,Northport,23
+Birmingham,Brookwood,22
+Birmingham,Fayette,22
+Gulf Shores,Orange Beach,22
+Bessemer,Vestavia Hills,22
+Homewood,Tuscaloosa,22
+Atmore,Birmingham,22
+Trussville,Vestavia Hills,22
+Decatur,Montgomery,21
+Decatur,Tuscaloosa,21
+Montgomery,Troy,21
+Florence,Montgomery,21
+Bessemer,Trussville,21
+Anniston,Montgomery,21
+Birmingham,Greensboro,21
+Anniston,Birmingham,20
+Brookwood,Vestavia Hills,20
+Greensboro,Montgomery,20
+Birmingham,Decatur,20
+Demopolis,Jasper,20
+Demopolis,Montgomery,20
+Montgomery,Northport,20
+Enterprise,Vestavia Hills,19
+Montgomery,Tuskegee,19
+Bessemer,Montgomery,19
+Cullman,Montgomery,19
+Aliceville,Carrollton,19
+Birmingham,Dothan,18
+Greensboro,Selma,18
+Haleyville,Tuscaloosa,18
+Greensboro,Moundville,18
+Anniston,Tuscaloosa,18
+Montgomery,Pleasant Grove,18
+Montevallo,Tuscaloosa,18
+Moundville,Northport,17
+Birmingham,Pelham,17
+Birmingham,Hueytown,17
+Birmingham,Florence,17
+Talladega,Tuscaloosa,17
+Tuscaloosa,Winfield,17
+Demopolis,Selma,17
+Eutaw,Greensboro,17
+Jasper,Northport,17
+Greensboro,Jasper,17
+Birmingham,Tuskegee,16
+Montgomery,Vestavia Hills,16
+Pelham,Tuscaloosa,16
+Enterprise,Hueytown,16
+Helena,Tuscaloosa,16
+Gadsden,Jasper,16
+Madison,Tuscaloosa,16
+Mobile,Prichard,16
+Aliceville,Brookwood,16
+Hueytown,Trussville,16
+Montgomery,Prichard,16
+Linden,Tuscaloosa,15
+Brookwood,Greensboro,15
+Hueytown,Vestavia Hills,15
+Aliceville,Bessemer,15
+Brookwood,Trussville,15
+Birmingham,Troy,15
+Aliceville,Greensboro,15
+Sulligent,Tuscaloosa,15
+Gadsden,Montgomery,14
+Tuscaloosa,Uniontown,14
+Birmingham,Enterprise,14
+Bessemer,Selma,14
+Montgomery,Saraland,14
+Birmingham,Haleyville,14
+Auburn,Mobile,14
+Carbon Hill,Tuscaloosa,14
+Birmingham,Moundville,14
+Tuscaloosa,Tuskegee,14
+Fairfield,Tuscaloosa,14
+Demopolis,Greensboro,14
+Mobile,Saraland,14
+Saraland,Tuscaloosa,14
+Enterprise,Trussville,14
+Birmingham,Clay,13
+Thomasville,Tuscaloosa,13
+Sylacauga,Tuscaloosa,13
+Homewood,Vestavia Hills,13
+Cullman,Gadsden,13
+Birmingham,Jacksonville,13
+Bessemer,Northport,13
+Fairhope,Tuscaloosa,13
+Birmingham,Saraland,13
+Mobile,Selma,13
+Bessemer,Gadsden,13
+Centreville,Fayette,13
+Auburn,Dadeville,13
+Birmingham,Marion,13
+Brent,Fayette,13
+Fayette,Greensboro,12
+Phenix City,Tuscaloosa,12
+Dothan,Mobile,12
+Carbon Hill,Jasper,12
+Madison,Montgomery,12
+Jasper,Parrish,12
+Fairhope,Mobile,12
+Hamilton,Tuscaloosa,12
+Birmingham,Pinson,12
+Athens,Tuscaloosa,12
+Alabaster,Birmingham,12
+Mountain Brook,Vestavia Hills,12
+Aliceville,Enterprise,11
+Aliceville,Birmingham,11
+Homewood,Trussville,11
+Auburn,Tuskegee,11
+Jacksonville,Oxford,11
+Aliceville,Mountain Brook,11
+Birmingham,Eutaw,11
+Glen Allen,Tuscaloosa,11
+Dothan,Ozark,11
+Mobile,Opelika,11
+Demopolis,Mobile,11
+Atmore,Mobile,11
+Brent,Jasper,11
+Carrollton,Greensboro,11
+Eutaw,Fayette,11
+Greensboro,Northport,11
+Bessemer,Homewood,11
+Tuscaloosa,York,11
+Cordova,Jasper,11
+Homewood,Selma,11
+Bessemer,Jasper,11
+Montgomery,Prattville,11
+Bessemer,Demopolis,11
+Brookwood,Montevallo,11
+Cullman,Demopolis,11
+Demopolis,Marion,10
+Cordova,Parrish,10
+Prichard,Saraland,10
+Opelika,Prichard,10
+Auburn,Phenix City,10
+Birmingham,Brent,10
+Enterprise,Florence,10
+Centreville,Jasper,10
+Birmingham,Moody,10
+Aliceville,Hueytown,10
+Bessemer,Greensboro,10
+Mountain Brook,Trussville,10
+Jasper,Marion,10
+Birmingham,Livingston,10
+Aliceville,Vestavia Hills,10
+Atmore,Opelika,10
+Fairhope,Montgomery,10
+Birmingham,Prichard,10
+Akron,Greensboro,10
+Gadsden,Vestavia Hills,10
+Montgomery,Wetumpka,10
+Dadeville,Tuskegee,10
+Dora,Tuscaloosa,10
+Birmingham,Madison,10
+Newbern,Tuscaloosa,10
+Athens,Montgomery,10
+Brookwood,Glen Allen,10
+Gulf Shores,Montgomery,10
+Gardendale,Tuscaloosa,10
+Birmingham,Tarrant,10
+Brookwood,Demopolis,10
+Birmingham,Montevallo,9
+Greensboro,Linden,9
+Greensboro,Livingston,9
+Jacksonville,Montgomery,9
+Daphne,Fairhope,9
+Auburn,Troy,9
+Athens,Decatur,9
+Clay,Tuscaloosa,9
+Brent,Cullman,9
+Decatur,Madison,9
+Birmingham,Center Point,9
+Hueytown,Mountain Brook,9
+Hueytown,Sulligent,9
+Gulf Shores,Mobile,9
+Demopolis,Gadsden,9
+Greensboro,Montevallo,9
+Centreville,Marion,9
+Alabaster,Tuscaloosa,9
+Eutaw,Montgomery,9
+Centreville,Greensboro,9
+Fairfield,Montgomery,9
+Brent,Demopolis,9
+Centreville,Northport,9
+Brookwood,Carrollton,9
+Birmingham,Hamilton,9
+Pleasant Grove,Tuscaloosa,9
+Birmingham,Columbiana,9
+Brookwood,Carbon Hill,9
+Aliceville,Sulligent,9
+Aliceville,Demopolis,9
+Gadsden,Trussville,9
+Birmingham,Newton,9
+Northport,Vestavia Hills,9
+Opelika,Pleasant Grove,9
+Newton,Pleasant Grove,9
+Selma,Vestavia Hills,9
+Newton,Prichard,9
+Bessemer,Mountain Brook,9
+Newton,Saraland,9
+Brookwood,Mountain Brook,9
+Madison,Vestavia Hills,9
+Leeds,Tuscaloosa,9
+Atmore,Newton,9
+Atmore,Pleasant Grove,9
+Cordova,Tuscaloosa,9
+Newton,Opelika,9
+Enterprise,Greensboro,9
+Atmore,Prichard,9
+Atmore,Saraland,9
+Aliceville,Northport,9
+Pleasant Grove,Saraland,9
+Mobile,Pleasant Grove,9
+Montgomery,Newton,9
+Prichard,Selma,9
+Pleasant Grove,Prichard,9
+Opelika,Saraland,9
+Birmingham,Irondale,9
+Opelika,Tuscaloosa,8
+Montgomery,Trussville,8
+Brent,Greensboro,8
+Prattville,Tuscaloosa,8
+Birmingham,Helena,8
+Greenville,Montgomery,8
+Birmingham,Winfield,8
+Selma,Tuskegee,8
+Haleyville,Hamilton,8
+Jasper,Livingston,8
+Hamilton,Jasper,8
+Dothan,Jasper,8
+Brent,Marion,8
+Alexander City,Tuscaloosa,8
+Gadsden,Marion,8
+Eutaw,Jasper,8
+Hueytown,Montevallo,8
+Demopolis,Linden,8
+Mobile,Newton,8
+Demopolis,Haleyville,8
+Montgomery,Sylacauga,8
+Daphne,Montgomery,8
+Northport,Selma,8
+Brookwood,Oak Grove,8
+Andalusia,Tuscaloosa,8
+Enterprise,Gadsden,8
+Carbon Hill,Cordova,8
+Bessemer,Montevallo,8
+Gadsden,Mobile,8
+Anniston,Gadsden,8
+Birmingham,Carrollton,8
+Brookwood,Montgomery,8
+Birmingham,Guntersville,8
+Dothan,Foley,8
+Greensboro,Hueytown,8
+Birmingham,Sylacauga,8
+Enterprise,Montgomery,8
+Enterprise,Haleyville,8
+Alabaster,Northport,8
+Birmingham,Fairhope,8
+Demopolis,Eutaw,8
+Alabaster,Trussville,8
+Selma,Trussville,8
+Demopolis,Moundville,8
+Brookwood,Coaling,8
+Aliceville,Eutaw,7
+Brookwood,Cordova,7
+Brookwood,Fayette,7
+Brent,Gadsden,7
+Florence,Jasper,7
+Glen Allen,Greensboro,7
+Carrollton,Jasper,7
+Carrollton,Eutaw,7
+Aliceville,Glen Allen,7
+Akron,Moundville,7
+Birmingham,Childersburg,7
+Greensboro,Vestavia Hills,7
+Greensboro,Mountain Brook,7
+Aliceville,Trussville,7
+Brookwood,Selma,7
+Calera,Tuscaloosa,7
+Birmingham,Leeds,7
+Hueytown,Oak Grove,7
+Haleyville,Vestavia Hills,7
+Enterprise,Oak Grove,7
+Cullman,Fayette,7
+Bessemer,Oak Grove,7
+Carbon Hill,Trussville,7
+Bessemer,Sulligent,7
+Birmingham,Warrior,7
+Auburn,Decatur,7
+Homewood,Montgomery,7
+Sulligent,Trussville,7
+Enterprise,Mountain Brook,7
+Glen Allen,Vestavia Hills,7
+Alexander City,Montgomery,7
+Birmingham,Thomasville,7
+Brookwood,Gadsden,7
+Brookwood,Sulligent,7
+Florence,Mobile,7
+Birmingham,Foley,7
+Montgomery,Springville,7
+Greensboro,Marion,7
+Dadeville,Opelika,7
+Brookwood,Jasper,7
+Eutaw,Livingston,7
+Eutaw,Moundville,7
+Eutaw,Selma,7
+Montgomery,Mountain Brook,7
+Brookwood,Hamilton,7
+Cullman,Marion,7
+Birmingham,Greenville,7
+Pell City,Tuscaloosa,7
+Gadsden,Troy,7
+Foley,Montgomery,7
+Birmingham,Oxford,7
+Birmingham,Fultondale,7
+Brookwood,Moundville,7
+Jasper,Mobile,7
+Haleyville,Jasper,7
+Guntersville,Montgomery,7
+Auburn,Jacksonville,7
+Alabaster,Bessemer,7
+Auburn,Dothan,7
+Alabaster,Vestavia Hills,7
+Madison,Selma,7
+Clanton,Tuscaloosa,7
+Bessemer,Dora,7
+Oneonta,Tuscaloosa,7
+Muscle Shoals,Tuscaloosa,7
+Madison,Prichard,7
+Alabaster,Selma,7
+Birmingham,Oneonta,7
+Gulf Shores,Tuscaloosa,7
+Decatur,Mobile,6
+Alabaster,Prichard,6
+Prichard,Vestavia Hills,6
+Florence,Madison,6
+Montgomery,Ozark,6
+Oak Grove,Tuscaloosa,6
+Fayette,Marion,6
+Cullman,Dothan,6
+Enterprise,Montevallo,6
+Brookwood,Chelsea,6
+Enterprise,Homewood,6
+Enterprise,Jasper,6
+Alexander City,Auburn,6
+Brookwood,Helena,6
+Bessemer,Carrollton,6
+Anniston,Sylacauga,6
+Fayette,Gadsden,6
+Birmingham,Calera,6
+Alabaster,Montgomery,6
+Enterprise,Troy,6
+Anniston,Madison,6
+Anniston,Northport,6
+Citronelle,Mobile,6
+Enterprise,Saraland,6
+Chelsea,Hueytown,6
+Bessemer,Madison,6
+Alabaster,Madison,6
+Auburn,Fairhope,6
+Birmingham,Centreville,6
+Birmingham,Clanton,6
+Greensboro,Haleyville,6
+Birmingham,Carbon Hill,6
+Homewood,Prichard,6
+Homewood,Madison,6
+Birmingham,Brookside,6
+Bessemer,Carbon Hill,6
+Brilliant,Tuscaloosa,6
+Montgomery,Thomasville,6
+Dothan,Troy,6
+Haleyville,Northport,6
+Decatur,Selma,6
+Bessemer,Hamilton,6
+Anniston,Mobile,6
+Bessemer,Mobile,6
+Daphne,Mobile,6
+Birmingham,Wetumpka,6
+Dothan,Fairhope,6
+Birmingham,Talladega,6
+Enterprise,Northport,6
+Gadsden,Hamilton,6
+Alabaster,Homewood,6
+Jasper,Vestavia Hills,6
+Madison,Trussville,6
+Birmingham,Linden,6
+Birmingham,Heflin,6
+Prichard,Trussville,6
+Lake View,Tuscaloosa,6
+Marion,Uniontown,6
+Mobile,Tuskegee,6
+Bessemer,Chelsea,6
+Gadsden,Selma,6
+Bessemer,Calera,6
+Birmingham,Midfield,6
+Brookwood,Eutaw,6
+Demopolis,Helena,6
+Cullman,Greensboro,6
+Brookwood,Winfield,6
+Brookwood,Dora,6
+Northport,York,6
+Brookwood,Haleyville,6
+Livingston,Marion,6
+Bessemer,Glen Allen,6
+Birmingham,Phenix City,6
+Aliceville,Jasper,6
+Selma,Thomasville,6
+Greensboro,Thomasville,6
+Fort Payne,Tuscaloosa,6
+Aliceville,Gadsden,6
+Dadeville,Montgomery,6
+Enterprise,Sulligent,6
+Clay,Trussville,6
+Clay,Hueytown,6
+Bessemer,Haleyville,6
+Spanish Fort,Tuscaloosa,6
+Guntersville,Tuscaloosa,6
+Eutaw,Forkland,6
+Fairhope,Gadsden,6
+Jacksonville,Vestavia Hills,6
+Dora,Jasper,6
+Jasper,Oneonta,6
+Moundville,Thomasville,6
+Marion,Montgomery,6
+Albertville,Guntersville,6
+Eufaula,Tuscaloosa,6
+Florence,Northport,6
+Livingston,Montgomery,6
+Demopolis,Mountain Brook,6
+Marion,Selma,6
+Dothan,Florence,5
+Gadsden,Jacksonville,5
+Madison,Mobile,5
+Coaling,Moundville,5
+Aliceville,Cordova,5
+Cordova,Greensboro,5
+Centreville,Montevallo,5
+Foley,Tuscaloosa,5
+Cullman,Hamilton,5
+Gadsden,Talladega,5
+Atmore,Tuscaloosa,5
+Northport,Trussville,5
+Montevallo,Oak Grove,5
+Chelsea,Trussville,5
+Carrollton,Moundville,5
+Anniston,Cullman,5
+Centreville,Eutaw,5
+Clay,Mountain Brook,5
+Sylacauga,Vestavia Hills,5
+Aliceville,Carbon Hill,5
+Jasper,Sumiton,5
+Montgomery,Talladega,5
+Athens,Cullman,5
+Mobile,Phenix City,5
+Bessemer,Cordova,5
+Bessemer,Jacksonville,5
+Auburn,Pelham,5
+Alabaster,Auburn,5
+Jasper,Troy,5
+Tuscaloosa,Wetumpka,5
+Montevallo,Mountain Brook,5
+Madison,Northport,5
+Bessemer,Helena,5
+Montevallo,Sulligent,5
+Enterprise,Selma,5
+Carbon Hill,Greensboro,5
+Cordova,Dora,5
+Jacksonville,Troy,5
+Demopolis,Opelika,5
+Anniston,Florence,5
+Gadsden,Hueytown,5
+Birmingham,Dadeville,5
+Jasper,Sipsey,5
+Childersburg,Sylacauga,5
+Fayette,Hamilton,5
+Athens,Mobile,5
+Camden,Montgomery,5
+Clanton,Jasper,5
+Fayette,Haleyville,5
+Decatur,Fort Payne,5
+Birmingham,Boaz,5
+Aliceville,Brilliant,5
+Fayette,Moundville,5
+Demopolis,Thomasville,5
+Aliceville,Oak Grove,5
+Chelsea,Tuscaloosa,5
+Calera,Vestavia Hills,5
+Aliceville,Montevallo,5
+Andalusia,Birmingham,5
+Homewood,Mountain Brook,5
+Greenville,Tuscaloosa,5
+Glen Allen,Jasper,5
+Hueytown,Selma,5
+Cullman,Haleyville,5
+Demopolis,York,5
+Decatur,Northport,5
+Carbon Hill,Glen Allen,5
+Eutaw,York,5
+Bessemer,Centreville,5
+Foley,Jasper,5
+Akron,Tuscaloosa,5
+Haleyville,Marion,5
+Clay,Greensboro,5
+Birmingham,Chelsea,5
+Moundville,Selma,5
+Anniston,Jasper,5
+Eufaula,Montgomery,5
+Anniston,Vestavia Hills,5
+Montgomery,Orange Beach,5
+Linden,Montgomery,5
+Mobile,Thomasville,5
+Bessemer,Fairfield,5
+Haleyville,Livingston,5
+Bessemer,Pleasant Grove,5
+Birmingham,Gardendale,5
+Livingston,York,5
+Athens,Vestavia Hills,5
+Aliceville,Livingston,5
+Demopolis,Gardendale,5
+Haleyville,Hueytown,5
+Oxford,Tuscaloosa,5
+Bessemer,Troy,5
+Anniston,Hamilton,5
+Greensboro,Trussville,5
+Florence,Vestavia Hills,5
+Andalusia,Montgomery,5
+Bessemer,Dothan,5
+Haleyville,Trussville,5
+Bessemer,Greenville,5
+Bessemer,Prichard,5
+Cullman,Foley,5
+Enterprise,Jacksonville,5
+Anniston,Oxford,5
+Alabaster,Gadsden,5
+Opelika,Smiths Station,5
+Decatur,Florence,5
+Cullman,Fairhope,5
+Clay,Montgomery,5
+Brookwood,Gardendale,5
+Carbon Hill,Vestavia Hills,5
+Hamilton,Talladega,5
+Bessemer,Midfield,5
+Demopolis,Vestavia Hills,5
+Aliceville,Haleyville,5
+Aliceville,Fayette,5
+Russellville,Tuscaloosa,5
+Anniston,Talladega,5
+Bessemer,Winfield,5
+Glen Allen,Hueytown,5
+Fairhope,Foley,5
+Greensboro,Sulligent,5
+Center Point,Tuscaloosa,5
+Dora,Parrish,5
+Jasper,Talladega,5
+Fairhope,Troy,5
+Sulligent,Vestavia Hills,5
+Dora,Sumiton,5
+Anniston,Selma,5
+Aliceville,Winfield,5
+Linden,Selma,5
+Aliceville,Moundville,5
+Demopolis,Trussville,5
+Gadsden,Homewood,5
+Haleyville,Montgomery,5
+Birmingham,Pell City,5
+Pelham,Vestavia Hills,5
+Livingston,Selma,5
+Leeds,Montgomery,5
+Birmingham,Sulligent,5
+Dothan,Gadsden,5
+Brent,Northport,5
+Hueytown,Midfield,5
+Andalusia,Enterprise,5
+Brookwood,Midfield,5
+Cullman,Mobile,5
+Carbon Hill,Parrish,4
+Fairfield,Selma,4
+Demopolis,Sulligent,4
+Dora,Vestavia Hills,4
+Demopolis,Uniontown,4
+Cullman,Oneonta,4
+Birmingham,Morris,4
+Andalusia,Mountain Brook,4
+Dora,Enterprise,4
+Brent,Montgomery,4
+Jasper,Sulligent,4
+Carbon Hill,Winfield,4
+Mount Vernon,Tuscaloosa,4
+Cullman,Talladega,4
+Glen Allen,Winfield,4
+Fayette,Mount Vernon,4
+Jasper,Linden,4
+Linden,Moundville,4
+Brookwood,Lake View,4
+Cullman,Decatur,4
+Heflin,Sylacauga,4
+Livingston,Oneonta,4
+Columbia,Dothan,4
+Fayette,Montgomery,4
+Demopolis,Oneonta,4
+Monroeville,Tuscaloosa,4
+Anniston,Enterprise,4
+Demopolis,Pelham,4
+Marion,Oneonta,4
+Heflin,Tuscaloosa,4
+Monroeville,Montgomery,4
+Jasper,Winfield,4
+Helena,Montgomery,4
+Lake View,Montgomery,4
+Gadsden,Greensboro,4
+Enterprise,Prattville,4
+Gadsden,Haleyville,4
+Gardendale,Trussville,4
+Gardendale,Vestavia Hills,4
+Enterprise,Hamilton,4
+Heflin,Montgomery,4
+Demopolis,Enterprise,4
+Florence,Heflin,4
+Enterprise,Heflin,4
+Greensboro,Sylacauga,4
+Childersburg,Montgomery,4
+Childersburg,Heflin,4
+Creola,Mobile,4
+Childersburg,Florence,4
+Childersburg,Enterprise,4
+Greensboro,Prattville,4
+Haleyville,Union Grove,4
+Greensboro,Oneonta,4
+Bessemer,Prattville,4
+Brilliant,Glen Allen,4
+Florence,Tuscumbia,4
+Brilliant,Mountain Brook,4
+Brilliant,Vestavia Hills,4
+Mountain Brook,Oak Grove,4
+Moody,Trussville,4
+Gadsden,Mountain Brook,4
+Greensboro,Hamilton,4
+Glen Allen,Mountain Brook,4
+Haleyville,Heflin,4
+Anniston,Childersburg,4
+Fayette,Talladega,4
+Jasper,Oxford,4
+Bessemer,Cullman,4
+Montevallo,Montgomery,4
+Mobile,Orange Beach,4
+Florence,Sylacauga,4
+Enterprise,Sylacauga,4
+Athens,Madison,4
+Decatur,Dothan,4
+Hamilton,Wetumpka,4
+Bessemer,Opelika,4
+Boaz,Tuscaloosa,4
+Jasper,Trussville,4
+Andalusia,Trussville,4
+Birmingham,Fort Payne,4
+Hamilton,Prattville,4
+Prattville,Trussville,4
+Homewood,Jasper,4
+Childersburg,Northport,4
+Birmingham,Eufaula,4
+Hueytown,Northport,4
+Northport,Sylacauga,4
+Haleyville,Sylacauga,4
+Haleyville,Selma,4
+Birmingham,Springville,4
+Fayette,Oneonta,4
+Haleyville,Oneonta,4
+Atmore,Springville,4
+Montgomery,Tuscumbia,4
+Muscle Shoals,Sheffield,4
+Coaling,Montgomery,4
+Jasper,Selma,4
+Mountain Brook,Selma,4
+Prichard,Tuscaloosa,4
+Foley,Troy,4
+Brent,Livingston,4
+Foley,Gadsden,4
+Fairhope,Jasper,4
+Fairhope,Greenville,4
+Brent,Hamilton,4
+Brent,Haleyville,4
+Cordova,Mountain Brook,4
+Dothan,Greenville,4
+Andalusia,Greensboro,4
+Aliceville,Andalusia,4
+Aliceville,Homewood,4
+Aliceville,Saraland,4
+Demopolis,Greenville,4
+Demopolis,Foley,4
+Daphne,Troy,4
+Daphne,Jasper,4
+Daphne,Greenville,4
+Daphne,Gadsden,4
+Gadsden,Greenville,4
+Brent,Moundville,4
+Brent,Oneonta,4
+Birmingham,Russellville,4
+Gadsden,Northport,4
+Enterprise,Oxford,4
+Lincoln,Tuscaloosa,4
+Mountain Brook,Sulligent,4
+Aliceville,Chelsea,4
+Chelsea,Vestavia Hills,4
+Foley,Mobile,4
+Centreville,Russellville,4
+Carrollton,Gadsden,4
+Greenville,Jasper,4
+Andalusia,Selma,4
+Carrollton,Centreville,4
+Centreville,Montgomery,4
+Alabaster,Athens,4
+Alexander City,Birmingham,4
+Brent,Talladega,4
+Bessemer,Pelham,4
+Greenville,Troy,4
+Daphne,Foley,4
+Daphne,Dothan,4
+Cullman,Troy,4
+Enterprise,Midfield,4
+Center Point,Pelham,4
+Hueytown,Winfield,4
+Anniston,Heflin,4
+Anniston,Haleyville,4
+Anniston,Fayette,4
+Helena,Vestavia Hills,4
+Anniston,Brent,4
+Leeds,Mountain Brook,4
+Oxford,Vestavia Hills,4
+Midfield,Vestavia Hills,4
+Aliceville,Sylacauga,4
+Aliceville,Selma,4
+Aliceville,Prattville,4
+Carbon Hill,Dora,4
+Brookwood,Clay,4
+Aliceville,Jacksonville,4
+Glen Allen,Trussville,4
+Aliceville,Brent,4
+Midfield,Tuscaloosa,4
+Oak Grove,Trussville,4
+Birmingham,Muscle Shoals,4
+Birmingham,Rainsville,4
+Auburn,Selma,4
+Carrollton,Vestavia Hills,4
+Camden,Tuscaloosa,4
+Birmingham,Daphne,4
+Dora,Hueytown,4
+Bessemer,Foley,4
+Bessemer,Fairhope,4
+Bessemer,Daphne,4
+Auburn,Greensboro,4
+Oak Grove,Vestavia Hills,4
+Auburn,Gadsden,4
+Montevallo,Trussville,4
+Mobile,Moundville,4
+Calera,Montgomery,4
+Vestavia Hills,Winfield,4
+Brookwood,Leeds,4
+Brookwood,Pelham,4
+Carbon Hill,Hueytown,4
+Dadeville,Tuscaloosa,4
+Foley,Greenville,4
+Auburn,Camp Hill,4
+Greensboro,Newbern,4
+Auburn,Northport,4
+Chelsea,Enterprise,4
+Calera,Homewood,4
+Centreville,Livingston,4
+Brookwood,Homewood,4
+Centreville,Moundville,4
+Brookwood,Calera,4
+Bessemer,Saraland,4
+Mobile,Northport,4
+Birmingham,Scottsboro,4
+Akron,Eutaw,4
+Helena,Jasper,4
+Birmingham,Hanceville,4
+Greensboro,Leeds,4
+Gadsden,Helena,4
+Brent,Helena,4
+Eufaula,Phenix City,4
+Adamsville,Birmingham,4
+Pinson,Tuscaloosa,4
+Coaling,Northport,4
+Brookwood,Pleasant Grove,4
+Montgomery,Phenix City,4
+Carrollton,Cordova,4
+Gadsden,Saraland,4
+Bay Minette,Tuscaloosa,4
+Demopolis,Hueytown,4
+Chelsea,Sulligent,4
+Auburn,Bessemer,4
+Carrollton,Montevallo,4
+Carrollton,Hueytown,4
+Athens,Gadsden,4
+Moundville,Winfield,3
+Haleyville,Winfield,3
+Cullman,Livingston,3
+Fultondale,Tuscaloosa,3
+Aliceville,Cullman,3
+Center Point,Vestavia Hills,3
+Greensboro,Gulf Shores,3
+Midfield,Oak Grove,3
+Athens,Birmingham,3
+Albertville,Birmingham,3
+Calera,Columbiana,3
+Morris,Tuscaloosa,3
+Auburn,Eutaw,3
+Andalusia,Livingston,3
+Hamilton,Vestavia Hills,3
+Butler,Carrollton,3
+Helena,Mountain Brook,3
+Haleyville,Oak Grove,3
+Athens,Dothan,3
+Phenix City,Saraland,3
+Cullman,Helena,3
+Pell City,Sylacauga,3
+Homewood,Livingston,3
+Demopolis,Homewood,3
+Homewood,Oxford,3
+Montevallo,Troy,3
+Athens,Talladega,3
+Cullman,Florence,3
+Linden,Mobile,3
+Helena,Marion,3
+Albertville,Montgomery,3
+Brookwood,Center Point,3
+Athens,Florence,3
+Brookwood,Jacksonville,3
+Jacksonville,Montevallo,3
+Brookwood,Oxford,3
+Bessemer,Brilliant,3
+Aliceville,Dora,3
+Enterprise,Winfield,3
+Fort Payne,Guntersville,3
+Hueytown,Sylacauga,3
+Birmingham,Spanish Fort,3
+Carrollton,Glen Allen,3
+Linden,Uniontown,3
+Alabaster,Columbiana,3
+Carrollton,Winfield,3
+Birmingham,Oak Grove,3
+Parrish,Sumiton,3
+Arab,Tuscaloosa,3
+Enterprise,Glen Allen,3
+Fayette,Winfield,3
+Gadsden,Phenix City,3
+Glen Allen,Moundville,3
+Gulf Shores,Guntersville,3
+Greensboro,Winfield,3
+Kennedy,Tuscaloosa,3
+Bessemer,Clay,3
+Demopolis,Forkland,3
+Northport,Pelham,3
+Livingston,Moundville,3
+Millbrook,Wetumpka,3
+Athens,Auburn,3
+Hartselle,Tuscaloosa,3
+Leeds,Pelham,3
+Leeds,Vestavia Hills,3
+Bessemer,Fayette,3
+Clay,Vestavia Hills,3
+Gadsden,Madison,3
+Athens,Trussville,3
+Livingston,Sulligent,3
+Andalusia,Demopolis,3
+Centre,Montgomery,3
+Coaling,Gardendale,3
+Center Point,Midfield,3
+Camp Hill,Dadeville,3
+Leesburg,Montgomery,3
+Bessemer,Florence,3
+Brilliant,Brookwood,3
+Carbon Hill,Enterprise,3
+Lincoln,Talladega,3
+Selma,Uniontown,3
+Montgomery,Muscle Shoals,3
+Greensboro,Mobile,3
+Enterprise,Fort Payne,3
+Brookwood,Prattville,3
+Carbon Hill,Demopolis,3
+Selma,York,3
+Florence,Homewood,3
+Alexander City,Northport,3
+Florence,Troy,3
+Sulligent,Sylacauga,3
+Albertville,Tuscaloosa,3
+Aliceville,Newbern,3
+Demopolis,Troy,3
+Jasper,Montevallo,3
+Opelika,Selma,3
+Selma,Sylacauga,3
+Dothan,Selma,3
+Selma,Sulligent,3
+Centre,Greenville,3
+Akron,Birmingham,3
+Atmore,Jasper,3
+Auburn,Fort Payne,3
+Birmingham,Brighton,3
+Andalusia,Gadsden,3
+Atmore,Florence,3
+Auburn,Madison,3
+Andalusia,Vestavia Hills,3
+Athens,Mountain Brook,3
+Alexander City,Talladega,3
+Auburn,Cordova,3
+Dothan,Marion,3
+Atmore,Vestavia Hills,3
+Opelika,Valley,3
+Sylacauga,Talladega,3
+Bay Minette,Birmingham,3
+Demopolis,Fairhope,3
+Jasper,Russellville,3
+Cullman,Linden,3
+Glen Allen,Montgomery,3
+Prattville,Sylacauga,3
+Moody,Tuscaloosa,3
+Cullman,Enterprise,3
+Opelika,Phenix City,3
+Decatur,Homewood,3
+Dadeville,Jacksonville,3
+Cullman,Daphne,3
+Cullman,Vestavia Hills,3
+Carbon Hill,Fairfield,3
+Homewood,Northport,3
+Mobile,Troy,3
+Montgomery,Russellville,3
+Enterprise,Pleasant Grove,3
+Auburn,Smiths Station,3
+Cullman,Greenville,3
+Hamilton,Trussville,3
+Auburn,Enterprise,3
+Demopolis,Dothan,3
+Athens,Marion,3
+Moundville,Uniontown,3
+Jacksonville,Mobile,3
+Gadsden,Montevallo,3
+Birmingham,Dora,3
+Hanceville,Tuscaloosa,3
+Decatur,Prichard,3
+Clay,Cullman,3
+Athens,Jasper,3
+Daphne,Tuscaloosa,3
+Clay,Glen Allen,3
+Daphne,Demopolis,3
+Clay,Jasper,3
+Clay,Montevallo,3
+Bessemer,Livingston,3
+Atmore,Enterprise,3
+Gadsden,Sulligent,3
+Chelsea,Pelham,3
+Fairhope,Gulf Shores,3
+Calera,Jacksonville,3
+Calera,Gadsden,3
+Cuba,York,3
+Athens,Bessemer,3
+Alexander City,Greensboro,3
+Demopolis,Hamilton,3
+Pelham,Trussville,3
+Greensboro,Uniontown,3
+Greensboro,Talladega,3
+Mountain Brook,Sylacauga,3
+Montgomery,Oxford,3
+Birmingham,Prattville,3
+Andalusia,Homewood,3
+Demopolis,Jacksonville,3
+Greensboro,Pelham,3
+Andalusia,Bessemer,3
+Birmingham,Uniontown,3
+Greensboro,Opelika,3
+Brent,Carrollton,3
+Greensboro,Moody,3
+Decatur,Moulton,3
+Fort Payne,Jasper,3
+Brent,Eutaw,3
+Dothan,Enterprise,3
+Eufaula,Mobile,3
+Carrollton,Selma,3
+Selma,Troy,3
+Haleyville,Prattville,3
+Marion,Northport,3
+Auburn,Livingston,3
+Dora,Montevallo,3
+Leeds,Oak Grove,3
+Birmingham,Cordova,3
+Northport,Sulligent,3
+Carrollton,Trussville,3
+Carrollton,Enterprise,3
+Elba,Montgomery,3
+Auburn,Prattville,3
+Troy,Trussville,3
+Carrollton,Dora,3
+Auburn,Sylacauga,3
+Saraland,Vestavia Hills,3
+Auburn,Valley,3
+Montgomery,Pelham,3
+Fairfield,Mobile,3
+Auburn,Wetumpka,3
+Carrollton,Sulligent,3
+Brookwood,Mount Vernon,3
+Florence,Trussville,3
+Birmingham,Centre,3
+Coaling,Lake View,3
+Haleyville,Sulligent,3
+Homewood,Jacksonville,3
+Cordova,Vestavia Hills,3
+Foley,Orange Beach,3
+Foley,Gulf Shores,3
+Birmingham,Monroeville,3
+Boaz,Enterprise,3
+Boaz,Florence,3
+Boaz,Haleyville,3
+Boaz,Heflin,3
+Alabaster,Marion,3
+Heflin,Union Grove,3
+Heflin,Northport,3
+Boaz,Madison,3
+Boaz,Montgomery,3
+Boaz,Northport,3
+Heflin,Madison,3
+Boaz,Sylacauga,3
+Carrollton,Hamilton,3
+Boaz,Union Grove,3
+Boaz,Vestavia Hills,3
+Childersburg,Haleyville,3
+Childersburg,Madison,3
+Childersburg,Tuscaloosa,3
+Childersburg,Union Grove,3
+Childersburg,Vestavia Hills,3
+Enterprise,Madison,3
+Enterprise,Union Grove,3
+Florence,Haleyville,3
+Eutaw,Marion,3
+Florence,Union Grove,3
+Heflin,Vestavia Hills,3
+Madison,Sylacauga,3
+Fayette,Linden,3
+Aliceville,Sumiton,3
+Auburn,Oxford,3
+Camden,Mobile,3
+Demopolis,Prattville,3
+Brookwood,Marion,3
+Coaling,Eutaw,3
+Calera,Enterprise,3
+Gadsden,Pelham,3
+Brilliant,Greensboro,3
+Union Grove,Vestavia Hills,3
+Gadsden,Livingston,3
+Bessemer,Leeds,3
+Anniston,Boaz,3
+Boaz,Childersburg,3
+Anniston,Union Grove,3
+Tuscaloosa,Union Grove,3
+Sylacauga,Union Grove,3
+Aliceville,Calera,3
+Aliceville,Center Point,3
+Northport,Union Grove,3
+Montgomery,Union Grove,3
+Carrollton,Clanton,3
+Madison,Union Grove,3
+Sumiton,Tuscaloosa,3
+Birmingham,Union Grove,3
+Dora,Trussville,3
+Hamilton,Pell City,3
+Greensboro,Oak Grove,3
+Clanton,Pell City,3
+Anniston,Auburn,3
+Alexander City,Opelika,3
+Birmingham,Glen Allen,3
+Jacksonville,Talladega,3
+Enterprise,Pelham,3
+Chelsea,Montevallo,3
+Anniston,Eutaw,3
+Jasper,Prattville,3
+Brewton,Tuscaloosa,3
+Greensboro,Homewood,3
+Anniston,Jacksonville,3
+Centre,Marion,3
+Clay,Homewood,3
+Helena,Sulligent,3
+Montevallo,Winfield,3
+Montgomery,Rainsville,3
+Calera,Helena,3
+Aliceville,Helena,3
+Greensboro,Midfield,3
+Centreville,Talladega,3
+Jasper,Pell City,3
+Calera,Saraland,3
+Calera,Chelsea,3
+Centreville,Demopolis,3
+Brookwood,Gulf Shores,3
+Jasper,Moundville,3
+Clay,Demopolis,3
+Aliceville,Hamilton,3
+Birmingham,Gulf Shores,3
+Troy,Vestavia Hills,3
+Hamilton,Hueytown,3
+Homewood,Hueytown,3
+Aliceville,Pelham,3
+Clanton,Hamilton,3
+Homewood,Saraland,3
+Centre,Tuscaloosa,3
+Aliceville,Clay,3
+Haleyville,Madison,3
+Centre,Centreville,3
+Cordova,Montevallo,3
+Carbon Hill,Sulligent,3
+Centre,Eutaw,3
+Cordova,Winfield,3
+Cordova,Sumiton,3
+Cuba,Tuscaloosa,3
+Cordova,Trussville,3
+Decatur,Enterprise,3
+Montevallo,Vestavia Hills,3
+Enterprise,Helena,3
+Hamilton,Oak Grove,3
+Jacksonville,Jasper,3
+Jacksonville,Opelika,3
+Enterprise,Leeds,3
+Jacksonville,Pelham,3
+Hamilton,Montevallo,3
+Aliceville,Leeds,3
+Auburn,Demopolis,3
+Dadeville,Fairhope,2
+Centre,Russellville,2
+Dadeville,Eutaw,2
+Dadeville,Dothan,2
+Dadeville,Marion,2
+Brookwood,Monroeville,2
+Berry,Montevallo,2
+Clanton,Taylor,2
+Greenville,Mobile,2
+Centre,Dadeville,2
+Birmingham,Lincoln,2
+Butler,Cherokee,2
+Dadeville,Greenville,2
+Alabaster,Atmore,2
+Dadeville,Mobile,2
+Cherokee,Taylor,2
+Eutaw,Russellville,2
+Eutaw,Greenville,2
+Eutaw,Florence,2
+Carrollton,Cherokee,2
+Calera,Trussville,2
+Chelsea,Gardendale,2
+Chelsea,Hamilton,2
+Butler,Taylor,2
+Carrollton,Taylor,2
+Berry,Tuscaloosa,2
+Gardendale,Hueytown,2
+Dothan,Eutaw,2
+Daphne,Florence,2
+Berry,Sumiton,2
+Daphne,Eutaw,2
+Butler,Clanton,2
+Bessemer,Marion,2
+Dadeville,Russellville,2
+Cherokee,Clanton,2
+Dadeville,Troy,2
+Atmore,Phenix City,2
+Bessemer,Hanceville,2
+Athens,Dadeville,2
+Carrollton,Montgomery,2
+Athens,Oxford,2
+Chelsea,Winfield,2
+Helena,Hueytown,2
+Athens,Fairhope,2
+Camp Hill,Opelika,2
+Helena,Montevallo,2
+Athens,Enterprise,2
+Camp Hill,Tuskegee,2
+Hueytown,Jasper,2
+Alexander City,Camden,2
+Opelika,Tuskegee,2
+Sulligent,Winfield,2
+Carbon Hill,Helena,2
+Athens,Atmore,2
+Alabaster,Troy,2
+Oak Grove,Sulligent,2
+Carbon Hill,Pleasant Grove,2
+Aliceville,Oxford,2
+Leeds,Montevallo,2
+Saraland,Trussville,2
+Aliceville,Monroeville,2
+Auburn,Florence,2
+Leeds,Sylacauga,2
+Calera,Carrollton,2
+Alabaster,Florence,2
+Jasper,Pleasant Grove,2
+Pleasant Grove,Trussville,2
+Atmore,Gadsden,2
+Alexander City,Pelham,2
+Carrollton,Mobile,2
+Mobile,Russellville,2
+Alexander City,Gulf Shores,2
+Aliceville,Berry,2
+Helena,Trussville,2
+Athens,Troy,2
+Childersburg,Demopolis,2
+Carrollton,Chelsea,2
+Carrollton,Helena,2
+Columbiana,Montevallo,2
+Chelsea,Helena,2
+Camden,Moulton,2
+Hueytown,Monroeville,2
+Tarrant,Winfield,2
+Homewood,Sulligent,2
+Hueytown,Livingston,2
+Haleyville,Midfield,2
+Livingston,Trussville,2
+Gardendale,Haleyville,2
+Hueytown,Pelham,2
+Fort Payne,Pelham,2
+Fairfield,Greensboro,2
+Mountain Brook,Sumiton,2
+Demopolis,Fairfield,2
+Clay,Oak Grove,2
+Clay,Midfield,2
+Clay,Haleyville,2
+Demopolis,Florence,2
+Fort Payne,Gulf Shores,2
+Geneva,Tuscaloosa,2
+Geneva,Mountain Brook,2
+Demopolis,Geneva,2
+Clay,Sulligent,2
+Clay,Selma,2
+Midfield,Trussville,2
+Carbon Hill,Selma,2
+Carbon Hill,Mountain Brook,2
+Carbon Hill,Clay,2
+Aliceville,Geneva,2
+Midfield,Winfield,2
+Midfield,Montevallo,2
+Carbon Hill,Midfield,2
+Oak Grove,Winfield,2
+Pell City,Vestavia Hills,2
+Mountain Brook,Winfield,2
+Fairfield,Florence,2
+Clay,Enterprise,2
+Trussville,Winfield,2
+Enterprise,Spanish Fort,2
+Susan Moore,Tuscaloosa,2
+Bessemer,Pell City,2
+Susan Moore,Vestavia Hills,2
+Dora,Hanceville,2
+Carbon Hill,Susan Moore,2
+Enterprise,Hartselle,2
+Bessemer,Center Point,2
+Center Point,Pell City,2
+Prattville,Vestavia Hills,2
+Brookwood,Decatur,2
+Gulf Shores,Spanish Fort,2
+Center Point,Mobile,2
+Mobile,Pelham,2
+Elmore,Enterprise,2
+Susan Moore,Trussville,2
+Cordova,Susan Moore,2
+Brookwood,Susan Moore,2
+Carbon Hill,Montgomery,2
+Carrollton,Mountain Brook,2
+Thomasville,Vestavia Hills,2
+Hueytown,Thomasville,2
+Glen Allen,Thomasville,2
+Glen Allen,Selma,2
+Glen Allen,Haleyville,2
+Gadsden,Thomasville,2
+Fort Payne,Spanish Fort,2
+Gadsden,Glen Allen,2
+Brookwood,Pell City,2
+Brookwood,Thomasville,2
+Bessemer,Thomasville,2
+Aliceville,Midfield,2
+Haleyville,Montevallo,2
+Dora,Winfield,2
+Irondale,Tuscaloosa,2
+Chelsea,Mountain Brook,2
+Calera,Mountain Brook,2
+Chelsea,Cordova,2
+Chelsea,Demopolis,2
+Chelsea,Greensboro,2
+Chelsea,Leeds,2
+Chelsea,Moody,2
+Cordova,Montgomery,2
+Andalusia,Saraland,2
+Greensboro,Helena,2
+Leeds,Moody,2
+Moody,Vestavia Hills,2
+Aliceville,Lexington,2
+Andalusia,Calera,2
+Andalusia,Jacksonville,2
+Brookwood,Opelika,2
+Brookwood,Moody,2
+Bessemer,Moody,2
+Auburn,Spanish Fort,2
+Auburn,Guntersville,2
+Auburn,Mountain Brook,2
+Auburn,Brookwood,2
+Brookwood,Sylacauga,2
+Bessemer,Sylacauga,2
+Alabaster,Decatur,2
+Dothan,Greensboro,2
+Montevallo,Sumiton,2
+Montgomery,Scottsboro,2
+Scottsboro,Tuscaloosa,2
+Monroeville,Montevallo,2
+Auburn,Camden,2
+Birmingham,Parrish,2
+Andalusia,Lexington,2
+Bessemer,Lexington,2
+Dora,Sulligent,2
+Linden,Thomasville,2
+Dora,Oak Grove,2
+Demopolis,Winfield,2
+Alabaster,Mobile,2
+Alabaster,Calera,2
+Hueytown,Leeds,2
+Mobile,Muscle Shoals,2
+Chelsea,Haleyville,2
+Birmingham,Lexington,2
+Florence,Muscle Shoals,2
+Florence,Moundville,2
+Cordova,Enterprise,2
+Cordova,Hueytown,2
+Cordova,Sulligent,2
+Dora,Mountain Brook,2
+Eufaula,Guntersville,2
+Chelsea,Oak Grove,2
+Chelsea,Dora,2
+Eufaula,Gulf Shores,2
+Eufaula,Fort Payne,2
+Carrollton,Homewood,2
+Andalusia,Munford,2
+Mountain Brook,Saraland,2
+Lexington,Vestavia Hills,2
+Lexington,Tuscaloosa,2
+Lexington,Saraland,2
+Jacksonville,Saraland,2
+Jacksonville,Lexington,2
+Homewood,Lexington,2
+Gadsden,Lexington,2
+Enterprise,Lexington,2
+Calera,Lexington,2
+Calera,Hueytown,2
+Decatur,Eufaula,2
+Florence,Foley,2
+Bay Minette,Foley,2
+Enterprise,Oneonta,2
+Oneonta,Vestavia Hills,2
+Orange Beach,Tuscaloosa,2
+Gulf Shores,Northport,2
+Gulf Shores,Linden,2
+Cherokee,Florence,2
+Carbon Hill,Sumiton,2
+Fultondale,Northport,2
+Piedmont,Tuscaloosa,2
+Bessemer,Decatur,2
+Dothan,Level Plains,2
+Center Point,Moody,2
+Montevallo,Moody,2
+Irondale,Mountain Brook,2
+Gadsden,Oxford,2
+Morris,Pleasant Grove,2
+Dora,Jacksonville,2
+Brilliant,Enterprise,2
+Coaling,Demopolis,2
+Aliceville,Kennedy,2
+Aliceville,Belk,2
+Gardendale,Selma,2
+Gardendale,Moundville,2
+Coaling,Selma,2
+Auburn,Fairfield,2
+Athens,Prichard,2
+Florence,Selma,2
+Adamsville,Dora,2
+Birmingham,Cuba,2
+Fairview,Tuscaloosa,2
+Fairview,Moundville,2
+Birmingham,Union,2
+Enterprise,Eutaw,2
+Anniston,Prichard,2
+Anniston,Homewood,2
+Pleasant Grove,Vestavia Hills,2
+Montgomery,Pinson,2
+Saraland,Springville,2
+Camden,Selma,2
+Clay,Linden,2
+Chelsea,Homewood,2
+Homewood,Pelham,2
+Camden,Demopolis,2
+Tarrant,Tuscaloosa,2
+Glen Allen,Montevallo,2
+Carbon Hill,Gardendale,2
+Carbon Hill,Homewood,2
+Gardendale,Homewood,2
+Haleyville,Tarrant,2
+Gardendale,Pelham,2
+Carbon Hill,Tarrant,2
+Cullman,Montevallo,2
+Decatur,Tuscumbia,2
+Oxford,Pleasant Grove,2
+Atmore,Pinson,2
+Oxford,Trussville,2
+Mobile,Trussville,2
+Center Point,Montgomery,2
+Center Point,Opelika,2
+Florence,Oxford,2
+Athens,Homewood,2
+Florence,Opelika,2
+Linden,Montevallo,2
+Albertville,Boaz,2
+Cullman,Winfield,2
+Boaz,Guntersville,2
+Cullman,Oxford,2
+Birmingham,Munford,2
+Montgomery,Sheffield,2
+Anniston,Bessemer,2
+Aliceville,Mount Vernon,2
+Carbon Hill,Haleyville,2
+Aliceville,Newton,2
+Greensboro,Jackson,2
+Greensboro,Newton,2
+Greensboro,Mount Vernon,2
+Greensboro,Kennedy,2
+Greensboro,Moulton,2
+Glen Allen,Newton,2
+Bessemer,Brent,2
+Glen Allen,Mount Vernon,2
+Greensboro,Tuskegee,2
+Glen Allen,Kennedy,2
+Greensboro,Union Springs,2
+Fayette,Newton,2
+Fayette,Newbern,2
+Jackson,Montgomery,2
+Moulton,Tuskegee,2
+Kennedy,Moundville,2
+Kennedy,Mount Vernon,2
+Kennedy,Newbern,2
+Mount Vernon,Winfield,2
+Camden,Greensboro,2
+Camden,Tuskegee,2
+Newton,Winfield,2
+Newton,Tuscaloosa,2
+Newbern,Winfield,2
+Newbern,Newton,2
+Camden,Union Springs,2
+Kennedy,Newton,2
+Mount Vernon,Newton,2
+Mount Vernon,Newbern,2
+Moundville,Newton,2
+Moundville,Newbern,2
+Moundville,Mount Vernon,2
+Kennedy,Winfield,2
+Fayette,Kennedy,2
+Fayette,Glen Allen,2
+Eutaw,Winfield,2
+Belk,Kennedy,2
+Belk,Winfield,2
+Belk,Tuscaloosa,2
+Belk,Newton,2
+Belk,Newbern,2
+Belk,Mount Vernon,2
+Belk,Moundville,2
+Belk,Greensboro,2
+Brent,Kennedy,2
+Belk,Glen Allen,2
+Belk,Fayette,2
+Belk,Eutaw,2
+Belk,Carrollton,2
+Belk,Brent,2
+Athens,Selma,2
+Brent,Glen Allen,2
+Brent,Mount Vernon,2
+Eutaw,Newton,2
+Carrollton,Newton,2
+Eutaw,Newbern,2
+Eutaw,Mount Vernon,2
+Eutaw,Kennedy,2
+Moulton,Union Springs,2
+Eutaw,Glen Allen,2
+Tuskegee,Union Springs,2
+Anniston,Dothan,2
+Brent,Newbern,2
+Fultondale,Gardendale,2
+Carrollton,Newbern,2
+Carrollton,Mount Vernon,2
+Carrollton,Kennedy,2
+Brent,Winfield,2
+Brent,Newton,2
+Carbon Hill,Prattville,2
+Decatur,Troy,2
+Florence,Gadsden,2
+Florence,Fort Payne,2
+Camden,Eutaw,2
+Centreville,Greenville,2
+Geneva,Greensboro,2
+Geneva,Livingston,2
+Greensboro,Russellville,2
+Dothan,Sylacauga,2
+Jasper,Scottsboro,2
+Talladega,Vestavia Hills,2
+Anniston,Gulf Shores,2
+Anniston,Munford,2
+Guntersville,Mobile,2
+Munford,Oxford,2
+Florence,Guntersville,2
+Montgomery,Pell City,2
+Troy,Wetumpka,2
+Brewton,Russellville,2
+Brewton,Greensboro,2
+Bay Minette,Greensboro,2
+Linden,Northport,2
+Florence,Gardendale,2
+Aliceville,Montgomery,2
+Andalusia,Jasper,2
+Auburn,Trussville,2
+Gulf Shores,Pelham,2
+Daleville,Dothan,2
+Florence,Prattville,2
+Alexander City,Bay Minette,2
+Gardendale,Jasper,2
+Brent,Coaling,2
+Hartselle,Montgomery,2
+Northport,Russellville,2
+Dothan,Northport,2
+Coaling,Pleasant Grove,2
+Auburn,Leeds,2
+Fairhope,Greensboro,2
+Enterprise,Mobile,2
+Bessemer,Gardendale,2
+Auburn,Calera,2
+Marion,Troy,2
+Marion,Russellville,2
+Hueytown,Montgomery,2
+Marion,Mobile,2
+Lincoln,Russellville,2
+Brookwood,Florence,2
+Carbon Hill,Livingston,2
+Greenville,Russellville,2
+Brookwood,Saraland,2
+Greenville,Marion,2
+Florence,Russellville,2
+Florence,Marion,2
+Florence,Lincoln,2
+Birmingham,Sheffield,2
+Brookwood,Spanish Fort,2
+Northport,Uniontown,2
+Evergreen,Mobile,2
+Camden,Thomasville,2
+Jackson,Talladega,2
+Clay,Madison,2
+Athens,Jackson,2
+Jackson,Mobile,2
+Birmingham,Hartselle,2
+Five Points,Tuscaloosa,2
+Northport,Prichard,2
+Birmingham,Elba,2
+Elba,Gulf Shores,2
+Greensboro,Monroeville,2
+Bear Creek,Moundville,2
+Hamilton,Monroeville,2
+Northport,Troy,2
+Enterprise,Gardendale,2
+Dothan,Fort Payne,2
+Brookwood,Wetumpka,2
+Carbon Hill,Moundville,2
+Arab,Vestavia Hills,2
+Cullman,Jacksonville,2
+Decatur,Gardendale,2
+Gadsden,Southside,2
+Anniston,Atmore,2
+Atmore,Boaz,2
+Atmore,Childersburg,2
+Foley,Selma,2
+Decatur,Foley,2
+Andalusia,Foley,2
+Atmore,Haleyville,2
+Atmore,Heflin,2
+Atmore,Madison,2
+Atmore,Northport,2
+Atmore,Sylacauga,2
+Arab,Mountain Brook,2
+Arab,Athens,2
+Muscle Shoals,Tuscumbia,2
+Decatur,Vestavia Hills,2
+Brookwood,Tarrant,2
+Bessemer,Wetumpka,2
+Bessemer,Tarrant,2
+Decatur,Trussville,2
+Clanton,Montgomery,2
+Bear Creek,Russellville,2
+Gadsden,Oak Grove,2
+Andalusia,Hueytown,2
+Courtland,Decatur,2
+Fairfield,Pleasant Grove,2
+Newbern,Northport,2
+Gadsden,Glencoe,2
+Alabaster,Pleasant Grove,2
+Andalusia,Oak Grove,2
+Atmore,Union Grove,2
+Eutaw,Parrish,2
+Parrish,Tuscaloosa,2
+Fairfield,Linden,2
+Cullman,Fort Payne,2
+Cullman,Jackson,2
+Parrish,Sipsey,2
+Adamsville,Parrish,2
+Birmingham,Maytown,2
+Homewood,Leeds,2
+Addison,Aliceville,2
+Calera,Montevallo,2
+Birmingham,Sipsey,2
+Montgomery,Moody,2
+Brent,Brookwood,2
+Demopolis,Maytown,2
+Decatur,Jasper,2
+Maytown,Mobile,2
+Cordova,Glen Allen,2
+Dora,Greensboro,2
+Childersburg,Jasper,2
+Mobile,Montevallo,2
+Athens,Northport,2
+Montgomery,Moundville,2
+Mobile,Satsuma,2
+Aliceville,Union,2
+Dothan,Madison,2
+Mobile,Talladega,2
+Marion,Montevallo,2
+Northport,Tuskegee,2
+Dothan,Talladega,2
+Dothan,Jacksonville,2
+Fairfield,Northport,2
+Fultondale,Oxford,2
+Greenville,Heflin,2
+Opp,Tuscaloosa,2
+Glen Allen,Newbern,2
+Alexander City,Sylacauga,2
+Hamilton,Jacksonville,2
+Alabaster,Eutaw,2
+Carrollton,Centre,2
+Alexander City,Anniston,2
+Roanoke,Wetumpka,2
+Carrollton,Haleyville,2
+Cordova,Gadsden,2
+Fayette,Sulligent,2
+Fayette,Selma,2
+Fayette,Rockford,2
+Aliceville,Talladega,2
+Jasper,Opelika,2
+Carrollton,Heflin,2
+Jasper,Pelham,2
+Carrollton,Jacksonville,2
+Cordova,Pelham,2
+Fayette,Opelika,2
+Roanoke,Talladega,2
+Roanoke,Sylacauga,2
+Roanoke,Selma,2
+Fayette,Heflin,2
+Gadsden,Linden,2
+Gadsden,Moundville,2
+Jasper,Sylacauga,2
+Gadsden,Pell City,2
+Anniston,Greensboro,2
+Greensboro,Pell City,2
+Talladega,Wetumpka,2
+Jacksonville,Oneonta,2
+Bay Minette,Northport,2
+Talladega,Valley,2
+Columbiana,Demopolis,2
+Greensboro,Lanett,2
+Alabaster,Jasper,2
+Anniston,Carrollton,2
+Greensboro,Jacksonville,2
+Greensboro,Heflin,2
+Sylacauga,Wetumpka,2
+Jacksonville,Selma,2
+Sulligent,Talladega,2
+Selma,Wetumpka,2
+Gadsden,Sylacauga,2
+Selma,Talladega,2
+Gadsden,Prattville,2
+Roanoke,Rockford,2
+Prattville,Wetumpka,2
+Greensboro,Rockford,2
+Pell City,Wetumpka,2
+Enterprise,Ozark,2
+Enterprise,Muscle Shoals,2
+Clanton,Selma,2
+Demopolis,Sylacauga,2
+Alabaster,Pelham,2
+Pelham,Wetumpka,2
+Aliceville,Pell City,2
+Clanton,Fayette,2
+Carrollton,Rockford,2
+Aliceville,Opelika,2
+Aliceville,Oneonta,2
+Clanton,Greensboro,2
+Aliceville,Moody,2
+Aliceville,Marion,2
+Aliceville,Linden,2
+Demopolis,Pell City,2
+Demopolis,Moody,2
+Pelham,Sylacauga,2
+Pelham,Sulligent,2
+Alabaster,Centre,2
+Columbiana,Greensboro,2
+Carrollton,Marion,2
+Northport,Spanish Fort,2
+Eutaw,Rockford,2
+Prattville,Sulligent,2
+Prattville,Selma,2
+Clanton,Gadsden,2
+Carrollton,Moody,2
+Fairhope,Northport,2
+Fairhope,Spanish Fort,2
+Fort Payne,Gadsden,2
+Eutaw,Linden,2
+Eutaw,Heflin,2
+Eutaw,Gadsden,2
+Gadsden,Guntersville,2
+Gadsden,Spanish Fort,2
+Guntersville,Madison,2
+Demopolis,Wetumpka,2
+Guntersville,Saraland,2
+Madison,Saraland,2
+Jasper,York,2
+Northport,Saraland,2
+Greensboro,Roanoke,2
+Greensboro,Wetumpka,2
+Centre,Fayette,2
+Kellyton,Tuscaloosa,2
+Heflin,Jasper,2
+Alexander City,Eutaw,2
+Heflin,Rockford,2
+Dothan,Phenix City,2
+Dothan,Eufaula,2
+Alexander City,Demopolis,2
+Birmingham,Mulga,2
+Brent,Clanton,2
+Albertville,Gadsden,2
+Brent,Columbiana,2
+Hamilton,Sylacauga,2
+Hamilton,Sulligent,2
+Auburn,Pell City,2
+Hamilton,Selma,2
+Hamilton,Roanoke,2
+Hamilton,Pelham,2
+Muscle Shoals,Selma,2
+Irondale,Montgomery,2
+Hamilton,Opelika,2
+Greensboro,Wilsonville,2
+Birmingham,Roanoke,2
+Clanton,Roanoke,2
+Birmingham,Graysville,2
+Greensboro,Ozark,2
+Alexander City,Livingston,2
+Alexander City,Heflin,2
+Bessemer,Pennington,2
+Birmingham,Pennington,2
+Alexander City,Marion,2
+Heflin,Marion,2
+Heflin,Livingston,2
+Birmingham,Lineville,2
+Demopolis,Pennington,2
+Alexander City,Hamilton,2
+Heflin,Pelham,2
+Auburn,Sulligent,2
+Homewood,Pennington,2
+Livingston,Pennington,2
+Montgomery,Pennington,2
+Pennington,Selma,2
+Pennington,Tuscaloosa,2
+Alexander City,Fayette,2
+Alexander City,Dadeville,2
+Hamilton,Moody,2
+Bay Minette,Fairhope,2
+Anniston,Guntersville,2
+Alexander City,Carrollton,2
+Jacksonville,Livingston,2
+Hueytown,Jacksonville,2
+Anniston,Roanoke,2
+Jacksonville,Trussville,2
+Auburn,Clay,2
+Auburn,Saraland,2
+Haleyville,Pell City,2
+Haleyville,Pelham,2
+Anniston,Pelham,2
+Haleyville,Opelika,2
+Auburn,Bay Minette,2
+Haleyville,Moundville,2
+Clay,Phenix City,2
+Clay,Saraland,2
+Auburn,Montevallo,2
+Cullman,Hueytown,2
+Jacksonville,Marion,2
+Greensboro,York,2
+Anniston,Wetumpka,2
+Indian Springs Village,Montgomery,2
+Auburn,Moundville,2
+Birmingham,Orange Beach,2
+Auburn,Moody,2
+Hamilton,Marion,2
+Ozark,Selma,2
+Alexander City,Centreville,2
+Auburn,Marion,2
+Ozark,Tuscaloosa,2
+Anniston,Bay Minette,2
+Auburn,Linden,2
+Auburn,Jasper,2
+Fairhope,Saraland,2
+Fairhope,Phenix City,2
+Haleyville,York,2
+Alexander City,Centre,2
+Auburn,Columbiana,2
+Heflin,Wetumpka,2
+Haleyville,Wetumpka,2
+Auburn,Centre,2
+Anniston,Decatur,2
+Anniston,Fairhope,2
+Pelham,Selma,2
+Fort Payne,Northport,2
+Centreville,Heflin,2
+Marion,Talladega,2
+Helena,Leeds,2
+Helena,Oxford,2
+Helena,Pelham,2
+Alabaster,Wetumpka,2
+Centreville,Sulligent,2
+Alexander City,Rockford,2
+Marion,Moundville,2
+Moody,Sylacauga,2
+Atmore,Wetumpka,2
+Jacksonville,Mountain Brook,2
+Marion,Rockford,2
+Centre,Rockford,2
+Phenix City,Valley,2
+Fairhope,Russellville,2
+Oneonta,Sulligent,2
+Alexander City,Roanoke,2
+Centreville,Selma,2
+Mountain Brook,Oxford,2
+Alexander City,Wetumpka,2
+Birmingham,Hokes Bluff,2
+Mountain Brook,Pelham,2
+Alexander City,Valley,2
+Center Point,Demopolis,2
+Montgomery,Sulligent,2
+Oxford,Pelham,2
+Bay Minette,Selma,2
+Helena,Jacksonville,2
+Linden,York,2
+Centreville,Cordova,2
+Center Point,Helena,2
+Center Point,Jacksonville,2
+Cordova,Haleyville,2
+Aliceville,Centreville,2
+Aliceville,Auburn,2
+Center Point,Leeds,2
+Center Point,Mountain Brook,2
+Clanton,Demopolis,2
+Demopolis,Leeds,2
+Moundville,York,2
+Centreville,Clanton,2
+Centreville,Columbiana,2
+Marion,Prattville,2
+Centreville,Sylacauga,2
+Phenix City,Smiths Station,2
+Sylacauga,Valley,2
+Gardendale,Livingston,2
+Moody,Pell City,2
+Moody,Pelham,2
+Moody,Opelika,2
+Hamilton,Leeds,2
+Tuscaloosa,Valley,2
+Hamilton,Mountain Brook,2
+Selma,Valley Grande,2
+Centreville,Haleyville,2
+Centreville,Rockford,2
+Andalusia,Muscle Shoals,2
+Livingston,Pelham,2
+Opelika,Sulligent,2
+Centreville,York,2
+Birmingham,Valley,2
+Opelika,Sylacauga,2
+Opelika,Talladega,2
+Centre,Livingston,2
+Linden,Marion,2
+Millbrook,Prattville,2
+Linden,Livingston,2
+Centre,Jasper,2
+Moundville,Opelika,2
+Arab,Birmingham,2
+Centre,Heflin,2
+Pelham,Spanish Fort,2
+Guntersville,Spanish Fort,2
+Guntersville,Pelham,2
+Alexander City,Selma,2
+Centreville,Linden,2
+Centreville,Oneonta,2
+Pelham,Pell City,2
+Centre,Greensboro,2
+Homewood,Sylacauga,2
+Brewton,Rockford,2
+Livingston,Rockford,2
+Andalusia,Ozark,2
+Atmore,Sulligent,2
+Phenix City,Spanish Fort,2
+Opelika,Pelham,2
+Centre,Oneonta,2
+Opelika,Pell City,2
+Mobile,Prattville,2
+Opelika,Prattville,2
+Linden,Opelika,2
+Centre,Gadsden,2
+Hamilton,Montgomery,2
+Livingston,Sylacauga,2
+Livingston,Talladega,2
+Alabaster,Clanton,2
+Roanoke,Thomasville,1
+Ozark,Sylacauga,1
+Centre,Hartselle,1
+Birmingham,Courtland,1
+Camp Hill,Montgomery,1
+Ozark,Wetumpka,1
+Homewood,Irondale,1
+Monroeville,Thomasville,1
+Ozark,Thomasville,1
+Centre,Courtland,1
+Eutaw,Thomasville,1
+Gadsden,Prichard,1
+Camp Hill,Troy,1
+Atmore,Tuscumbia,1
+Centreville,Coaling,1
+Ozark,Roanoke,1
+Thomasville,Wetumpka,1
+Talladega,Thomasville,1
+Ozark,Talladega,1
+Montgomery,Roanoke,1
+Montgomery,Opp,1
+Monroeville,Wetumpka,1
+Mobile,Tuscumbia,1
+Sylacauga,Thomasville,1
+Jasper,Rainsville,1
+Birmingham,Camden,1
+Jasper,Tuscumbia,1
+Homewood,Monroeville,1
+Clanton,Columbiana,1
+Clanton,Jacksonville,1
+Elba,Enterprise,1
+Camp Hill,Jacksonville,1
+Troy,Union Grove,1
+Sylvan Springs,Tuscaloosa,1
+Centreville,Wetumpka,1
+Montgomery,Tallassee,1
+Birmingham,Southside,1
+Anniston,Hartselle,1
+Alexander City,Athens,1
+Alexander City,Decatur,1
+Morris,Pinson,1
+Fairfield,Homewood,1
+Northport,Sylvan Springs,1
+Crossville,Tuscaloosa,1
+Jackson,Tuscaloosa,1
+Auburn,Muscle Shoals,1
+Birmingham,Butler,1
+Brookwood,Butler,1
+Brookwood,Phenix City,1
+Brookwood,Dothan,1
+Brookwood,Pinson,1
+Centreville,Valley,1
+Butler,Gadsden,1
+Clanton,Marion,1
+Butler,Phenix City,1
+Clanton,Livingston,1
+Sylacauga,Troy,1
+Madison,Troy,1
+Gulf Shores,Marion,1
+Birmingham,Camp Hill,1
+Clanton,Haleyville,1
+Arab,Florence,1
+Birmingham,La Fayette,1
+Auburn,La Fayette,1
+Anniston,Troy,1
+Clanton,Heflin,1
+Jackson,Prichard,1
+Centreville,Hartselle,1
+Gulf Shores,Uniontown,1
+Demopolis,Gulf Shores,1
+Bay Minette,Daphne,1
+Boaz,Troy,1
+Clanton,Lanett,1
+Clanton,Linden,1
+Clanton,Lineville,1
+Childersburg,Troy,1
+Haleyville,Troy,1
+Andalusia,Evergreen,1
+Heflin,Troy,1
+Centre,Leesburg,1
+Demopolis,Kellyton,1
+Centreville,Courtland,1
+Fairhope,Monroeville,1
+Monroeville,Talladega,1
+Birmingham,Ozark,1
+Foley,Jackson,1
+Foley,Monroeville,1
+Cullman,Thomasville,1
+Foley,Ozark,1
+Cullman,Sylacauga,1
+Cullman,Selma,1
+Cullman,Roanoke,1
+Cullman,Ozark,1
+Akron,Clanton,1
+Cullman,Monroeville,1
+Foley,Roanoke,1
+Cullman,Gulf Shores,1
+Foley,Sylacauga,1
+Cullman,Elba,1
+Birmingham,Jackson,1
+Courtland,Greenville,1
+Foley,Talladega,1
+Bay Minette,Wetumpka,1
+Bay Minette,Thomasville,1
+Bay Minette,Talladega,1
+Foley,Thomasville,1
+Bay Minette,Sylacauga,1
+Foley,Wetumpka,1
+Bay Minette,Roanoke,1
+Clanton,Eutaw,1
+Bay Minette,Ozark,1
+Gulf Shores,Hamilton,1
+Gulf Shores,Jackson,1
+Bay Minette,Montgomery,1
+Bay Minette,Monroeville,1
+Cullman,Wetumpka,1
+Dothan,Elba,1
+Dothan,Gulf Shores,1
+Foley,Hamilton,1
+Fairhope,Ozark,1
+Fairhope,Roanoke,1
+Fairhope,Jackson,1
+Fairhope,Hamilton,1
+Elba,Wetumpka,1
+Elba,Thomasville,1
+Elba,Talladega,1
+Elba,Sylacauga,1
+Elba,Selma,1
+Elba,Roanoke,1
+Elba,Ozark,1
+Elba,Monroeville,1
+Fairhope,Selma,1
+Elba,Jackson,1
+Fairhope,Sylacauga,1
+Fairhope,Talladega,1
+Elba,Hamilton,1
+Fairhope,Thomasville,1
+Elba,Greensboro,1
+Elba,Foley,1
+Elba,Fairhope,1
+Dothan,Wetumpka,1
+Fairhope,Wetumpka,1
+Dothan,Thomasville,1
+Dothan,Roanoke,1
+Foley,Greensboro,1
+Dothan,Monroeville,1
+Dothan,Jackson,1
+Dothan,Hamilton,1
+Bay Minette,Jackson,1
+Gulf Shores,Monroeville,1
+Gulf Shores,Ozark,1
+Andalusia,Cullman,1
+Andalusia,Anniston,1
+Alexander City,Thomasville,1
+Alexander City,Ozark,1
+Alexander City,Monroeville,1
+Alexander City,Jackson,1
+Alexander City,Foley,1
+Jackson,Monroeville,1
+Alexander City,Fairhope,1
+Jackson,Ozark,1
+Jackson,Roanoke,1
+Jackson,Selma,1
+Jackson,Sylacauga,1
+Alexander City,Elba,1
+Alexander City,Dothan,1
+Alexander City,Cullman,1
+Alexander City,Andalusia,1
+Birmingham,Riverside,1
+Bayou La Batre,Bridgeport,1
+Hartselle,Oneonta,1
+Jackson,Thomasville,1
+Greenville,Oneonta,1
+Greenville,Hartselle,1
+Jackson,Wetumpka,1
+Courtland,Oneonta,1
+Monroeville,Ozark,1
+Monroeville,Roanoke,1
+Courtland,Hartselle,1
+Monroeville,Selma,1
+Monroeville,Sylacauga,1
+Andalusia,Bay Minette,1
+Andalusia,Dothan,1
+Gulf Shores,Roanoke,1
+Hamilton,Thomasville,1
+Gulf Shores,Selma,1
+Gulf Shores,Sylacauga,1
+Gulf Shores,Talladega,1
+Gulf Shores,Thomasville,1
+Gulf Shores,Wetumpka,1
+Bay Minette,Hamilton,1
+Bay Minette,Gulf Shores,1
+Bay Minette,Elba,1
+Bay Minette,Dothan,1
+Bay Minette,Cullman,1
+Anniston,Thomasville,1
+Anniston,Ozark,1
+Anniston,Monroeville,1
+Anniston,Jackson,1
+Anniston,Foley,1
+Anniston,Elba,1
+Andalusia,Wetumpka,1
+Andalusia,Thomasville,1
+Andalusia,Talladega,1
+Andalusia,Sylacauga,1
+Hamilton,Jackson,1
+Andalusia,Roanoke,1
+Andalusia,Monroeville,1
+Andalusia,Jackson,1
+Andalusia,Hamilton,1
+Andalusia,Gulf Shores,1
+Andalusia,Fairhope,1
+Hamilton,Ozark,1
+Andalusia,Elba,1
+Akron,Jasper,1
+Grant,Guntersville,1
+Northport,Pleasant Grove,1
+Abbeville,Greensboro,1
+Abbeville,Camden,1
+Abbeville,Carrollton,1
+Abbeville,Centre,1
+Abbeville,Centreville,1
+Abbeville,Dadeville,1
+Abbeville,Eutaw,1
+Abbeville,Fayette,1
+Abbeville,Geneva,1
+Abbeville,Greenville,1
+Columbiana,Hamilton,1
+Abbeville,Heflin,1
+Abbeville,La Fayette,1
+Abbeville,Livingston,1
+Abbeville,Marion,1
+Abbeville,Moulton,1
+Abbeville,Rockford,1
+Abbeville,Russellville,1
+Abbeville,Tuskegee,1
+Abbeville,Butler,1
+Abbeville,Brewton,1
+Abbeville,Bay Minette,1
+Abbeville,Alexander City,1
+Newton,Sipsey,1
+Parrish,Winfield,1
+Sipsey,Tuscaloosa,1
+Sipsey,Winfield,1
+Columbiana,Jasper,1
+Forkland,Linden,1
+Forkland,Selma,1
+Glencoe,Southside,1
+Alexander City,Newbern,1
+Demopolis,Newbern,1
+Mount Vernon,Prichard,1
+Columbiana,Jacksonville,1
+Columbiana,Heflin,1
+Lake View,Pleasant Grove,1
+Northport,Valley,1
+Chickasaw,Northport,1
+Chickasaw,Tuscaloosa,1
+Abbeville,Union Springs,1
+Alexander City,Brewton,1
+Brent,Pleasant Grove,1
+Brewton,Camden,1
+Bay Minette,Livingston,1
+Bay Minette,Marion,1
+Bay Minette,Moulton,1
+Bay Minette,Rockford,1
+Bay Minette,Russellville,1
+Bay Minette,Tuskegee,1
+Bay Minette,Union Springs,1
+Brewton,Butler,1
+Brewton,Carrollton,1
+Alexander City,Butler,1
+Brewton,Centre,1
+Brewton,Centreville,1
+Brewton,Dadeville,1
+Brewton,Eutaw,1
+Brewton,Fayette,1
+Brewton,Geneva,1
+Brewton,Greenville,1
+Brewton,Heflin,1
+Bay Minette,La Fayette,1
+Bay Minette,Heflin,1
+Bay Minette,Greenville,1
+Columbiana,Haleyville,1
+Alexander City,Geneva,1
+Alexander City,Greenville,1
+Alexander City,La Fayette,1
+Alexander City,Moulton,1
+Alexander City,Russellville,1
+Alexander City,Tuskegee,1
+Alexander City,Union Springs,1
+Bay Minette,Brewton,1
+Bay Minette,Butler,1
+Bay Minette,Camden,1
+Bay Minette,Carrollton,1
+Bay Minette,Centre,1
+Bay Minette,Centreville,1
+Bay Minette,Dadeville,1
+Bay Minette,Eutaw,1
+Bay Minette,Fayette,1
+Bay Minette,Geneva,1
+Newton,Parrish,1
+Newbern,Sipsey,1
+Newbern,Parrish,1
+Coaling,Fayette,1
+Carbon Hill,Newton,1
+Carbon Hill,Sipsey,1
+Carrollton,Coaling,1
+Columbiana,Linden,1
+Carrollton,Kansas,1
+Carrollton,Parrish,1
+Carrollton,Sipsey,1
+Coaling,Cordova,1
+Coaling,Glen Allen,1
+Mount Vernon,Sipsey,1
+Coaling,Greensboro,1
+Coaling,Jasper,1
+Coaling,Kansas,1
+Coaling,Kennedy,1
+Coaling,Mount Vernon,1
+Coaling,Newbern,1
+Coaling,Newton,1
+Coaling,Parrish,1
+Carbon Hill,Newbern,1
+Carbon Hill,Mount Vernon,1
+Carbon Hill,Kennedy,1
+Carbon Hill,Kansas,1
+Belk,Sipsey,1
+Brent,Carbon Hill,1
+Columbiana,Lineville,1
+Brent,Cordova,1
+Brent,Kansas,1
+Brent,Parrish,1
+Brent,Sipsey,1
+Brookwood,Kansas,1
+Brookwood,Kennedy,1
+Brookwood,Newbern,1
+Brookwood,Newton,1
+Brookwood,Parrish,1
+Brookwood,Sipsey,1
+Carbon Hill,Carrollton,1
+Carbon Hill,Coaling,1
+Carbon Hill,Eutaw,1
+Carbon Hill,Fayette,1
+Coaling,Sipsey,1
+Coaling,Winfield,1
+Cordova,Eutaw,1
+Jasper,Kansas,1
+Jasper,Mount Vernon,1
+Jasper,Newbern,1
+Jasper,Newton,1
+Kansas,Kennedy,1
+Kansas,Moundville,1
+Kansas,Mount Vernon,1
+Kansas,Newbern,1
+Kansas,Newton,1
+Kansas,Parrish,1
+Kansas,Sipsey,1
+Kansas,Tuscaloosa,1
+Kansas,Winfield,1
+Kennedy,Parrish,1
+Kennedy,Sipsey,1
+Moundville,Parrish,1
+Moundville,Sipsey,1
+Mount Vernon,Parrish,1
+Jasper,Kennedy,1
+Greensboro,Sipsey,1
+Cordova,Fayette,1
+Greensboro,Parrish,1
+Cordova,Kansas,1
+Cordova,Kennedy,1
+Cordova,Moundville,1
+Cordova,Mount Vernon,1
+Cordova,Newbern,1
+Cordova,Newton,1
+Cordova,Sipsey,1
+Columbiana,Lanett,1
+Eutaw,Kansas,1
+Eutaw,Sipsey,1
+Fayette,Kansas,1
+Fayette,Parrish,1
+Fayette,Sipsey,1
+Glen Allen,Kansas,1
+Glen Allen,Parrish,1
+Glen Allen,Sipsey,1
+Greensboro,Kansas,1
+Brewton,La Fayette,1
+Brewton,Livingston,1
+Brewton,Marion,1
+Moulton,Rockford,1
+La Fayette,Union Springs,1
+Livingston,Moulton,1
+Livingston,Russellville,1
+Livingston,Tuskegee,1
+Livingston,Union Springs,1
+Marion,Moulton,1
+Marion,Tuskegee,1
+Marion,Union Springs,1
+Moulton,Russellville,1
+Geneva,Russellville,1
+Rockford,Russellville,1
+Rockford,Tuskegee,1
+Rockford,Union Springs,1
+Russellville,Tuskegee,1
+Russellville,Union Springs,1
+Clanton,Valley,1
+Clanton,Uniontown,1
+Butler,Spanish Fort,1
+La Fayette,Tuskegee,1
+La Fayette,Russellville,1
+La Fayette,Rockford,1
+La Fayette,Moulton,1
+Geneva,Union Springs,1
+Greensboro,Greenville,1
+Greensboro,La Fayette,1
+Clanton,Wetumpka,1
+Greenville,La Fayette,1
+Greenville,Livingston,1
+Greenville,Moulton,1
+Greenville,Rockford,1
+Greenville,Tuskegee,1
+Greenville,Union Springs,1
+Heflin,La Fayette,1
+Heflin,Moulton,1
+Heflin,Russellville,1
+Heflin,Tuskegee,1
+Heflin,Union Springs,1
+La Fayette,Livingston,1
+La Fayette,Marion,1
+Clanton,Talladega,1
+Clanton,Sylacauga,1
+Dauphin Island,Mobile,1
+Clanton,Pelham,1
+Columbia,Phenix City,1
+Clanton,Opelika,1
+Dothan,Tuskegee,1
+Clanton,Oneonta,1
+Clanton,Moundville,1
+Fairhope,Leeds,1
+Fairhope,Prattville,1
+Clanton,Moody,1
+Leeds,Prattville,1
+Brighton,Enterprise,1
+Brighton,Mobile,1
+Clanton,Millbrook,1
+Childersburg,Munford,1
+Munford,Sylacauga,1
+Bessemer,Forkland,1
+Forkland,Tuscaloosa,1
+Leeds,Northport,1
+Columbia,Eufaula,1
+Montgomery,Rainbow City,1
+Clanton,Sulligent,1
+Mobile,Rainbow City,1
+Clanton,Rockford,1
+Gulf Shores,Munford,1
+Gulf Shores,Oxford,1
+Fort Payne,Henagar,1
+Ardmore,Citronelle,1
+Ardmore,Decatur,1
+Ardmore,Eufaula,1
+Ardmore,Mobile,1
+Ardmore,Montgomery,1
+Ardmore,Rainbow City,1
+Citronelle,Decatur,1
+Citronelle,Eufaula,1
+Citronelle,Montgomery,1
+Citronelle,Rainbow City,1
+Clanton,Prattville,1
+Decatur,Rainbow City,1
+Eufaula,Rainbow City,1
+Geneva,Tuskegee,1
+Geneva,Rockford,1
+Brewton,Moulton,1
+Camden,Heflin,1
+Camden,Carrollton,1
+Camden,Centre,1
+Camden,Centreville,1
+Camden,Dadeville,1
+Columbiana,Fayette,1
+Camden,Fayette,1
+Camden,Geneva,1
+Camden,Greenville,1
+Camden,La Fayette,1
+Geneva,Moulton,1
+Camden,Livingston,1
+Camden,Marion,1
+Camden,Rockford,1
+Camden,Russellville,1
+Carrollton,Dadeville,1
+Carrollton,Geneva,1
+Carrollton,Greenville,1
+Carrollton,La Fayette,1
+Butler,Union Springs,1
+Butler,Tuskegee,1
+Butler,Russellville,1
+Butler,Rockford,1
+Columbiana,Gadsden,1
+Brewton,Tuskegee,1
+Brewton,Union Springs,1
+Butler,Camden,1
+Butler,Centre,1
+Butler,Centreville,1
+Butler,Dadeville,1
+Butler,Eutaw,1
+Butler,Fayette,1
+Butler,Geneva,1
+Butler,Greensboro,1
+Butler,Greenville,1
+Butler,Heflin,1
+Butler,La Fayette,1
+Butler,Livingston,1
+Butler,Marion,1
+Butler,Moulton,1
+Carrollton,Moulton,1
+Carrollton,Russellville,1
+Carrollton,Tuskegee,1
+Dadeville,Rockford,1
+Eutaw,Geneva,1
+Eutaw,La Fayette,1
+Eutaw,Moulton,1
+Eutaw,Tuskegee,1
+Eutaw,Union Springs,1
+Fayette,Geneva,1
+Fayette,Greenville,1
+Fayette,La Fayette,1
+Fayette,Moulton,1
+Fayette,Russellville,1
+Fayette,Tuskegee,1
+Fayette,Union Springs,1
+Geneva,Greenville,1
+Geneva,Heflin,1
+Geneva,La Fayette,1
+Clanton,York,1
+Geneva,Marion,1
+Dadeville,Union Springs,1
+Dadeville,Moulton,1
+Carrollton,Union Springs,1
+Dadeville,Livingston,1
+Centre,Geneva,1
+Centre,La Fayette,1
+Centre,Moulton,1
+Centre,Tuskegee,1
+Centre,Union Springs,1
+Centreville,Dadeville,1
+Centreville,Geneva,1
+Columbiana,Eutaw,1
+Centreville,La Fayette,1
+Centreville,Moulton,1
+Centreville,Tuskegee,1
+Centreville,Union Springs,1
+Dadeville,Fayette,1
+Dadeville,Geneva,1
+Dadeville,Greensboro,1
+Dadeville,Heflin,1
+Dadeville,La Fayette,1
+Butler,Pinson,1
+Calera,Sulligent,1
+Butler,Tuscaloosa,1
+Fairview,Greensboro,1
+Fairfield,Fairview,1
+Alexander City,Pell City,1
+Fairfield,Lincoln,1
+Fairfield,Moundville,1
+Fairfield,Opelika,1
+Fairfield,Russellville,1
+Fairview,Florence,1
+Fairview,Lincoln,1
+Demopolis,Lincoln,1
+Fairview,Northport,1
+Fairview,Opelika,1
+Fairview,Russellville,1
+Florence,Greensboro,1
+Greensboro,Lincoln,1
+Lincoln,Moundville,1
+Lincoln,Northport,1
+Demopolis,Russellville,1
+Aliceville,Uniontown,1
+Moundville,Russellville,1
+Brewton,Lincoln,1
+Bear Creek,Opelika,1
+Bear Creek,Tuscaloosa,1
+Brewton,Brookwood,1
+Brewton,Demopolis,1
+Brewton,Fairfield,1
+Brewton,Fairview,1
+Brewton,Florence,1
+Brewton,Moundville,1
+Demopolis,Fairview,1
+Brewton,Northport,1
+Brewton,Opelika,1
+Brookwood,Fairfield,1
+Brookwood,Fairview,1
+Brookwood,Lincoln,1
+Brookwood,Russellville,1
+Aliceville,Valley,1
+Lincoln,Opelika,1
+Northport,Opelika,1
+Alexander City,Moundville,1
+Leeds,Selma,1
+Monroeville,Prattville,1
+Montevallo,Prattville,1
+Oak Grove,Prattville,1
+Clay,Leeds,1
+Homewood,Midfield,1
+Homewood,Oak Grove,1
+Leeds,Midfield,1
+Midfield,Mountain Brook,1
+Midfield,Prattville,1
+Midfield,Selma,1
+Oak Grove,Selma,1
+Aliceville,Thomasville,1
+Bessemer,Moundville,1
+Aliceville,Roanoke,1
+Brilliant,Carrollton,1
+Brilliant,Gadsden,1
+Monroeville,Oak Grove,1
+Midfield,Monroeville,1
+Opelika,Russellville,1
+Bessemer,Monroeville,1
+Demopolis,Dora,1
+Dora,Fairfield,1
+Dora,Florence,1
+Dora,Mobile,1
+Enterprise,Fairfield,1
+Fairfield,Jasper,1
+Aliceville,Rockford,1
+Enterprise,Marion,1
+Marion,Oak Grove,1
+Enterprise,Monroeville,1
+Haleyville,Monroeville,1
+Hamilton,Midfield,1
+Hueytown,Marion,1
+Hueytown,Prattville,1
+Marion,Midfield,1
+Marion,Monroeville,1
+Bear Creek,Northport,1
+Bear Creek,Lincoln,1
+Bear Creek,Greensboro,1
+Geneva,Sulligent,1
+Anniston,Marion,1
+Anniston,Livingston,1
+Anniston,Lineville,1
+Geneva,Homewood,1
+Geneva,Hueytown,1
+Anniston,Linden,1
+Geneva,Selma,1
+Geneva,Trussville,1
+Anniston,Millbrook,1
+Anniston,Lanett,1
+Alexander City,Oneonta,1
+Anniston,Demopolis,1
+Livingston,Mountain Brook,1
+Anniston,Columbiana,1
+Aliceville,Gardendale,1
+Chelsea,Gadsden,1
+Clay,Livingston,1
+Clay,Geneva,1
+Bear Creek,Florence,1
+Anniston,Opelika,1
+Anniston,Sulligent,1
+Anniston,Rockford,1
+Carbon Hill,Montevallo,1
+Anniston,Prattville,1
+Helena,Midfield,1
+Anniston,Pell City,1
+Midfield,Sulligent,1
+Andalusia,Carbon Hill,1
+Anniston,Moody,1
+Andalusia,Clay,1
+Andalusia,Geneva,1
+Andalusia,Sulligent,1
+Birmingham,Geneva,1
+Anniston,Oneonta,1
+Carbon Hill,Geneva,1
+Anniston,Moundville,1
+Chelsea,Livingston,1
+Chelsea,Northport,1
+Gadsden,Gardendale,1
+Jacksonville,Prichard,1
+Brilliant,Montevallo,1
+Brilliant,Sumiton,1
+Brilliant,Winfield,1
+Glen Allen,Sumiton,1
+Greensboro,Sumiton,1
+Aliceville,Wetumpka,1
+Sumiton,Winfield,1
+Florence,Oneonta,1
+Anniston,Clanton,1
+Mobile,Oneonta,1
+Montgomery,Oneonta,1
+Bear Creek,Brewton,1
+Bear Creek,Brookwood,1
+Bear Creek,Demopolis,1
+Bear Creek,Fairfield,1
+Bear Creek,Fairview,1
+Berry,Winfield,1
+Berry,Mountain Brook,1
+Berry,Greensboro,1
+Berry,Glen Allen,1
+Gardendale,Northport,1
+Gardendale,Sulligent,1
+Anniston,Centreville,1
+Anniston,Centre,1
+Glen Allen,Pelham,1
+Glen Allen,Pleasant Grove,1
+Hueytown,Pleasant Grove,1
+Pelham,Pleasant Grove,1
+Glen Allen,Midfield,1
+Glen Allen,Tarrant,1
+Hueytown,Tarrant,1
+Midfield,Tarrant,1
+Tarrant,Vestavia Hills,1
+Aliceville,York,1
+Berry,Brilliant,1
+Brilliant,Haleyville,1
+Brilliant,Hueytown,1
+Brilliant,Moundville,1
+Prattville,Winfield,1
+Carbon Hill,Gulf Shores,1
+Cordova,Gulf Shores,1
+Cordova,Prattville,1
+Dora,Gulf Shores,1
+Dora,Prattville,1
+Gulf Shores,Prattville,1
+Gulf Shores,Winfield,1
+Anniston,Montevallo,1
+Aliceville,Gulf Shores,1
+Andalusia,Auburn,1
+Andalusia,Cordova,1
+Andalusia,Oxford,1
+Auburn,Munford,1
+Cordova,Munford,1
+Cordova,Oxford,1
+Montgomery,Munford,1
+Bessemer,Gulf Shores,1
+Addison,Oak Grove,1
+Montevallo,Summerdale,1
+Demopolis,Susan Moore,1
+Summerdale,Trussville,1
+Summerdale,Tuscaloosa,1
+Birmingham,Susan Moore,1
+Aliceville,Centre,1
+Clay,Gardendale,1
+Clay,Susan Moore,1
+Demopolis,Glen Allen,1
+Gardendale,Glen Allen,1
+Pleasant Grove,Susan Moore,1
+Gardendale,Montgomery,1
+Gardendale,Susan Moore,1
+Glen Allen,Susan Moore,1
+Haleyville,Susan Moore,1
+Jasper,Susan Moore,1
+Montgomery,Susan Moore,1
+Cordova,Pleasant Grove,1
+Hartselle,Jacksonville,1
+Jacksonville,Spanish Fort,1
+Oxford,Spanish Fort,1
+Brilliant,Oxford,1
+Bessemer,Indian Springs Village,1
+Enterprise,Indian Springs Village,1
+Midfield,Weaver,1
+Aliceville,Florence,1
+Birmingham,Brilliant,1
+Brilliant,Clay,1
+Brilliant,Florence,1
+Clay,Florence,1
+Alexander City,Sulligent,1
+Clay,Oxford,1
+Florence,Glen Allen,1
+Florence,Mountain Brook,1
+Glen Allen,Oxford,1
+Gardendale,Jacksonville,1
+Alabaster,Oxford,1
+Auburn,Pleasant Grove,1
+Elmore,Helena,1
+Hartselle,Pelham,1
+Elmore,Troy,1
+Elmore,Jacksonville,1
+Hartselle,Spanish Fort,1
+Crossville,Enterprise,1
+Crossville,Gadsden,1
+Crossville,Prattville,1
+Crossville,Troy,1
+Crossville,Trussville,1
+Crossville,Vestavia Hills,1
+Prattville,Troy,1
+Aliceville,Anniston,1
+Alexander City,York,1
+Boaz,Marion,1
+Athens,Pell City,1
+Oxford,Pell City,1
+Fultondale,Montevallo,1
+Alexander City,Uniontown,1
+Mountain Brook,Summerdale,1
+Hueytown,Summerdale,1
+Brilliant,Selma,1
+Fairfield,Saraland,1
+Mountain Brook,Muscle Shoals,1
+Muscle Shoals,Saraland,1
+Muscle Shoals,Sumiton,1
+Saraland,Sumiton,1
+Aliceville,Fairfield,1
+Cullman,Fairfield,1
+Cullman,Saraland,1
+Fairfield,Vestavia Hills,1
+Geneva,Saraland,1
+Linden,Saraland,1
+Linden,Vestavia Hills,1
+Dora,Northport,1
+Dora,Spanish Fort,1
+Hueytown,Spanish Fort,1
+Spanish Fort,Sulligent,1
+Carrollton,Clay,1
+Geneva,Sumiton,1
+Geneva,Muscle Shoals,1
+Hanceville,Trussville,1
+Aliceville,Lineville,1
+Brilliant,Thomasville,1
+Carrollton,Thomasville,1
+Enterprise,Moundville,1
+Enterprise,Thomasville,1
+Aliceville,Millbrook,1
+Haleyville,Thomasville,1
+Hueytown,Moundville,1
+Moundville,Vestavia Hills,1
+Enterprise,Sumiton,1
+Montevallo,Wetumpka,1
+Oak Grove,Wetumpka,1
+Aliceville,Muscle Shoals,1
+Demopolis,Muscle Shoals,1
+Demopolis,Saraland,1
+Demopolis,Sumiton,1
+Enterprise,Geneva,1
+Aliceville,Lanett,1
+Clay,Cordova,1
+Cordova,Homewood,1
+Carrollton,Hanceville,1
+Aliceville,Clanton,1
+Andalusia,Prattville,1
+Mountain Brook,Prattville,1
+Bessemer,Summerdale,1
+Birmingham,Summerdale,1
+Brookwood,Hanceville,1
+Brookwood,Summerdale,1
+Carrollton,Summerdale,1
+Homewood,Montevallo,1
+Cordova,Hanceville,1
+Cordova,Summerdale,1
+Dora,Summerdale,1
+Hanceville,Hueytown,1
+Hanceville,Montevallo,1
+Hanceville,Mountain Brook,1
+Hanceville,Summerdale,1
+Aliceville,Columbiana,1
+Susan Moore,Troy,1
+Greensboro,Troy,1
+Greensboro,Susan Moore,1
+Carbon Hill,Gadsden,1
+Aliceville,Heflin,1
+Carbon Hill,Thomasville,1
+Jasper,Mountain Brook,1
+Jasper,Thomasville,1
+Mountain Brook,Thomasville,1
+Thomasville,Trussville,1
+Bessemer,Susan Moore,1
+Alexander City,Prattville,1
+Brookwood,Troy,1
+Carrollton,Susan Moore,1
+Carrollton,Troy,1
+Cordova,Troy,1
+Enterprise,Susan Moore,1
+Gadsden,Susan Moore,1
+Haleyville,Mountain Brook,1
+Anniston,Uniontown,1
+Gadsden,Pinson,1
+Carrollton,Valley,1
+Pleasant Grove,Sulligent,1
+Centre,Demopolis,1
+Centre,Columbiana,1
+Centre,Clanton,1
+Carrollton,York,1
+Carrollton,Wetumpka,1
+Gadsden,Leeds,1
+Carrollton,Uniontown,1
+Centre,Haleyville,1
+Leeds,Sulligent,1
+Carrollton,Talladega,1
+Carrollton,Sylacauga,1
+Montevallo,Sylacauga,1
+Carrollton,Roanoke,1
+Carrollton,Prattville,1
+Oak Grove,Sylacauga,1
+Helena,Pleasant Grove,1
+Centre,Hamilton,1
+Aliceville,Fultondale,1
+Centre,Opelika,1
+Centre,Selma,1
+Belk,Kansas,1
+Calera,Winfield,1
+Centre,Roanoke,1
+Centre,Prattville,1
+Centre,Pell City,1
+Centre,Pelham,1
+Centre,Moundville,1
+Aliceville,Pleasant Grove,1
+Centre,Moody,1
+Centre,Millbrook,1
+Centre,Lineville,1
+Helena,Winfield,1
+Centre,Linden,1
+Centre,Lanett,1
+Centre,Jacksonville,1
+Carrollton,Pell City,1
+Carrollton,Pelham,1
+Anniston,Valley,1
+Brookwood,Sumiton,1
+Carrollton,Lineville,1
+Berry,Brookwood,1
+Berry,Hueytown,1
+Berry,Monroeville,1
+Carrollton,Linden,1
+Carrollton,Lanett,1
+Alabaster,York,1
+Hueytown,Sumiton,1
+Oxford,Sulligent,1
+Monroeville,Sumiton,1
+Alexander City,Aliceville,1
+Carrollton,Columbiana,1
+Bessemer,Talladega,1
+Brookwood,Centreville,1
+Brent,York,1
+Brookwood,Talladega,1
+Carrollton,Millbrook,1
+Oneonta,Trussville,1
+Carrollton,Opelika,1
+Enterprise,Fultondale,1
+Brookwood,Fultondale,1
+Brookwood,Oneonta,1
+Chelsea,Fultondale,1
+Chelsea,Jasper,1
+Chelsea,Oneonta,1
+Chelsea,Oxford,1
+Carrollton,Oneonta,1
+Fultondale,Hueytown,1
+Oneonta,Oxford,1
+Fultondale,Jasper,1
+Fultondale,Oneonta,1
+Fultondale,Sulligent,1
+Fultondale,Trussville,1
+Fultondale,Vestavia Hills,1
+Hueytown,Oneonta,1
+Hueytown,Oxford,1
+Centre,Sulligent,1
+Centre,Sylacauga,1
+Centre,Talladega,1
+Gulf Shores,Saraland,1
+Elba,Phenix City,1
+Elba,Saraland,1
+Elba,Tuscaloosa,1
+Eufaula,Madison,1
+Eufaula,Saraland,1
+Gulf Shores,Madison,1
+Gulf Shores,Phenix City,1
+Guntersville,Phenix City,1
+Elba,Madison,1
+Madison,Phenix City,1
+Auburn,Cullman,1
+Homewood,Mobile,1
+Alabaster,Sylacauga,1
+Clay,West Point,1
+Cullman,Mountain Brook,1
+Cullman,Trussville,1
+Elba,Mobile,1
+Elba,Guntersville,1
+Hueytown,Saraland,1
+Albertville,Jacksonville,1
+Phenix City,Pinson,1
+Pinson,Spanish Fort,1
+Adamsville,Auburn,1
+Town Creek,Tuscaloosa,1
+Auburn,Boaz,1
+Bay Minette,Boaz,1
+Centreville,Uniontown,1
+Jacksonville,Wadley,1
+Elba,Eufaula,1
+Tuscaloosa,Wadley,1
+Enterprise,Fairhope,1
+Clay,Elba,1
+Clay,Eufaula,1
+Clay,Gulf Shores,1
+Clay,Guntersville,1
+Clay,Mobile,1
+Cullman,West Point,1
+Demopolis,West Point,1
+Hueytown,West Point,1
+Florence,Saraland,1
+Centreville,Hamilton,1
+Chelsea,Florence,1
+Alabaster,Valley,1
+Centreville,Gadsden,1
+Chelsea,Saraland,1
+Florence,Hamilton,1
+Florence,Hueytown,1
+Gardendale,Hamilton,1
+Montgomery,West Point,1
+Centre,York,1
+Gardendale,Saraland,1
+Hamilton,Homewood,1
+Centre,Wetumpka,1
+Hamilton,Saraland,1
+Centre,Valley,1
+Centre,Uniontown,1
+Centreville,Jacksonville,1
+Alabaster,Uniontown,1
+Centreville,Lanett,1
+Calera,Hamilton,1
+Mountain Brook,West Point,1
+Trussville,West Point,1
+Tuscaloosa,West Point,1
+Vestavia Hills,West Point,1
+Centreville,Roanoke,1
+Centreville,Prattville,1
+Centreville,Pell City,1
+Centreville,Pelham,1
+Centreville,Opelika,1
+Centreville,Moody,1
+Centreville,Millbrook,1
+Alabaster,Talladega,1
+Centreville,Lineville,1
+Calera,Florence,1
+Calera,Gardendale,1
+Centreville,Hueytown,1
+Centreville,Vestavia Hills,1
+Brent,Wetumpka,1
+Anniston,Helena,1
+Lexington,Munford,1
+Munford,Saraland,1
+Munford,Tuscaloosa,1
+Munford,Vestavia Hills,1
+Anniston,Brookwood,1
+Anniston,Calera,1
+Anniston,Dora,1
+Bessemer,Oxford,1
+Homewood,Munford,1
+Calera,Dora,1
+Calera,Jasper,1
+Calera,Oxford,1
+Calera,Selma,1
+Auburn,Rockford,1
+Auburn,Roanoke,1
+Carrollton,Oxford,1
+Jacksonville,Munford,1
+Gadsden,Munford,1
+Alexander City,Gadsden,1
+Lexington,Mountain Brook,1
+Alexander City,Haleyville,1
+Birmingham,Lanett,1
+Alexander City,Jacksonville,1
+Alexander City,Jasper,1
+Alexander City,Lanett,1
+Alexander City,Linden,1
+Alexander City,Lineville,1
+Lexington,Trussville,1
+Enterprise,Munford,1
+Alexander City,Millbrook,1
+Auburn,York,1
+Auburn,Uniontown,1
+Auburn,Talladega,1
+Aliceville,Munford,1
+Bessemer,Munford,1
+Calera,Munford,1
+Dora,Gadsden,1
+Dora,Helena,1
+Dora,Homewood,1
+Auburn,Fayette,1
+Enterprise,Moody,1
+Auburn,Lanett,1
+Auburn,Heflin,1
+Auburn,Hamilton,1
+Auburn,Haleyville,1
+Hueytown,Moody,1
+Leeds,Trussville,1
+Moody,Oak Grove,1
+Dora,Oxford,1
+Auburn,Clanton,1
+Auburn,Centreville,1
+Auburn,Carrollton,1
+Cordova,Oak Grove,1
+Auburn,Brent,1
+Anniston,York,1
+Dora,Haleyville,1
+Auburn,Lineville,1
+Dora,Moody,1
+Dora,Leeds,1
+Auburn,Millbrook,1
+Dora,Selma,1
+Helena,Homewood,1
+Helena,Selma,1
+Oxford,Selma,1
+Aliceville,Greenville,1
+Brookwood,Greenville,1
+Enterprise,Greenville,1
+Greenville,Hueytown,1
+Greenville,Jacksonville,1
+Greenville,Vestavia Hills,1
+Alexander City,Moody,1
+Carrollton,Leeds,1
+Carrollton,Oak Grove,1
+Auburn,Oneonta,1
+Dora,Hamilton,1
+Birmingham,Millbrook,1
+Birmingham,Rockford,1
+Brent,Valley,1
+Brilliant,Sylacauga,1
+Brilliant,Helena,1
+Brilliant,Leeds,1
+Brilliant,Montgomery,1
+Brilliant,Moody,1
+Brilliant,Opelika,1
+Brilliant,Pelham,1
+Brilliant,Pell City,1
+Brent,Opelika,1
+Brilliant,Demopolis,1
+Brent,Moody,1
+Calera,Center Point,1
+Calera,Cordova,1
+Calera,Demopolis,1
+Calera,Greensboro,1
+Calera,Leeds,1
+Calera,Moody,1
+Brent,Pelham,1
+Brilliant,Cordova,1
+Birmingham,York,1
+Auburn,Helena,1
+Hueytown,Talladega,1
+Brent,Uniontown,1
+Brent,Sylacauga,1
+Auburn,Brilliant,1
+Brent,Sulligent,1
+Auburn,Center Point,1
+Auburn,Chelsea,1
+Brent,Selma,1
+Brilliant,Chelsea,1
+Auburn,Vestavia Hills,1
+Brent,Rockford,1
+Brent,Roanoke,1
+Brent,Prattville,1
+Brent,Pell City,1
+Brilliant,Calera,1
+Brilliant,Center Point,1
+Brent,Millbrook,1
+Calera,Opelika,1
+Calera,Pelham,1
+Helena,Sylacauga,1
+Cordova,Opelika,1
+Cordova,Pell City,1
+Cordova,Sylacauga,1
+Alexander City,Clanton,1
+Helena,Moody,1
+Helena,Opelika,1
+Helena,Pell City,1
+Alexander City,Columbiana,1
+Calera,Pell City,1
+Leeds,Opelika,1
+Leeds,Pell City,1
+Moody,Mountain Brook,1
+Mountain Brook,Opelika,1
+Mountain Brook,Pell City,1
+Opelika,Vestavia Hills,1
+Brent,Centre,1
+Cordova,Moody,1
+Brent,Heflin,1
+Cordova,Leeds,1
+Cordova,Helena,1
+Calera,Sylacauga,1
+Center Point,Chelsea,1
+Center Point,Cordova,1
+Center Point,Greensboro,1
+Center Point,Sylacauga,1
+Alexander City,Brent,1
+Brent,Lineville,1
+Brent,Linden,1
+Brent,Lanett,1
+Chelsea,Montgomery,1
+Brent,Jacksonville,1
+Chelsea,Opelika,1
+Chelsea,Pell City,1
+Chelsea,Sylacauga,1
+Cordova,Demopolis,1
+Belk,Parrish,1
+Birmingham,Smiths Station,1
+Belk,Jasper,1
+Jackson,Madison,1
+Clay,Jackson,1
+Clay,Talladega,1
+Clay,Weaver,1
+Franklin,Jackson,1
+Franklin,Madison,1
+Franklin,Talladega,1
+Franklin,Weaver,1
+Greensboro,Satsuma,1
+Athens,Weaver,1
+Jackson,Weaver,1
+Madison,Talladega,1
+Madison,Weaver,1
+Talladega,Weaver,1
+Cullman,Northport,1
+Cullman,Guntersville,1
+Muscle Shoals,Ozark,1
+Clay,Franklin,1
+Athens,Franklin,1
+Greensboro,Providence,1
+Moundville,Providence,1
+Montgomery,Uniontown,1
+Albertville,Cordova,1
+Albertville,Bayou La Batre,1
+Jasper,Sheffield,1
+Albertville,Bay Minette,1
+Albertville,Auburn,1
+Albertville,Anniston,1
+Birmingham,Five Points,1
+Athens,Clay,1
+Five Points,Homewood,1
+Five Points,Northport,1
+Greensboro,Muscle Shoals,1
+Akron,Selma,1
+Akron,Sweet Water,1
+Eutaw,Sweet Water,1
+Greensboro,Sweet Water,1
+Muscle Shoals,Satsuma,1
+Auburn,Childersburg,1
+Prattville,Tarrant,1
+Clay,Jacksonville,1
+Satsuma,Tuscaloosa,1
+Boaz,Carbon Hill,1
+Satsuma,Wilsonville,1
+Selma,Wilsonville,1
+Madison,Warrior,1
+Jasper,Warrior,1
+Tuscaloosa,Wilsonville,1
+Jasper,Weaver,1
+Satsuma,Selma,1
+Fayette,Weaver,1
+Leesburg,Satsuma,1
+Madison,Prattville,1
+Alabaster,Alexander City,1
+Dora,Glen Allen,1
+Alabaster,Aliceville,1
+Wetumpka,York,1
+Jasper,Muscle Shoals,1
+Gadsden,Rainbow City,1
+Childersburg,Mobile,1
+Anniston,Tuskegee,1
+Childersburg,Prattville,1
+Demopolis,Providence,1
+Orange Beach,Pelham,1
+Adamsville,Mulga,1
+Winfield,York,1
+Muscle Shoals,Wilsonville,1
+Akron,Forkland,1
+Jasper,Ozark,1
+Daleville,Tuscaloosa,1
+Ozark,Satsuma,1
+Carrollton,Sumiton,1
+Fayette,Sumiton,1
+Hamilton,Sumiton,1
+Brookwood,Madison,1
+Ozark,Wilsonville,1
+Daleville,Ozark,1
+Albertville,Decatur,1
+Russellville,Troy,1
+Phenix City,Troy,1
+Anniston,Bayou La Batre,1
+Anniston,Fort Payne,1
+Florence,Greenville,1
+Florence,Hanceville,1
+Florence,Hollywood,1
+Providence,Thomasville,1
+Florence,Phenix City,1
+Anniston,Cordova,1
+Foley,Hanceville,1
+Fairhope,Lincoln,1
+Foley,Hollywood,1
+Foley,Lincoln,1
+Foley,Marion,1
+Foley,Phenix City,1
+Foley,Russellville,1
+Gadsden,Hanceville,1
+Gadsden,Hollywood,1
+Fairhope,Marion,1
+Fairhope,Hollywood,1
+Phenix City,Russellville,1
+Eutaw,Hanceville,1
+Dothan,Hollywood,1
+Dothan,Lincoln,1
+Auburn,Bayou La Batre,1
+Dothan,Russellville,1
+Eutaw,Fairhope,1
+Eutaw,Foley,1
+Anniston,Spanish Fort,1
+Eutaw,Hollywood,1
+Fairhope,Hanceville,1
+Eutaw,Lincoln,1
+Eutaw,Mobile,1
+Brookwood,Mobile,1
+Eutaw,Phenix City,1
+Anniston,Saraland,1
+Eutaw,Troy,1
+Fairhope,Florence,1
+Gadsden,Lincoln,1
+Gadsden,Russellville,1
+Greenville,Hanceville,1
+Lincoln,Mobile,1
+Hollywood,Russellville,1
+Hollywood,Troy,1
+Hollywood,Tuscaloosa,1
+Jasper,Lincoln,1
+Jasper,Phenix City,1
+Albertville,Pelham,1
+Lincoln,Marion,1
+Lincoln,Montgomery,1
+Greenville,Hollywood,1
+Lincoln,Phenix City,1
+Albertville,Northport,1
+Lincoln,Troy,1
+Albertville,Madison,1
+Marion,Phenix City,1
+Albertville,Fort Payne,1
+Albertville,Fairhope,1
+Hollywood,Phenix City,1
+Hollywood,Montgomery,1
+Hollywood,Mobile,1
+Hollywood,Marion,1
+Greenville,Lincoln,1
+Greenville,Phenix City,1
+Albertville,Spanish Fort,1
+Hanceville,Hollywood,1
+Hanceville,Jasper,1
+Hanceville,Lincoln,1
+Hanceville,Marion,1
+Hanceville,Mobile,1
+Hanceville,Montgomery,1
+Hanceville,Phenix City,1
+Hanceville,Russellville,1
+Hanceville,Troy,1
+Albertville,Saraland,1
+Hollywood,Jasper,1
+Hollywood,Lincoln,1
+Valley,York,1
+Valley,Wetumpka,1
+Uniontown,York,1
+Pelham,Rockford,1
+Alabaster,Enterprise,1
+Alabaster,Hueytown,1
+Alabaster,Mountain Brook,1
+Alabaster,Oak Grove,1
+Andalusia,Athens,1
+Andalusia,Atmore,1
+Andalusia,Brookwood,1
+Pelham,Roanoke,1
+Alabaster,Andalusia,1
+Pelham,Prattville,1
+Athens,Brookwood,1
+Athens,Hueytown,1
+Athens,Oak Grove,1
+Atmore,Brookwood,1
+Opelika,York,1
+Atmore,Hueytown,1
+Alabaster,Brookwood,1
+Helena,Irondale,1
+Decatur,Opelika,1
+Pell City,Rockford,1
+Foley,Haleyville,1
+Foley,Opelika,1
+Pell City,Valley,1
+Pell City,Uniontown,1
+Pell City,Talladega,1
+Pell City,Sulligent,1
+Pell City,Selma,1
+Pell City,Roanoke,1
+La Fayette,Lanett,1
+Pell City,Prattville,1
+Brilliant,Hamilton,1
+Pelham,York,1
+Pelham,Valley,1
+Glen Allen,Hamilton,1
+Pelham,Uniontown,1
+Pelham,Talladega,1
+Atmore,Mountain Brook,1
+Atmore,Oak Grove,1
+Atmore,Trussville,1
+Enterprise,Wetumpka,1
+Demopolis,Holly Pond,1
+Demopolis,Tarrant,1
+Oneonta,Pell City,1
+Oneonta,Pelham,1
+Enterprise,Holly Pond,1
+Oneonta,Opelika,1
+Enterprise,Tarrant,1
+Haleyville,Holly Pond,1
+Opelika,Wetumpka,1
+Hamilton,Holly Pond,1
+Hamilton,Tarrant,1
+Moundville,Wetumpka,1
+Holly Pond,Prattville,1
+Holly Pond,Tarrant,1
+Holly Pond,Trussville,1
+Holly Pond,Tuscaloosa,1
+Oneonta,Prattville,1
+Carbon Hill,Wetumpka,1
+Oneonta,Roanoke,1
+Oneonta,Rockford,1
+Opelika,Uniontown,1
+Alabaster,Centreville,1
+Opelika,Rockford,1
+Opelika,Roanoke,1
+Bessemer,Holly Pond,1
+Oneonta,York,1
+Brookwood,Holly Pond,1
+Oneonta,Wetumpka,1
+Oneonta,Valley,1
+Oneonta,Uniontown,1
+Oneonta,Talladega,1
+Oneonta,Sylacauga,1
+Carbon Hill,Hamilton,1
+Carbon Hill,Holly Pond,1
+Oneonta,Selma,1
+Fayette,Foley,1
+Decatur,Haleyville,1
+Uniontown,Wetumpka,1
+Tallassee,Wetumpka,1
+Livingston,Troy,1
+Sulligent,Wetumpka,1
+Sulligent,Valley,1
+Sulligent,Uniontown,1
+Alabaster,Brent,1
+Montevallo,Talladega,1
+Talladega,Troy,1
+Orange Beach,Tallassee,1
+Livingston,Mobile,1
+Selma,Valley,1
+Muscle Shoals,Tuskegee,1
+Brundidge,Fort Payne,1
+Rockford,York,1
+Rockford,Wetumpka,1
+Rockford,Valley,1
+Rockford,Uniontown,1
+Livingston,Montevallo,1
+Sulligent,York,1
+Pell City,York,1
+Athens,Montevallo,1
+Uniontown,Valley,1
+Alabaster,Anniston,1
+Talladega,York,1
+Akron,Demopolis,1
+Bessemer,Oneonta,1
+Athens,Jacksonville,1
+Athens,Livingston,1
+Dothan,Livingston,1
+Sylacauga,Uniontown,1
+Dothan,Montevallo,1
+Talladega,Uniontown,1
+Florence,Jacksonville,1
+Florence,Livingston,1
+Florence,Montevallo,1
+Florence,Talladega,1
+Sylacauga,York,1
+Brundidge,Enterprise,1
+Rockford,Tuscaloosa,1
+Chickasaw,Citronelle,1
+Prattville,Talladega,1
+Auburn,Brundidge,1
+Northport,Parrish,1
+Prattville,York,1
+Prattville,Valley,1
+Prattville,Uniontown,1
+Alabaster,Carrollton,1
+Montevallo,Selma,1
+Andalusia,Decatur,1
+Chickasaw,Mobile,1
+Prattville,Rockford,1
+Andalusia,Fayette,1
+Prattville,Roanoke,1
+Andalusia,Haleyville,1
+Andalusia,Opelika,1
+Decatur,Demopolis,1
+Decatur,Fayette,1
+Sipsey,Sylacauga,1
+Roanoke,Sulligent,1
+Northport,Sipsey,1
+Childersburg,Sipsey,1
+Chickasaw,Satsuma,1
+Rockford,Talladega,1
+Citronelle,Satsuma,1
+Rockford,Sylacauga,1
+Irondale,Leeds,1
+Atmore,Perdido,1
+Rockford,Sulligent,1
+Rockford,Selma,1
+Fort Payne,Homewood,1
+Roanoke,York,1
+Brookside,Northport,1
+Hamilton,Hodges,1
+Roanoke,Valley,1
+Roanoke,Uniontown,1
+Roanoke,Tuscaloosa,1
+Dothan,Hanceville,1
+Enterprise,Wilsonville,1
+Bay Minette,Bayou La Batre,1
+Pell City,Russellville,1
+Andalusia,Attalla,1
+Andalusia,Bridgeport,1
+Birmingham,Newbern,1
+Andalusia,Clanton,1
+Camden,Pelham,1
+Banks,Troy,1
+Camden,Guntersville,1
+Fairhope,Pell City,1
+Adamsville,Bessemer,1
+Hokes Bluff,Tuscaloosa,1
+Hokes Bluff,Montgomery,1
+Hokes Bluff,Mobile,1
+Camden,Gulf Shores,1
+Mobile,Sulligent,1
+Camden,Fort Payne,1
+Camden,Eufaula,1
+Andalusia,Mobile,1
+Adamsville,Pleasant Grove,1
+Brewton,Roanoke,1
+Cordova,Valley Grande,1
+Valley Grande,York,1
+Parrish,York,1
+Parrish,Valley Grande,1
+Parrish,Selma,1
+Haleyville,Valley Grande,1
+Haleyville,Parrish,1
+Cordova,York,1
+Cordova,Selma,1
+Boaz,Scottsboro,1
+Centreville,Valley Grande,1
+Centreville,Parrish,1
+Trussville,Valley,1
+Eutaw,Gardendale,1
+Chelsea,Columbiana,1
+Sweet Water,Thomasville,1
+Camden,Spanish Fort,1
+Hamilton,Mobile,1
+Atmore,Prattville,1
+Atmore,Hamilton,1
+Bridgeport,Greensboro,1
+Irondale,Northport,1
+Attalla,Selma,1
+Abbeville,Eufaula,1
+Attalla,Tuscaloosa,1
+Attalla,Wilsonville,1
+Bridgeport,Clanton,1
+Bridgeport,Enterprise,1
+Bridgeport,Muscle Shoals,1
+Auburn,Gulf Shores,1
+Bridgeport,Ozark,1
+Bridgeport,Satsuma,1
+Bridgeport,Selma,1
+Jasper,Tuskegee,1
+Pleasant Grove,Tuskegee,1
+Alexander City,Spanish Fort,1
+Bridgeport,Tuscaloosa,1
+Attalla,Satsuma,1
+Attalla,Ozark,1
+Attalla,Muscle Shoals,1
+Auburn,Eufaula,1
+Brookside,Graysville,1
+Brookside,Tarrant,1
+Graysville,Tarrant,1
+Brookside,Warrior,1
+Anderson,Tuscaloosa,1
+Anderson,Talladega,1
+Andalusia,Satsuma,1
+Andalusia,Wilsonville,1
+Attalla,Bridgeport,1
+Attalla,Clanton,1
+Greensboro,Scottsboro,1
+Attalla,Enterprise,1
+Scottsboro,Selma,1
+Attalla,Greensboro,1
+Hamilton,Northport,1
+Irondale,Rainsville,1
+Clanton,Mobile,1
+Clanton,Enterprise,1
+Phenix City,Trussville,1
+Center Point,Oak Grove,1
+Center Point,Trussville,1
+Center Point,Winfield,1
+Anniston,Irondale,1
+Phenix City,Sylacauga,1
+Clay,Pell City,1
+Clay,Winfield,1
+Leeds,Oxford,1
+Center Point,Hueytown,1
+Enterprise,Pell City,1
+Jacksonville,Leeds,1
+Hamilton,Oxford,1
+Hueytown,Pell City,1
+Hamilton,Helena,1
+Demopolis,Oxford,1
+Midfield,Pell City,1
+Northport,Winfield,1
+Center Point,Haleyville,1
+Calera,Mobile,1
+Arab,Spanish Fort,1
+Northport,Thomasville,1
+Dothan,Guntersville,1
+Dothan,Grant,1
+Birmingham,Grant,1
+Glen Allen,Sulligent,1
+Arab,Homewood,1
+Arab,Phenix City,1
+Arab,Sylacauga,1
+Center Point,Enterprise,1
+Arab,Trussville,1
+Arab,Valley,1
+Homewood,Phenix City,1
+Homewood,Spanish Fort,1
+Forkland,Northport,1
+Homewood,Valley,1
+Center Point,Clay,1
+Center Point,Oxford,1
+Oak Grove,Pell City,1
+Center Point,Hamilton,1
+Bakerhill,Helena,1
+Eufaula,Pelham,1
+Bakerhill,Oxford,1
+Bakerhill,Mountain Brook,1
+Florence,Thomasville,1
+Bakerhill,Leeds,1
+Linden,Muscle Shoals,1
+Bakerhill,Jacksonville,1
+Bakerhill,Hamilton,1
+Pell City,Trussville,1
+Bakerhill,Demopolis,1
+Moundville,Muscle Shoals,1
+Muscle Shoals,Thomasville,1
+Bakerhill,Center Point,1
+Bakerhill,Brookwood,1
+Sylacauga,Trussville,1
+Calera,Clanton,1
+Florence,Linden,1
+Fayette,Thomasville,1
+Fayette,Muscle Shoals,1
+Fayette,Mobile,1
+Spanish Fort,Sylacauga,1
+Pell City,Winfield,1
+Spanish Fort,Trussville,1
+Spanish Fort,Valley,1
+Albertville,Calera,1
+Albertville,Gulf Shores,1
+Bakerhill,Vestavia Hills,1
+Albertville,Orange Beach,1
+Calera,Gulf Shores,1
+Bakerhill,Tuscaloosa,1
+Calera,Orange Beach,1
+Eufaula,Spanish Fort,1
+Bakerhill,Pelham,1
+Anniston,Weaver,1
+Fayette,Florence,1
+Bridgeport,Wilsonville,1
+Brent,Childersburg,1
+Daphne,Russellville,1
+Bessemer,Eutaw,1
+Auburn,Greenville,1
+Auburn,Hanceville,1
+Auburn,Hollywood,1
+Auburn,Lincoln,1
+Auburn,Russellville,1
+Bessemer,Centre,1
+Bessemer,Dadeville,1
+Bayou La Batre,Northport,1
+Bayou La Batre,Pelham,1
+Bayou La Batre,Madison,1
+Bessemer,Hollywood,1
+Bessemer,Lincoln,1
+Bayou La Batre,Guntersville,1
+Bessemer,Phenix City,1
+Bessemer,Russellville,1
+Bayou La Batre,Gadsden,1
+Auburn,Foley,1
+Auburn,Daphne,1
+Atmore,Bessemer,1
+Bayou La Batre,Tuscaloosa,1
+Atmore,Dadeville,1
+Atmore,Daphne,1
+Atmore,Dothan,1
+Atmore,Eutaw,1
+Atmore,Fairhope,1
+Cordova,Decatur,1
+Atmore,Foley,1
+Atmore,Greenville,1
+Bayou La Batre,Saraland,1
+Atmore,Hanceville,1
+Atmore,Hollywood,1
+Atmore,Lincoln,1
+Atmore,Marion,1
+Bayou La Batre,Spanish Fort,1
+Atmore,Russellville,1
+Atmore,Troy,1
+Bayou La Batre,Fort Payne,1
+Birmingham,Hollywood,1
+Bayou La Batre,Fairhope,1
+Dadeville,Phenix City,1
+Bay Minette,Madison,1
+Dadeville,Hanceville,1
+Dadeville,Hollywood,1
+Dadeville,Jasper,1
+Dadeville,Lincoln,1
+Bay Minette,Guntersville,1
+Bay Minette,Gadsden,1
+Bay Minette,Fort Payne,1
+Bayou La Batre,Decatur,1
+Bay Minette,Decatur,1
+Bay Minette,Cordova,1
+Daphne,Hanceville,1
+Daphne,Hollywood,1
+Daphne,Lincoln,1
+Daphne,Marion,1
+Daphne,Phenix City,1
+Dadeville,Gadsden,1
+Dadeville,Foley,1
+Dadeville,Florence,1
+Bay Minette,Pelham,1
+Centre,Daphne,1
+Centre,Dothan,1
+Centre,Fairhope,1
+Centre,Florence,1
+Centre,Foley,1
+Bayou La Batre,Cordova,1
+Centre,Hanceville,1
+Centre,Hollywood,1
+Centre,Lincoln,1
+Centre,Mobile,1
+Centre,Phenix City,1
+Bay Minette,Spanish Fort,1
+Centre,Troy,1
+Dadeville,Daphne,1
+Bay Minette,Saraland,1
+Atmore,Centre,1
+Atmore,Auburn,1
+Brent,Montevallo,1
+Guntersville,Northport,1
+Pelham,Saraland,1
+Decatur,Greensboro,1
+Irondale,Pelham,1
+Irondale,Vestavia Hills,1
+Cordova,Gardendale,1
+Madison,Spanish Fort,1
+Madison,Pelham,1
+Centre,Pleasant Grove,1
+Andalusia,Lincoln,1
+Alexander City,Fort Payne,1
+Fort Payne,Saraland,1
+Alexander City,Eufaula,1
+Birmingham,Coaling,1
+Coaling,Vestavia Hills,1
+Bay Minette,Prichard,1
+Lake View,Northport,1
+Saraland,Spanish Fort,1
+Alabaster,Riverside,1
+Cordova,Fairhope,1
+Childersburg,Wilsonville,1
+Brent,Wilsonville,1
+Centreville,Childersburg,1
+Centreville,Wilsonville,1
+Childersburg,Columbiana,1
+Clanton,Muscle Shoals,1
+Childersburg,Greensboro,1
+Childersburg,Montevallo,1
+Clanton,Ozark,1
+Clanton,Wilsonville,1
+Columbiana,Wilsonville,1
+Demopolis,Montevallo,1
+Demopolis,Wilsonville,1
+Alexander City,Guntersville,1
+Montevallo,Wilsonville,1
+Clanton,Satsuma,1
+Pleasant Grove,Russellville,1
+Fort Payne,Madison,1
+Enterprise,Satsuma,1
+Fairhope,Pelham,1
+Athens,Greenville,1
+Decatur,Fairhope,1
+Athens,Daphne,1
+Cordova,Spanish Fort,1
+Athens,Eutaw,1
+Cordova,Saraland,1
+Athens,Foley,1
+Cordova,Northport,1
+Athens,Hanceville,1
+Fairhope,Madison,1
+Athens,Hollywood,1
+Cordova,Madison,1
+Athens,Lincoln,1
+Cordova,Guntersville,1
+Cordova,Fort Payne,1
+Athens,Phenix City,1
+Athens,Russellville,1
+Athens,Centre,1
+Decatur,Gadsden,1
+Decatur,Guntersville,1
+Decatur,Pelham,1
+Fairhope,Guntersville,1
+Alabaster,Dadeville,1
+Alabaster,Daphne,1
+Alabaster,Dothan,1
+Alabaster,Fairhope,1
+Fairhope,Fort Payne,1
+Alabaster,Foley,1
+Alabaster,Greenville,1
+Alabaster,Hanceville,1
+Alabaster,Hollywood,1
+Alabaster,Lincoln,1
+Decatur,Spanish Fort,1
+Alabaster,Phenix City,1
+Alabaster,Russellville,1
+Decatur,Saraland,1
+Holly Pond,Wetumpka,1
+Moundville,Valley,1
+Belk,Cordova,1
+Gadsden,Heflin,1
+Enterprise,Guntersville,1
+Gadsden,Lanett,1
+Alabaster,Lineville,1
+Guntersville,Heflin,1
+Guntersville,Homewood,1
+Guntersville,Jasper,1
+Heflin,Homewood,1
+Fayette,York,1
+Gadsden,Lineville,1
+Fayette,Wetumpka,1
+Fayette,Valley,1
+Fayette,Uniontown,1
+Fayette,Sylacauga,1
+Fayette,Roanoke,1
+Fayette,Prattville,1
+Fayette,Pell City,1
+Childersburg,Homewood,1
+Childersburg,Guntersville,1
+Fayette,Moody,1
+Gadsden,Rockford,1
+Gardendale,Uniontown,1
+Birmingham,Cleveland,1
+Cleveland,Dadeville,1
+Cleveland,Warrior,1
+Dadeville,Warrior,1
+Abbeville,Montgomery,1
+Millbrook,Montgomery,1
+Sheffield,Tuscumbia,1
+Alabaster,Linden,1
+Lipscomb,Pell City,1
+Gadsden,Roanoke,1
+Gadsden,Opelika,1
+Gadsden,Oneonta,1
+La Fayette,Valley,1
+Gadsden,Moody,1
+Gadsden,Millbrook,1
+Fayette,Pelham,1
+Fayette,Millbrook,1
+Tarrant,Trussville,1
+Demopolis,Valley,1
+Eutaw,Lineville,1
+Eutaw,Lanett,1
+Eutaw,Jacksonville,1
+Eutaw,Hamilton,1
+Eutaw,Haleyville,1
+Alabaster,Oneonta,1
+Alabaster,Opelika,1
+Demopolis,Talladega,1
+Eutaw,Millbrook,1
+Birmingham,Columbia,1
+Columbia,Fultondale,1
+Columbia,Greenville,1
+Columbia,Heflin,1
+Columbia,Oxford,1
+Columbia,Pelham,1
+Columbia,Pinson,1
+Alabaster,Moundville,1
+Eutaw,Moody,1
+Fayette,Lineville,1
+Eutaw,Sylacauga,1
+Fayette,Lanett,1
+Alabaster,Livingston,1
+Fayette,Jacksonville,1
+Eutaw,Wetumpka,1
+Eutaw,Valley,1
+Eutaw,Uniontown,1
+Eutaw,Talladega,1
+Eutaw,Sulligent,1
+Alabaster,Moody,1
+Alabaster,Millbrook,1
+Eutaw,Roanoke,1
+Eutaw,Prattville,1
+Eutaw,Pell City,1
+Eutaw,Pelham,1
+Eutaw,Opelika,1
+Eutaw,Oneonta,1
+Gardendale,Marion,1
+Brookwood,Uniontown,1
+Alabaster,Lanett,1
+Decatur,Muscle Shoals,1
+Guntersville,Union Grove,1
+Birmingham,Glencoe,1
+Dothan,Sheffield,1
+Jacksonville,Sheffield,1
+Sheffield,Tuscaloosa,1
+Midfield,Scottsboro,1
+Madison,Pinson,1
+Haleyville,Valley,1
+Hamilton,Heflin,1
+Madison,Muscle Shoals,1
+Auburn,Homewood,1
+Birmingham,Union Springs,1
+Birmingham,Mount Vernon,1
+Montgomery,Mount Vernon,1
+Haleyville,Uniontown,1
+Haleyville,Talladega,1
+Irondale,Jasper,1
+Fairfield,Jacksonville,1
+Gadsden,Uniontown,1
+Greenville,Roanoke,1
+Midfield,Montgomery,1
+Midfield,Opelika,1
+Headland,Tuscaloosa,1
+Carbon Hill,Florence,1
+Dora,Montgomery,1
+Hamilton,Oneonta,1
+Clanton,Greenville,1
+Hamilton,Moundville,1
+Hamilton,Lanett,1
+Munford,Talladega,1
+Childersburg,Cullman,1
+Hamilton,Millbrook,1
+Hamilton,Livingston,1
+Hamilton,Lineville,1
+Hamilton,Linden,1
+Cullman,Pelham,1
+Haleyville,Rockford,1
+Haleyville,Roanoke,1
+Camden,Forkland,1
+Alabaster,Jacksonville,1
+Birmingham,Moulton,1
+Alabaster,Hamilton,1
+Alabaster,Heflin,1
+Brundidge,Montgomery,1
+Abbeville,Dothan,1
+Greensboro,Lineville,1
+Daleville,Montgomery,1
+Mobile,Sylacauga,1
+Birmingham,Stevenson,1
+Brighton,Graysville,1
+Enterprise,Level Plains,1
+Brewton,Mobile,1
+Gadsden,York,1
+Gadsden,Wetumpka,1
+Gadsden,Valley,1
+Mobile,Oxford,1
+Auburn,Creola,1
+Greensboro,Millbrook,1
+Mobile,Spanish Fort,1
+Creola,Spanish Fort,1
+Montgomery,Stevenson,1
+Stevenson,Troy,1
+Haleyville,Moody,1
+Homewood,Lincoln,1
+Haleyville,Millbrook,1
+Haleyville,Lineville,1
+Haleyville,Linden,1
+Haleyville,Lanett,1
+Carbon Hill,Pelham,1
+Alabaster,Greensboro,1
+Haleyville,Jacksonville,1
+Alabaster,Haleyville,1
+Greensboro,Valley,1
+Northport,Prattville,1
+Creola,Montgomery,1
+Columbia,Wetumpka,1
+Fultondale,Greenville,1
+Fultondale,Heflin,1
+Guntersville,Oneonta,1
+Childersburg,Opelika,1
+Childersburg,Phenix City,1
+Childersburg,Talladega,1
+Childersburg,Valley,1
+Phenix City,Talladega,1
+Clayhatchee,Dothan,1
+Montgomery,Shorter,1
+Columbiana,Pell City,1
+Alexander City,Childersburg,1
+Attalla,Boaz,1
+Attalla,Gadsden,1
+Attalla,Sardis City,1
+Boaz,Gadsden,1
+Boaz,Sardis City,1
+Gadsden,Sardis City,1
+Adamsville,Sumiton,1
+Alexander City,Phenix City,1
+Ardmore,Athens,1
+Columbiana,Talladega,1
+Columbiana,Selma,1
+Columbiana,Sylacauga,1
+Monroeville,Trussville,1
+Columbiana,Sulligent,1
+Mobile,Springville,1
+Fort Payne,Montgomery,1
+Fort Payne,Opelika,1
+Stevenson,Valley,1
+Brookside,Carrollton,1
+Columbiana,Prattville,1
+Banks,Tuscaloosa,1
+Columbiana,Montgomery,1
+Scottsboro,Tuscumbia,1
+Columbiana,Rockford,1
+Moody,Tuscumbia,1
+Boaz,Jacksonville,1
+Columbiana,Roanoke,1
+Adamsville,Tarrant,1
+Dora,Tarrant,1
+Sumiton,Tarrant,1
+Hueytown,Springville,1
+Foley,Gardendale,1
+Foley,Prattville,1
+Fort Payne,Gardendale,1
+Fort Payne,Prattville,1
+Columbiana,Livingston,1
+Gardendale,Prattville,1
+Clay,Springville,1
+Springville,Trussville,1
+Arab,Union Grove,1
+Aliceville,Coaling,1
+Aliceville,Kansas,1
+Aliceville,Parrish,1
+Aliceville,Sipsey,1
+Belk,Brookwood,1
+Belk,Carbon Hill,1
+Belk,Coaling,1
+Foley,Fort Payne,1
+Columbiana,Marion,1
+Columbiana,Millbrook,1
+Columbiana,Moody,1
+Columbiana,Pelham,1
+Columbiana,Opelika,1
+Columbiana,Oneonta,1
+Alabaster,Helena,1
+Birmingham,Headland,1
+Dothan,Headland,1
+Columbiana,Moundville,1
+Fairhope,Robertsdale,1
+Robertsdale,Spanish Fort,1
+Cullman,Gardendale,1
+Cullman,Prattville,1
+Decatur,Prattville,1
+Dothan,Gardendale,1
+Dothan,Prattville,1
+Enterprise,Foley,1
+Florence,Monroeville,1
+Lincoln,Munford,1
+Fultondale,Pelham,1
+Alabaster,Pell City,1
+Mobile,Piedmont,1
+Montgomery,Piedmont,1
+Graysville,Jasper,1
+Graysville,Sipsey,1
+Montgomery,Parrish,1
+Athens,Fayette,1
+Athens,Fort Payne,1
+Demopolis,Lineville,1
+Demopolis,Millbrook,1
+Fayette,Fort Payne,1
+Fayette,Jackson,1
+Fort Payne,Jackson,1
+Alabaster,Prattville,1
+Fort Payne,Marion,1
+Gadsden,Jackson,1
+Jackson,Jasper,1
+Northport,Wetumpka,1
+Demopolis,Roanoke,1
+Cullman,Snead,1
+Heflin,Pinson,1
+Fultondale,Pinson,1
+Fultondale,Wetumpka,1
+Greenville,Oxford,1
+Greenville,Pelham,1
+Greenville,Pinson,1
+Greenville,Wetumpka,1
+Heflin,Oxford,1
+Oxford,Pinson,1
+Hamilton,Winfield,1
+Oxford,Wetumpka,1
+Pelham,Pinson,1
+Pinson,Wetumpka,1
+Colony,Northport,1
+Demopolis,Rockford,1
+Fort Payne,Irondale,1
+Butler,York,1
+Jackson,Marion,1
+Dora,Sipsey,1
+Demopolis,Lanett,1
+Columbiana,Uniontown,1
+Homewood,Wetumpka,1
+Leeds,Morris,1
+Leeds,Wetumpka,1
+Morris,Wetumpka,1
+Oak Hill,Tuscaloosa,1
+Columbiana,Helena,1
+Cuba,Livingston,1
+Columbiana,Tuscaloosa,1
+Sipsey,Sumiton,1
+Addison,Mobile,1
+Aliceville,Mobile,1
+Decatur,Hartselle,1
+Cuba,Selma,1
+Alabaster,Midfield,1
+Cullman,Tuskegee,1
+Birmingham,Snead,1
+Homewood,Morris,1
+Columbiana,Valley,1
+Alabaster,Morris,1
+Alabaster,Leeds,1
+Alabaster,Roanoke,1
+Demopolis,Heflin,1
+Geiger,Gordo,1
+Alabaster,Rockford,1
+Alabaster,Sulligent,1
+Brookwood,Union,1
+Columbiana,York,1
+Dadeville,Elba,1
+Dadeville,Prichard,1
+Elba,Prichard,1
+Kennedy,Northport,1
+Anniston,Eufaula,1
+Columbiana,Wetumpka,1
+Grant,Tuscaloosa,1
+Irondale,Springville,1
+Hamilton,Rockford,1
+Alabaster,Fayette,1
+Fayette,Trussville,1
+Livingston,Roanoke,1
+Enterprise,Livingston,1
+Marion,Moody,1
+Birmingham,Fairview,1
+Marion,Millbrook,1
+Livingston,Wetumpka,1
+Livingston,Valley,1
+Livingston,Uniontown,1
+Livingston,Prattville,1
+Marion,Pelham,1
+Livingston,Pell City,1
+Livingston,Opelika,1
+Livingston,Moody,1
+Livingston,Millbrook,1
+Lineville,York,1
+Lineville,Wetumpka,1
+Lineville,Valley,1
+Marion,Opelika,1
+Marion,Pell City,1
+Centreville,Fultondale,1
+Marion,Wetumpka,1
+Centreville,Orange Beach,1
+Fayette,Fultondale,1
+Fayette,Gulf Shores,1
+Fayette,Orange Beach,1
+Fultondale,Greensboro,1
+Fultondale,Gulf Shores,1
+Fultondale,Linden,1
+Fultondale,Orange Beach,1
+Andalusia,Eutaw,1
+Marion,Valley,1
+Greensboro,Orange Beach,1
+Marion,Sylacauga,1
+Linden,Orange Beach,1
+Northport,Orange Beach,1
+Marion,Sulligent,1
+Marion,Roanoke,1
+Lineville,Uniontown,1
+Lineville,Tuscaloosa,1
+Lineville,Talladega,1
+Eutaw,Union,1
+Carrollton,Union,1
+Linden,Sylacauga,1
+Linden,Sulligent,1
+Linden,Rockford,1
+Linden,Roanoke,1
+Linden,Prattville,1
+Linden,Pell City,1
+Linden,Pelham,1
+Lineville,Sylacauga,1
+Linden,Oneonta,1
+Linden,Moody,1
+Linden,Millbrook,1
+Fayette,Union,1
+Linden,Lineville,1
+Lanett,York,1
+Lanett,Wetumpka,1
+Linden,Talladega,1
+Linden,Valley,1
+Linden,Wetumpka,1
+Lineville,Livingston,1
+Lineville,Sulligent,1
+Lineville,Selma,1
+Lineville,Rockford,1
+Lineville,Roanoke,1
+Lineville,Prattville,1
+Lineville,Pell City,1
+Belk,Union,1
+Lineville,Pelham,1
+Lineville,Opelika,1
+Lineville,Oneonta,1
+Lineville,Moundville,1
+Lineville,Moody,1
+Lineville,Millbrook,1
+Brent,Union,1
+Lineville,Marion,1
+Centreville,Gulf Shores,1
+Marion,York,1
+Lanett,Uniontown,1
+Montgomery,Southside,1
+Moody,Valley,1
+Glen Allen,Southside,1
+Greensboro,Southside,1
+Jasper,Southside,1
+Moody,Uniontown,1
+Linden,Southside,1
+Montevallo,Southside,1
+Southside,Tuscaloosa,1
+Glen Allen,Linden,1
+Moody,Talladega,1
+Moody,Sulligent,1
+Forkland,Greensboro,1
+Cullman,Homewood,1
+Moody,Selma,1
+Cullman,Pleasant Grove,1
+Moody,Rockford,1
+Moody,Wetumpka,1
+Cullman,Southside,1
+Hartselle,Piedmont,1
+Moundville,Sulligent,1
+Moundville,Talladega,1
+Tarrant,Wetumpka,1
+Trussville,Wetumpka,1
+Brookwood,Cullman,1
+Brookwood,Linden,1
+Moundville,Sylacauga,1
+Brookwood,Southside,1
+Moundville,Rockford,1
+Moody,York,1
+Moundville,Roanoke,1
+Moundville,Prattville,1
+Moundville,Pell City,1
+Moundville,Pelham,1
+Clay,Southside,1
+Cullman,Glen Allen,1
+Moundville,Oneonta,1
+Moody,Roanoke,1
+Moody,Prattville,1
+Moody,Oneonta,1
+Dothan,Moundville,1
+Athens,Demopolis,1
+Alabaster,Saraland,1
+Millbrook,Pelham,1
+Millbrook,Opelika,1
+Springville,Tuscaloosa,1
+Decatur,Tuskegee,1
+Rainsville,Tuscaloosa,1
+Millbrook,Oneonta,1
+Moody,Moundville,1
+Millbrook,Moundville,1
+Dodge City,Moulton,1
+Center Point,Moundville,1
+Center Point,Northport,1
+Sulligent,Sumiton,1
+Millbrook,Moody,1
+Atmore,Demopolis,1
+Millbrook,Pell City,1
+Fairfield,Tarrant,1
+Myrtlewood,Tuscaloosa,1
+Millbrook,Roanoke,1
+Florence,Pleasant Grove,1
+Millbrook,York,1
+Florence,Winfield,1
+Millbrook,Valley,1
+Millbrook,Uniontown,1
+Homewood,Pleasant Grove,1
+Homewood,Winfield,1
+Millbrook,Tuscaloosa,1
+Millbrook,Talladega,1
+Millbrook,Sylacauga,1
+Oxford,Winfield,1
+Millbrook,Sulligent,1
+Pleasant Grove,Winfield,1
+Millbrook,Selma,1
+Millbrook,Rockford,1
+Lanett,Valley,1
+Glen Allen,Union,1
+Fayette,Oxford,1
+Daphne,Decatur,1
+Talladega,Tuskegee,1
+Jacksonville,Lineville,1
+Jacksonville,Linden,1
+Montgomery,Union,1
+Jacksonville,Lanett,1
+Heflin,York,1
+Anniston,Daphne,1
+Daphne,Enterprise,1
+Tuscaloosa,Warrior,1
+Daphne,Northport,1
+Daphne,Prichard,1
+Daphne,Selma,1
+Heflin,Valley,1
+Decatur,Eutaw,1
+Heflin,Uniontown,1
+Enterprise,Prichard,1
+Athens,Tuskegee,1
+Dora,Warrior,1
+Athens,Opelika,1
+Jacksonville,Moundville,1
+Cullman,Opelika,1
+Dothan,Opelika,1
+Fairhope,Opelika,1
+Jacksonville,Prattville,1
+Jacksonville,Pell City,1
+Auburn,Newbern,1
+Mobile,Newbern,1
+Jacksonville,Moody,1
+Dodge City,Warrior,1
+Decatur,Oxford,1
+Jacksonville,Millbrook,1
+Adamsville,Dodge City,1
+Adamsville,Tuscaloosa,1
+Adamsville,Warrior,1
+Dodge City,Dora,1
+Dodge City,Tuscaloosa,1
+Eutaw,Prichard,1
+Heflin,Talladega,1
+Florence,Prichard,1
+Montgomery,Sumiton,1
+Heflin,Lanett,1
+Akron,Pelham,1
+Fairhope,Haleyville,1
+Haleyville,Mobile,1
+Gulf Shores,Muscle Shoals,1
+Brookside,Montgomery,1
+Heflin,Jacksonville,1
+Homewood,Shorter,1
+Heflin,Sulligent,1
+Hamilton,York,1
+Hamilton,Valley,1
+Hamilton,Uniontown,1
+Clanton,Homewood,1
+Clanton,Oxford,1
+Clanton,Trussville,1
+Fayette,Homewood,1
+Gulf Shores,Opelika,1
+Enterprise,Opelika,1
+Heflin,Linden,1
+Heflin,Lineville,1
+Brilliant,Dora,1
+Heflin,Selma,1
+Brilliant,Jacksonville,1
+Brilliant,Oneonta,1
+Heflin,Roanoke,1
+Dora,Oneonta,1
+Heflin,Prattville,1
+Heflin,Pell City,1
+Heflin,Opelika,1
+Robertsdale,Tuscaloosa,1
+Heflin,Oneonta,1
+Demopolis,Fultondale,1
+Heflin,Moundville,1
+Heflin,Moody,1
+Heflin,Millbrook,1
+Cullman,Dadeville,1
+Jacksonville,Roanoke,1
+Lanett,Tuscaloosa,1
+Union,Winfield,1
+Lanett,Lineville,1
+Lanett,Linden,1
+Newbern,Union,1
+Jasper,Wetumpka,1
+Newton,Union,1
+Jasper,Valley,1
+Tuscaloosa,Union,1
+Jasper,Uniontown,1
+Lanett,Livingston,1
+Myrtlewood,Northport,1
+Bayou La Batre,Camden,1
+Bayou La Batre,Evergreen,1
+Bayou La Batre,Greensboro,1
+Bayou La Batre,Jackson,1
+Bayou La Batre,Lanett,1
+Bayou La Batre,Montgomery,1
+Mount Vernon,Union,1
+Lanett,Marion,1
+Jacksonville,Rockford,1
+Lanett,Prattville,1
+Lanett,Talladega,1
+Lanett,Sylacauga,1
+Lanett,Sulligent,1
+Greensboro,Union,1
+Lanett,Selma,1
+Lanett,Rockford,1
+Lanett,Roanoke,1
+Lanett,Pell City,1
+Lanett,Millbrook,1
+Lanett,Pelham,1
+Kennedy,Union,1
+Lanett,Opelika,1
+Lanett,Oneonta,1
+Lanett,Moundville,1
+Lanett,Moody,1
+Moundville,Union,1
+Bayou La Batre,Moulton,1
+Bayou La Batre,Tuskegee,1
+Bayou La Batre,Union Springs,1
+Jacksonville,York,1
+Lanett,Montgomery,1
+Lanett,Moulton,1
+Lanett,Tuskegee,1
+Lanett,Union Springs,1
+Montgomery,Moulton,1
+Montgomery,Union Springs,1
+Jasper,Lanett,1
+Jacksonville,Wetumpka,1
+Camden,Evergreen,1
+Jacksonville,Valley,1
+Brewton,Montgomery,1
+Center Point,Fultondale,1
+Center Point,Gardendale,1
+Jacksonville,Uniontown,1
+Jacksonville,Sylacauga,1
+Jacksonville,Sulligent,1
+Jackson,Union Springs,1
+Jackson,Tuskegee,1
+Jackson,Moulton,1
+Jasper,Lineville,1
+Camden,Jackson,1
+Camden,Lanett,1
+Jasper,Rockford,1
+Jasper,Roanoke,1
+Evergreen,Greensboro,1
+Evergreen,Jackson,1
+Evergreen,Lanett,1
+Evergreen,Montgomery,1
+Evergreen,Moulton,1
+Evergreen,Tuskegee,1
+Evergreen,Union Springs,1
+Jasper,Moody,1
+Jasper,Millbrook,1
+Alabaster,Demopolis,1
+Jackson,Lanett,1
+Pelham,Troy,1
