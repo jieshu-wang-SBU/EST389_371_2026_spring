@@ -1,5 +1,8 @@
 # Code demos for EST 389 (Spring 2026) at Stony Brook University.
 - instructor: Dr. Jieshu Wang (jieshu.wang@stonybrook.edu)
+  - [Profile](https://www.stonybrook.edu/commcms/est/faculty/core-faculty/Dr.%20Jieshu%20Wang.php)
+  - [Google site](https://sites.google.com/stonybrook.edu/jieshuwang/bio?authuser=0)
+  - [Google Scholar](https://scholar.google.com/citations?user=zd8aePQAAAAJ&hl=en)
 - TA: Joseph Agbamoro (joseph.agbamoro@stonybrook.edu)
 
 ## Course description
