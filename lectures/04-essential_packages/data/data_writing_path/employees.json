@@ -1,0 +1,20 @@
+[
+  {
+    "name":"Alice",
+    "age":25,
+    "city":"New York",
+    "salary":70000
+  },
+  {
+    "name":"Bob",
+    "age":32,
+    "city":"Los Angeles",
+    "salary":85000
+  },
+  {
+    "name":"Charlie",
+    "age":29,
+    "city":"Chicago",
+    "salary":78000
+  }
+]

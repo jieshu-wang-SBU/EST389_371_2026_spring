@@ -1,0 +1,4 @@
+species,observed_colors,measurements
+Sparrow,"['brown', 'gray']","{'weight_g': 24, 'wingspan_cm': 20}"
+Robin,"['red', 'brown']","{'weight_g': 77, 'wingspan_cm': 31}"
+Blue Jay,"['blue', 'white', 'black']","{'weight_g': 100, 'wingspan_cm': 43}"
